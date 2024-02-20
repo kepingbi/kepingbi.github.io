@@ -1,0 +1,57 @@
+- title: "KDD'21 - DLP-KDD: The 3rd International Workshop on Deep Learning Practice for High-Dimensional Sparse Data with KDD 2021"
+  group: workshop
+  image: images/workshop/kdd21.jpg
+  authors:
+  - Xiaoqiang Zhu
+  - Kuang-chih Lee
+  - Guorui Zhou
+  - Biye Jiang
+  - Zhe Wang
+  - Kan Ren
+  - Qingyao Ai
+  - Weinan Zhang
+  - Tangrui Ming
+  link: https://dlp-kdd.github.io/
+  venue: "In the 27th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2021)"
+  location: Online
+  date: '2021-08-14'
+  
+- title: "KDD'20 - DLP-KDD: The 2nd International Workshop on Deep Learning Practice for High-Dimensional Sparse Data with KDD 2020"
+  group: workshop
+  image: images/workshop/kdd20.jpg
+  authors:
+  - Xiaoqiang Zhu
+  - Kuang-chih Lee
+  - Guorui Zhou
+  - Biye Jiang
+  - Liang Xiong
+  - Junlin Zhang
+  - Zhe Wang
+  - Zheng Wen
+  - Haitian Liu
+  - Kan Ren
+  - Qingyao Ai
+  - Shandian Zhe
+  - Weinan Zhang
+  link: https://dlp-kdd.github.io/
+  venue: "In the 26th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2020)"
+  location: San Diego, California, USA
+  date: '2020-08-23'
+
+- title: "WSDM'19 - DAPA: The WSDM 2019 Workshop on Deep mAtching in Practical Applications"
+  group: workshop
+  image: images/workshop/wsdm19.jpg
+  authors:
+  - Yixing Fan
+  - Qingyao Ai
+  - Zhaochun Ren
+  - LiangJie Hong
+  - Dawei Yin
+  - Jiafeng Guo
+  link: https://wsdm2019-dapa.github.io/#section-home
+  venue: "In Proceedings of the Twelfth ACM International Conference on Web Search and Data Mining (WSDM 2019)"
+  location: Melbourne, Australia
+  date: '2019-02-15'
+  extra-links:
+    - type: pdf
+      link: https://dl.acm.org/doi/10.1145/3289600.3291375

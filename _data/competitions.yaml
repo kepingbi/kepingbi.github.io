@@ -1,0 +1,48 @@
+- title: "CAIL 2023: 司法大模型 Legal Large Language Model Evaluation"
+  group: current
+  image: images/project/CAIL.jpg
+  link: http://cail.cipsc.org.cn/task_summit.html?raceID=3&cail_tag=2023
+  description: 大语言模型在司法领域的巨大潜力和风险引起了人们对其专业性能评估的迫切需求。为了准确评估大语言模型在司法领域的能力，促进司法大模型的研究，我们从法律认知分类的角度出发，以法律工作者处理、思考和解决法律问题为基准，构建了一个全面的司法领域大模型评估框架。该框架包含六个能力层次的多个任务，实现对大语言模型司法能力的初步评价。
+  tags:
+    - CAIL
+
+- title: "CAIL 2023: 对话式类案检索 Conversational Legal Case Retrieval"
+  group: current
+  image: images/project/CAIL.jpg
+  link: http://cail.cipsc.org.cn/task_summit.html?raceID=2&cail_tag=2023
+  description: 对话式类案检索任务旨在根据多轮自然语言对话的内容，检索到相关的司法文书，本任务是对话式司法系统的重要组成部分。
+  tags:
+    - CAIL
+
+- title: "CAIL 2023: 类案检索 Legal Case Retrieval"
+  group: current
+  image: images/project/CAIL.jpg
+  link: http://cail.cipsc.org.cn/task_summit.html?raceID=3&cail_tag=2023
+  description: 类案检索作为人工智能支持司法审判的重要内容，对于提升法院整体裁判水平、实现类案适法统一、促进司法公正有极其重要的积极意义。本赛道面向刑事类案搜索，具体任务为：给定若干查询案例，每一个查询案例要求从候选案例池中筛选出与查询案例相关的类案。每个查询案例最终的提交形式为TOP30候选案例的排序，类案相似程度划分为四级，越相似的案例应当排名越靠前。
+  tags:
+    - CAIL
+  
+- title: "NTCIR-17: Session Search Task (SS-2)" 
+  group: former
+  image: images/project/ntcir.png
+  link: http://research.nii.ac.jp/ntcir/ntcir-17/tasks.html
+  description: The Session Search (SS) task is a core task in NTCIR-17 to support intensive investigations of session search or task-oriented search. Nowadays, users depend increasingly on search engines to either gain useful information or to complete tasks. In complex search scenarios, a single query may not fully cover user information need. Therefore, users will submit more queries to search systems within a short time interval until they are satisfied or give up. Such a search process is called a search session or task. As users’ search intents may evolve within search sessions, their actions and decisions will also be greatly impacted. Going beyond ad-hoc search and considering the contextual information within sessions has been proved efficient for user intent modeling in IR communities. To this end, we proposed Session Search (SS) task as a pilot task in NTCIR-16. As the second year of organizing SS, we still employ settings that support not only (1) large-scale practical session datasets for model training but also (2) both ad-hoc and session-level evaluation this year. We would update the testing set by collecting data via an upcoming field study. Besides the aforementioned settings, we would also involve a new subtask for participants to design better session-level search effectiveness evaluation metrics. We believe that this will facilitate the development of the IR community in the related domain.
+  tags:
+    - NTCIR
+
+- title: "NTCIR-17: Unbiased Learning to Rank Evaluation Task (ULTRE-2)" 
+  group: former
+  image: images/project/ntcir.png
+  link: http://research.nii.ac.jp/ntcir/ntcir-17/tasks.html
+  description: Unbiased learning to rank (ULTR) aims to train an unbiased ranking model with biased user behavior logs. Due to the difficulties in collecting and sharing large-scale behavior logs in online systems, the evaluation of ULTR models mainly relies on simulation experiments with synthetic click data. However, most existing simulation methods are rather simple and the synthetic data may not match the real-world scenarios. Although many ULTR models have achieved promising results on synthetic data, they still lack guarantees of effectiveness in real-world scenarios. In the ULTRE-2 task, we will evaluate the effectiveness of ULTR models with a new, large-scale user behavior log collected from a commercial Web search engine Baidu. In addition to the real click log, we also provide rich display information (e.g., displayed height and displayed abstract) and other user behavior information (e.g., dwelling time and slip count), enabling the development of more advanced ULTR models.
+  tags:
+    - NTCIR
+
+- title: "NTCIR-16: Unbiased Learning to Ranking Evaluation Task (ULTRE)"
+  group: former
+  image: images/project/ntcir.png
+  link: http://research.nii.ac.jp/ntcir/ntcir-16/tasks.html
+  description: ​Unbiased learning to rank (ULTR) with biased user behavior data has received considerable attention in the IR community. However, how to properly evaluate and compare different ULTR approaches has not been systematically investigated and there is no shared task or benchmark that is specifically developed for ULTR. In this paper, we propose Unbiased Learning to Ranking Evaluation Task (ULTRE) as a pilot task in NTCIR 16. In ULTRE, we plan to design a user-simulation based evaluation protocol and implement an online benchmarking service for the training and evaluation of both offline and online ULTR models. We will also investigate questions of ULTR evaluation, particularly whether and how different user simulation models affect the evaluation results.
+  tags:
+    - NTCIR
+

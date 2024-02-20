@@ -1,0 +1,116 @@
+- title: "SIGIR'21 - Tutorial on Beyond Probability Ranking Principle: Modeling the Dependencies among Documents"
+  group: tutorial
+  image: images/tutorial/sigir21.jpg
+  authors:
+  - Liang Pang
+  - Qingyao Ai
+  - Jun Xu
+  link: https://github.com/pl8787/wsdm2021-beyond-prp-tutorial
+  venue: "In the 44th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2021)"
+  location: "Online"
+  date: '2021-07-11'
+  extra-links:
+    - type: video
+      link: https://www.youtube.com/watch?v=TKKJR9-Pwf4&list=PLa580C4Qeh_MJ-Wklgeth-Qu35Xrgv2CI&index=3
+
+- title: "WSDM'21 - Tutorial on Beyond Probability Ranking Principle: Modeling the Dependencies among Documents"
+  group: tutorial
+  image: images/tutorial/wsdm21.jpg
+  authors:
+  - Liang Pang
+  - Qingyao Ai
+  - Jun Xu
+  link: https://github.com/pl8787/wsdm2021-beyond-prp-tutorial
+  venue: In the 14th ACM International Conference on Web Search and Data Mining (WSDM 2021)
+  location: Israel
+  date: '2021-03-08'
+  extra-links:
+    - type: video
+      link: https://www.youtube.com/watch?v=TKKJR9-Pwf4&list=PLa580C4Qeh_MJ-Wklgeth-Qu35Xrgv2CI&index=3
+
+- title: "ICTIR'19 - Tutorial on Explainable Recommendation and Search"
+  group: tutorial
+  image: images/tutorial/ictir19.jpg
+  authors:
+  - Yongfeng Zhang
+  - Jiaxin Mao
+  - Qingyao Ai
+  link: https://sites.google.com/view/ears-tutorial
+  venue: In the 4nd ACM International Conference on the Theory of Information Retrieval (ICTIR 2019)
+  location: Santa Clara, California, USA.
+  date: '2019-10-01'
+  extra-links:
+    - type: video
+      link: https://www.youtube.com/watch?v=vTNOJts7-Qg
+    - type: slides
+      link: http://yongfeng.me/attach/ears-tutorial.pdf
+
+- title: "SIGIR'19 - Tutorial on Explainable Recommendation and Search"
+  group: tutorial
+  image: images/tutorial/sigir19.jpg
+  authors:
+  - Yongfeng Zhang
+  - Jiaxin Mao
+  - Qingyao Ai
+  link: https://sites.google.com/view/ears-tutorial
+  venue: In Proceedings of the 42th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2019)
+  location: Paris, France
+  date: '2019-07-21'
+  extra-links:
+    - type: pdf
+      link: http://yongfeng.me/attach/zhang-sigir2019.pdf
+    - type: slides
+      link: http://yongfeng.me/attach/ears-tutorial.pdf
+
+- title: "WWW'19 - Tutorial on Explainable Recommendation and Search"
+  group: tutorial
+  image: images/tutorial/www19.jpg
+  authors:
+  - Yongfeng Zhang
+  - Jiaxin Mao
+  - Qingyao Ai
+  link: https://sites.google.com/view/ears-tutorial
+  venue: In Proceedings of the Web Conference 2019 (WWW 2019)
+  location: San Francisco, USA
+  date: '2019-05-13'
+  extra-links:
+    - type: pdf
+      link: http://yongfeng.me/attach/zhang-www2019.pdf
+    - type: slides
+      link: http://yongfeng.me/attach/ears-tutorial.pdf
+
+- title: "CIKM'18 - Unbiased Learning to Rank: Theory and Practice"
+  group: tutorial
+  image: images/tutorial/cikm18.jpg
+  authors:
+  - Qingyao Ai
+  - Jiaxin Mao
+  - Yiqun Liu
+  - W. Bruce Croft
+  link: https://ultr.aiqingyao.org/
+  venue: In Proceedings of the 27th ACM International Conference on Information and Knowledge Management (CIKM 2018)
+  location: Lingotto, Turin, Italy
+  date: '2018-10-22'
+  extra-links:
+    - type: pdf
+      link: https://drive.google.com/file/d/1Z8mnhC9L2UbmS37_fIKymNQNvtfF5Pr1/view
+    - type: slides
+      link: https://drive.google.com/file/d/1fyd3AbmtxTGLeIU6zPcYmaMFXfMQjk-D/view
+
+- title: "ICTIR'18 - Unbiased Learning to Rank: Theory and Practice"
+  group: tutorial
+  image: images/tutorial/ictir18.jpg
+  authors:
+  - Qingyao Ai
+  - Jiaxin Mao
+  - Yiqun Liu
+  - W. Bruce Croft
+  link: https://ultr.aiqingyao.org/
+  venue: In Proceedings of the 4nd ACM International Conference on the Theory of Information Retrieval (ICTIR 2018)
+  location: Tianjin, China
+  date: '2018-09-14'
+  extra-links:
+    - type: slides
+      link: https://drive.google.com/file/d/1fyd3AbmtxTGLeIU6zPcYmaMFXfMQjk-D/view
+
+

@@ -1,0 +1,37 @@
+name: Auto Cite by Crawler
+
+on:
+  push:
+  
+  pull_request:
+    paths:
+      - "_config.yaml"
+  # workflow_dispatch:
+  # schedule:
+  #   - cron: "0 0 * * 1"
+
+jobs:
+  update_research:
+    name: Auto Cite by Crawler
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.9
+      - name: Install packages
+        run: python -m pip install --upgrade --requirement ./auto-cite/requirements.txt
+      - name: Installed package list
+        run: apt list --installed
+      - name: Build updated citations
+        run: python ./auto-cite/auto-cite-by-crawler.py
+        timeout-minutes: 60
+      - name: Commit updated citations
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          file_pattern: "_data/citations.yaml"
+          commit_message: "Generate citations by crawler"
+          push_options: --force
