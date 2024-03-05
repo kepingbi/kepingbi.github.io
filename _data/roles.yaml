@@ -18,6 +18,10 @@ programmer:
   icon: fas fa-code
   text: Programmer
 
+intern:
+  icon: fas fa-code
+  text: Intern
+
 engineer:
   icon: fas fa-database
   text: Engineer

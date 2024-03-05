@@ -1,19 +1,19 @@
 ### basic settings
 
 # site properties and page defaults
-title: Qingyao Ai
-description: Assistant Professor at Department of Computer Science and Technology, Tsinghua University
-logo: images/logo.png
+title: Keping Bi
+description: Assistant Professor at Information of Computing Technology (ICT), Chinese Academy of Sciences (CAS)
+logo: images/logo.jpg
 header: images/background.jpg
 footer: images/background.jpg
-baseurl: "/group/~aiqy"
+baseurl: ""
 
 # site social media and other links
 links:
-  google-scholar: UKqaI5IAAAAJ
-  github: QingyaoAi
-  twitter: QingyaoAi
-  linkedin: qingyao-ai-4ab8306a
+  google-scholar: kJQYiFIAAAAJ
+  github: KepingBi
+  twitter: BiKeping
+  linkedin: keping-bi-b62a3437
 
 ### advanced settings
 
@@ -23,7 +23,8 @@ auto-cite:
     - name: sources
       input:
         - ../_data/sources.yaml
-  dblp-link: https://dblp.uni-trier.de/pid/169/1808.ris
+  # dblp-link: https://dblp.uni-trier.de/pid/169/1808.ris #Qingyao
+  dblp-link: https://dblp.uni-trier.de/pid/56/10886.ris
   output: ../_data/citations.yaml
   depth: 100
 

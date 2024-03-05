@@ -1,7 +1,7 @@
 ---
 title: Tutorial
-nav:
-  order: 3
+# nav:
+#   order: 3
 #  tooltip: 项目与基金
 ---
 

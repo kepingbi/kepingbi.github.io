@@ -2,6 +2,9 @@ from util import *
 from importlib import import_module
 import urllib.request
 import re
+import ssl
+ssl._create_default_https_context = ssl._create_unverified_context
+# this is to fix the error of "urlopen error [SSL: CERTIFICATE_VERIFY_FAILED]"
 
 CCF_CPAPER_list = {
     'A' : ['SIGIR', 'WWW', 'AAAI', 'KDD'],
@@ -44,7 +47,7 @@ def load_publication_ris_from_dblp(url):
     # Open the URL and read the data
     with urllib.request.urlopen(url) as response:
         data = response.read().decode('utf-8') # Assuming the data is in UTF-8 encoding
-
+    pub_titles = set()
     # Process the data as needed
     publications = []
     for pub in data.strip().split('\n\n')[1:]:
@@ -61,6 +64,10 @@ def load_publication_ris_from_dblp(url):
             else:
                 entry[key].append(value)
         entry['TI'] = entry['TI'].replace('.','')
+        cur_title = entry['TI'].replace('^','')
+        if cur_title in pub_titles:
+            continue
+        pub_titles.add(cur_title)
         # Remove session chairs pub:
         flag = False
         for ts in TI_avoid_start_list:

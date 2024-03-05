@@ -1,8 +1,10 @@
 import os,sys
 import urllib.request
 import re
-
 #dblp_url = 'https://dblp.uni-trier.de/pid/169/1808.ris'
+import ssl
+ssl._create_default_https_context = ssl._create_unverified_context
+
 
 CCF_CPAPER_list = {
 	'A' : ['SIGIR', 'WWW', 'AAAI', 'KDD'],

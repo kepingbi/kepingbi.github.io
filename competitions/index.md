@@ -1,7 +1,7 @@
 ---
 title: Competitions
-nav:
-  order: 6
+# nav:
+#   order: 6
   # tooltip: 开源项目与数据
 ---
 

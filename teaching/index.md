@@ -1,7 +1,7 @@
 ---
 title: Teaching
-nav:
-  order: 8
+# nav:
+#   order: 8
 
 ---
 

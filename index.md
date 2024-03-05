@@ -9,26 +9,25 @@ nav:
 {% capture left_panel %}
 
 {%- assign image = "/images/profile.jpg" | default: "" -%}
-![Qingyao Ai]({{ image | relative_url }})
-# Qingyao Ai<br/>艾清遥
+![Keping Bi]({{ image | relative_url }})
+# Keping Bi<br/>毕可平
 
 <p class="center">
 
 
 Assistant Professor<br/>
-Dept. of CS&T<br/>
-Tsinghua University<br/>
-Beijing, 100084<br/>
+Information of Computing Technology (ICT)<br/>
+Chinese Academy of Sciences (CAS)<br/>
 
-Office: FIT-1-506<br/>
-Lab: FIT-1-506<br/>
+NO. 6 Kexueyuan South Road<br/>
+Haidian District, Beijing, 100190<br/>
 
 <br/>
-{%- include link.html type="google-scholar" icon="" text="Google Scholar" tooltip="" link="UKqaI5IAAAAJ" -%}<br/>
-{%- include link.html type="github" icon="" text="Github" tooltip="" link="QingyaoAi" -%}<br/>
-{%- include link.html type="twitter" icon="" text="Twitter" tooltip="" link="QingyaoAi" -%}<br/>
-{%- include link.html type="linkedin" icon="" text="Linkedin" tooltip="" link="qingyao-ai-4ab8306a" -%}<br/>
-{%- include link.html type="email" icon="" text="Email" tooltip="" link="aiqy@tsinghua.edu.cn" -%}<br/>
+{%- include link.html type="google-scholar" icon="" text="Google Scholar" tooltip="" link="kJQYiFIAAAAJ" -%}<br/>
+{%- include link.html type="github" icon="" text="Github" tooltip="" link="KepingBi" -%}<br/>
+{%- include link.html type="twitter" icon="" text="Twitter" tooltip="" link="BiKeping" -%}<br/>
+{%- include link.html type="linkedin" icon="" text="Linkedin" tooltip="" link="keping-bi-b62a3437" -%}<br/>
+{%- include link.html type="email" icon="" text="Email" tooltip="" link="bikeping@ict.ac.cn" -%}<br/>
 
 </p>
 
@@ -37,51 +36,40 @@ Lab: FIT-1-506<br/>
 {% capture main_panel %}
 
 
-**Qingyao Ai**, Assistant Professor at Department of Computer Science and Technology, Tsinghua University
+**Keping Bi**, Assistant Professor at Information of Computing Technology (ICT), Chinese Academy of Sciences (CAS)
 
-My research mainly focuses on Information Retrieval and Machine Learning related topics. Currently I'm working on applying machine learning techniques on IR problems including ranking optimization, document retrieval, conversational search, and more. 
-
-I got my MS/Ph.D degree from College of Information and Computer Sciences, University of Massachusetts Amherst, advised by Prof. [W. Bruce Croft](http://ciir.cs.umass.edu/croft) in the [Center for Intelligent Information Retrieval (CIIR)](http://ciir.cs.umass.edu/). And I got my bachelor degree from Dept. Computer Science & Technology, Tsinghua University. 
-
-
+My research primarily focuses on Information Retrieval, with a special emphasis on dense retrieval, conversational search, and the emerging field of retrieval-augmented generation. Additionally, I am deeply interested in Trustworthy AI, particularly in relation to information-seeking systems, such as unbiased learning, model robustness, and implicit bias evaluation. I earned my Ph.D. from the College of Information and Computer Sciences at the University of Massachusetts (UMass) Amherst, under the guidance of Professor [W. Bruce Croft](http://ciir.cs.umass.edu/croft) at the [Center for Intelligent Information Retrieval (CIIR)](http://ciir.cs.umass.edu/). I also hold two master's degrees—one in computer science from UMass Amherst and another in machine intelligence from Peking University—and a bachelor's degree in Computer Science from Nankai University.
 
 **Experience**
 
-- Tsinghua University, Tenure-track Assistant Professor at [THUIR](http://ai.thuir.cn/). Beijing, China, Aug. 2022 - now
-- University of Utah, Tenure-track Assistant Professor. Salt Lake City, UT, USA, Aug. 2019 - Jun. 2022
-- University of Massachusetts, Amherst, Research Assistant in [CIIR](http://ciir.cs.umass.edu/), advised by Prof. [W. Bruce Croft](http://ciir.cs.umass.edu/croft). Amherst, MA, USA, Sept. 2014 - Jul. 2019
-- Amazon Search, Data scientist Intern, mentored by [Danial Hill](http://www.danielnhill.com/) and [S. V. N. Vishwanathan](https://www.stat.purdue.edu/~vishy/main.html), Palo Alto, CA, USA, May 2018 - Aug. 2018
-- Google Research, Ph.D. Intern, mentored by [Xuanhui Wang](https://research.google/people/XuanhuiWang/), [Nadav Golbandi](https://research.google/people/105605/) and [Michael Bendersky](http://bendersky.github.io/), CA, USA, Jun. 2017 - Sept. 2017
-- Microsoft Research, Research Intern in CLUES, mentored by [Susan Dumais](http://susandumais.com/) and [Nick Craswell](https://www.microsoft.com/en-us/research/people/nickcr/). Redmond, WA, USA,  Jun. 2015 - Sept. 2015
-- Tsinghua University, undergraduate thesis project in [THUIR](http://ai.thuir.cn/), advised by Prof. [Yiqun Liu](http://www.thuir.cn/group/~YQLiu/). Beijing, China, Sept. 2012 - Jun. 2014
-
+- Assistant Professor at [Information of Computing Technology (ICT)](http://english.ict.cas.cn/), CAS, Beijing, China, Oct. 2022 - now
+- Microsoft Search Intelligence & Assistant, Applied Scientist II, USA, July 2021 - August 2022
+- University of Massachusetts, Amherst, Research Assistant in [CIIR](http://ciir.cs.umass.edu/), advised by Prof. [W. Bruce Croft](http://ciir.cs.umass.edu/croft). Amherst, MA, USA, Sept. 2015 - Jul. 2021
+- Microsoft Research and MSAI, joint Research Intern, mentored by [Dr. Pavel Metrikov](https://www.linkedin.com/in/pavel-metrikov-a46525a/) and [Dr. Chunyuan Li](https://chunyuan.li/), Remote Internship, USA, July 2020 - August 2020
+- Microsoft Research and MSAI, joint Research Intern, mentored by [Dr. Rahul Jha](https://rahuljha.github.io/) and [Dr. Asli Celikyilmaz](http://asli.us/), Bellevue, WA, USA, May 2019 - August 2019
+- Amazon Search, Research Scientist Intern in Search Labs, mentored by [Dr. Choon Hui Teo](https://www.linkedin.com/in/choon-hui-teo-6037b69/), Palo Alto, CA, USA, May 2018 - August 2018
+- Baidu Web Search, Senior Research Engineer at Learning to Rank Group, Beijing, China, July 2012 - July 2015
+- Yahoo! Labs, Intern Scientist, supervised by [Dr. Xin Fan](https://scholar.google.com/citations?user=2CbQKWcAAAAJ), Beijing, China, June 2012 - July 2012
+- Microsoft Research Asia, Research Intern at Information Retrieval and Mining Group, mentored by [Dr. Yunhua Hu](https://dblp.org/pid/34/3973.html) and [Dr. Hang Li](https://www.linkedin.com/in/hang-li-84aa6314/), Beijing, China, May 2010 - Feb. 2011
 
 
 **Achievements**
 
-- [Google Research Scholar Award](https://ai.googleblog.com/2021/04/announcing-2021-research-scholar.html)
-- UMass CICS Accomplishments in Search & Mining Awards, 2017
-- Ph.D. Qualifying Exam (Portfolio) passed with distinction, 2016
-- Outstanding Bachelor Graduate of Beijing (top 1%), 2014
-- Outstanding Bachelor Graduate of Tsinghua (top 10%), 2014
-- Excellent Undergraduate Thesis Award (top 4), 2014
-- Tsinghua Laboratory Contribution Award, Third Prize, 2014
-- Tsinghua Zhong Shi-Mo Scholarship (the highest award for students in Dept. CS&T, top 1), 2012
-
-
+- New Hundred Stars Talent Program, ICT (top 4), 2022
+- Baidu Highest Award Nomination (top 10/180+,  $1 million reward for teams of 10 or less members), 2014
+- Promoted Twice at Baidu, 2013, 2014
+- Tencent Campus Practice Competition, Third Prize (top 10%), 2010
+- Outstanding Student Leader of Nankai University (top 5%, 3 times)
+- TEDA-Motorola Scholarship (top 10%, gave a speech as a student representative), 2007
 
 **Services**
-- SIGIR-AP 2023 General Chair
-- SIGIR Student Affairs Chair
-- CCIR Student Affairs Chair
+- SIGIR-AP 2023 Registration Chair
 - Area Chair/Senior PC Member
-  - SIGIR, CIKM, NAACL-HLT, EMNLP, LREC-COLING 
-- Guest Editor
-  - [TOIS Special Issue on Pre-trained Models for Search and Recommendation](https://dl.acm.org/journal/tois/calls-for-papers)
+  - LREC-COLING 
 - PC Member: 
-  - SIGIR, WWW, CIKM, ACL, AAAI, EMNLP, ECIR, AIRS, CCL
+  - SIGIR, WWW, CIKM, ACL
 - Journal Review: 
-  - TOIS, TPAMI, JMLR, TKDE, TOIT, IPM, IRJ, KAIS, JASIST
+  - TOIS, TKDE, IPM, TIST, JASIST, IEEE Access
 
 {% endcapture %}
 

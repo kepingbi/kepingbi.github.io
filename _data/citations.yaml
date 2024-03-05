@@ -1,606 +1,134 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM DBLP.
 
-- title: A Reusable Model-agnostic Framework for Faithfully Explainable Recommendation
-    and System Scrutability
+- title: Reproducibility Analysis and Enhancements for Multi-Aspect Dense Retriever
+    with Aspect Learning
   authors:
-  - Zhichao Xu
-  - Hansi Zeng
-  - Juntao Tan
-  - Zuohui Fu
-  - Yongfeng Zhang
-  - Qingyao Ai
-  publisher: ACM Trans. Inf. Syst.
-  date: '2024-01-01'
-  link: https://doi.org/10.1145/3605357
-- id: incorporating structural information into legal case retrieval
-  title: Incorporating Structural Information into Legal Case Retrieval
-  authors:
-  - Yixiao Ma
-  - Yueyue Wu
-  - Qingyao Ai
-  - Yiqun Liu
-  - Yunqiu Shao
-  - Min Zhang
-  - Shaoping Ma
-  publisher: ACM Trans. Inf. Syst.
-  date: 2024-3-30
-  link: https://doi.org/10.1145/3609796
-- title: An Intent Taxonomy of Legal Case Retrieval
-  authors:
-  - Yunqiu Shao
-  - Haitao Li
-  - Yueyue Wu
-  - Yiqun Liu
-  - Qingyao Ai
-  - Jiaxin Mao
-  - Yixiao Ma
-  - Shaoping Ma
-  publisher: ACM Trans. Inf. Syst.
-  date: 2024-3-29
-  link: https://doi.org/10.1145/3626093
-- title: 'Information Retrieval Meets Large Language Models: A Strategic Report from
-    Chinese IR Community'
-  authors:
-  - Qingyao Ai
-  - Ting Bai
-  - Zhao Cao
-  - Yi Chang
-  - Jiawei Chen
-  - Zhumin Chen
-  - Zhiyong Cheng
-  - Shoubin Dong
-  - Zhicheng Dou
-  - Fuli Feng
-  - Shen Gao
+  - Keping Bi
+  - Xiaojie Sun
   - Jiafeng Guo
-  - Xiangnan He
-  - Yanyan Lan
-  - Chenliang Li
-  - Yiqun Liu
-  - Ziyu Lyu
-  - Weizhi Ma
-  - Jun Ma
-  - Zhaochun Ren
-  - Pengjie Ren
-  - Zhiqiang Wang
-  - Mingwen Wang
-  - Ji-Rong Wen
-  - Le Wu
-  - Xin Xin
-  - Jun Xu
-  - Dawei Yin
-  - Peng Zhang
-  - Fan Zhang
-  - Weinan Zhang
-  - Min Zhang
-  - Xiaofei Zhu
-  publisher: AI Open
-  date: '2023-01-01'
-  link: https://doi.org/10.1016/j.aiopen.2023.08.001
-- title: 'I3 Retriever: Incorporating Implicit Interaction in Pre-trained Language
-    Models for Passage Retrieval'
-  authors:
-  - Qian Dong
-  - Yiding Liu
-  - Qingyao Ai
-  - Haitao Li
-  - Shuaiqiang Wang
-  - Yiqun Liu
-  - Dawei Yin
-  - Shaoping Ma
-  publisher: Proceedings of the 32nd ACM International Conference on Information and
-    Knowledge Management, CIKM 2023, Birmingham, United Kingdom, October 21-25, 2023
-  date: '2023-01-01'
-  link: https://doi.org/10.1145/3583780.3614923
-- title: Leveraging Event Schema to Ask Clarifying Questions for Conversational Legal
-    Case Retrieval
-  authors:
-  - Bulou Liu
-  - Yiran Hu
-  - Qingyao Ai
-  - Yiqun Liu
-  - Yueyue Wu
-  - Chenliang Li
-  - Weixing Shen
-  publisher: Proceedings of the 32nd ACM International Conference on Information and
-    Knowledge Management, CIKM 2023, Birmingham, United Kingdom, October 21-25, 2023
-  date: '2023-01-01'
-  link: https://doi.org/10.1145/3583780.3614953
-- title: 'FARA: Future-aware Ranking Algorithm for Fairness Optimization'
-  authors:
-  - Tao Yang
-  - Zhichao Xu
-  - Zhenduo Wang
-  - Qingyao Ai
-  publisher: Proceedings of the 32nd ACM International Conference on Information and
-    Knowledge Management, CIKM 2023, Birmingham, United Kingdom, October 21-25, 2023
-  date: '2023-01-01'
-  link: https://doi.org/10.1145/3583780.3614877
-- title: 'CaseEncoder: A Knowledge-enhanced Pre-trained Model for Legal Case Encoding'
-  authors:
-  - Yixiao Ma
-  - Yueyue Wu
-  - Weihang Su
-  - Qingyao Ai
-  - Yiqun Liu
-  publisher: Proceedings of the 2023 Conference on Empirical Methods in Natural Language
-    Processing, EMNLP 2023, Singapore, December 6-10, 2023
-  date: '2023-01-01'
-  link: https://aclanthology.org/2023.emnlp-main.441
-- title: Constructing Tree-based Index for Efficient and Effective Dense Retrieval
-  authors:
-  - Haitao Li
-  - Qingyao Ai
-  - Jingtao Zhan
-  - Jiaxin Mao
-  - Yiqun Liu
-  - Zheng Liu
-  - Zhao Cao
-  publisher: Proceedings of the 46th International ACM SIGIR Conference on Research
-    and Development in Information Retrieval, SIGIR 2023, Taipei, Taiwan, July 23-27,
-    2023
-  date: '2023-01-01'
-  link: https://doi.org/10.1145/3539618.3591651
-- title: 'SAILER: Structure-aware Pre-trained Language Model for Legal Case Retrieval'
-  authors:
-  - Haitao Li
-  - Qingyao Ai
-  - Jia Chen
-  - Qian Dong
-  - Yueyue Wu
-  - Yiqun Liu
-  - Chong Chen
-  - Qi Tian
-  publisher: Proceedings of the 46th International ACM SIGIR Conference on Research
-    and Development in Information Retrieval, SIGIR 2023, Taipei, Taiwan, July 23-27,
-    2023
-  date: '2023-01-01'
-  link: https://doi.org/10.1145/3539618.3591761
-- title: Behavior Modeling for Point of Interest Search
-  authors:
-  - Haitian Chen
-  - Qingyao Ai
-  - Zhijing Wu
-  - Zhihong Wang
-  - Yiqun Liu
-  - Min Zhang
-  - Shaoping Ma
-  - Juan Hu
-  - Naiqiang Tan
-  - Hua Chai
-  publisher: Proceedings of the 46th International ACM SIGIR Conference on Research
-    and Development in Information Retrieval, SIGIR 2023, Taipei, Taiwan, July 23-27,
-    2023
-  date: '2023-01-01'
-  link: https://doi.org/10.1145/3539618.3591955
-- title: Metric-agnostic Ranking Optimization
-  authors:
-  - Qingyao Ai
-  - Xuanhui Wang
-  - Michael Bendersky
-  publisher: Proceedings of the 46th International ACM SIGIR Conference on Research
-    and Development in Information Retrieval, SIGIR 2023, Taipei, Taiwan, July 23-27,
-    2023
-  date: '2023-01-01'
-  link: https://doi.org/10.1145/3539618.3591935
-- title: 'Chuweb21D: A Deduped English Document Collection for Web Search Tasks'
-  authors:
-  - Zhumin Chu
-  - Tetsuya Sakai
-  - Qingyao Ai
-  - Yiqun Liu
-  publisher: Annual International ACM SIGIR Conference on Research and Development
-    in Information Retrieval in the Asia Pacific Region, SIGIR-AP 2023, Beijing, China,
-    November 26-28, 2023
-  date: '2023-01-01'
-  link: https://doi.org/10.1145/3624918.3625317
-- title: Result Diversification for Legal case Retrieval
-  authors:
-  - Ruizhe Zhang
-  - Qingyao Ai
-  - Yueyue Wu
-  - Yixiao Ma
-  - Yiqun Liu
-  publisher: Annual International ACM SIGIR Conference on Research and Development
-    in Information Retrieval in the Asia Pacific Region, SIGIR-AP 2023, Beijing, China,
-    November 26-28, 2023
-  date: '2023-01-01'
-  link: https://doi.org/10.1145/3624918.3625319
-- title: Investigating the Influence of Legal Case Retrieval Systems on Users' Decision
-    Process
-  authors:
-  - Beining Wang
-  - Ruizhe Zhang
-  - Yueyue Wu
-  - Qingyao Ai
-  - Min Zhang
-  - Yiqun Liu
-  publisher: Annual International ACM SIGIR Conference on Research and Development
-    in Information Retrieval in the Asia Pacific Region, SIGIR-AP 2023, Beijing, China,
-    November 26-28, 2023
-  date: '2023-01-01'
-  link: https://doi.org/10.1145/3624918.3625321
-- title: Vertical Allocation-based Fair Exposure Amortizing in Ranking
-  authors:
-  - Tao Yang
-  - Zhichao Xu
-  - Qingyao Ai
-  publisher: Annual International ACM SIGIR Conference on Research and Development
-    in Information Retrieval in the Asia Pacific Region, SIGIR-AP 2023, Beijing, China,
-    November 26-28, 2023
-  date: '2023-01-01'
-  link: https://doi.org/10.1145/3624918.3625313
-- title: Marginal-Certainty-Aware Fair Ranking Algorithm
-  authors:
-  - Tao Yang
-  - Zhichao Xu
-  - Zhenduo Wang
-  - Anh Tran
-  - Qingyao Ai
-  publisher: Proceedings of the Sixteenth ACM International Conference on Web Search
-    and Data Mining, WSDM 2023, Singapore, 27 February 2023 - 3 March 2023.
-  date: '2023-01-01'
-  link: https://doi.org/10.1145/3539597.3570474
-- title: Model-based Unbiased Learning to Rank
-  authors:
-  - Dan Luo
-  - Lixin Zou
-  - Qingyao Ai
-  - Zhiyu Chen
-  - Dawei Yin
-  - Brian D. Davison
-  publisher: Proceedings of the Sixteenth ACM International Conference on Web Search
-    and Data Mining, WSDM 2023, Singapore, 27 February 2023 - 3 March 2023.
-  date: '2023-01-01'
-  link: https://doi.org/10.1145/3539597.3570395
-- title: Zero-shot Clarifying Question Generation for Conversational Search
-  authors:
-  - Zhenduo Wang
-  - Yuancheng Tu
-  - Corby Rosset
-  - Nick Craswell
-  - Ming Wu
-  - Qingyao Ai
-  publisher: Proceedings of the ACM Web Conference 2023, WWW 2023, Austin, TX, USA,
-    30 April 2023 - 4 May 2023
-  date: '2023-01-01'
-  link: https://doi.org/10.1145/3543507.3583420
-- title: Counterfactual Editing for Search Result Explanation
-  authors:
-  - Zhichao Xu
-  - Hemank Lamba
-  - Qingyao Ai
-  - Joel R. Tetreault
-  - Alex Jaimes
+  - Xueqi Cheng
   publisher: CoRR
-  date: '2023-01-01'
-  link: https://doi.org/10.48550/arXiv.2301.10389
-- title: Diverse legal case search
+  date: '2024-12-30'
+  link: https://doi.org/10.48550/arXiv.2401.03648
+- title: When Do LLMs Need Retrieval Augmentation? Mitigating LLMs' Overconfidence
+    Helps Retrieval Augmentation
   authors:
-  - Ruizhe Zhang
-  - Qingyao Ai
-  - Yueyue Wu
-  - Yixiao Ma
-  - Yiqun Liu
+  - Shiyu Ni
+  - Keping Bi
+  - Jiafeng Guo
+  - Xueqi Cheng
   publisher: CoRR
-  date: '2023-01-01'
-  link: https://doi.org/10.48550/arXiv.2301.12504
-- title: 'Towards Better Web Search Performance: Pre-training, Fine-tuning and Learning
-    to Rank'
-  authors:
-  - Haitao Li
-  - Jia Chen
-  - Weihang Su
-  - Qingyao Ai
-  - Yiqun Liu
-  publisher: CoRR
-  date: '2023-01-01'
-  link: https://doi.org/10.48550/arXiv.2303.04710
-- title: An In-depth Investigation of User Response Simulation for Conversational
-    Search
-  authors:
-  - Zhenduo Wang
-  - Zhichao Xu
-  - Qingyao Ai
-  - Vivek Srikumar
-  publisher: CoRR
-  date: '2023-01-01'
-  link: https://doi.org/10.48550/arXiv.2304.07944
-- title: Reward-free Policy Imitation Learning for Conversational Search
-  authors:
-  - Zhenduo Wang
-  - Zhichao Xu
-  - Qingyao Ai
-  publisher: CoRR
-  date: '2023-01-01'
-  link: https://doi.org/10.48550/arXiv.2304.07988
-- title: 'THUIR at WSDM Cup 2023 Task 1: Unbiased Learning to Rank'
-  authors:
-  - Jia Chen
-  - Haitao Li
-  - Weihang Su
-  - Qingyao Ai
-  - Yiqun Liu
-  publisher: CoRR
-  date: '2023-01-01'
-  link: https://doi.org/10.48550/arXiv.2304.12650
-- title: 'THUIR@COLIEE 2023: Incorporating Structural Knowledge into Pre-trained Language
-    Models for Legal Case Retrieval'
-  authors:
-  - Haitao Li
-  - Weihang Su
-  - Changyue Wang
-  - Yueyue Wu
-  - Qingyao Ai
-  - Yiqun Liu
-  publisher: CoRR
-  date: '2023-01-01'
-  link: https://doi.org/10.48550/arXiv.2305.06812
-- title: 'THUIR@COLIEE 2023: More Parameters and Legal Knowledge for Legal Case Entailment'
-  authors:
-  - Haitao Li
-  - Changyue Wang
-  - Weihang Su
-  - Yueyue Wu
-  - Qingyao Ai
-  - Yiqun Liu
-  publisher: CoRR
-  date: '2023-01-01'
-  link: https://doi.org/10.48550/arXiv.2305.06817
-- title: Unconfounded Propensity Estimation for Unbiased Ranking
-  authors:
-  - Dan Luo
-  - Lixin Zou
-  - Qingyao Ai
-  - Zhiyu Chen
-  - Chenliang Li
-  - Dawei Yin
-  - Brian D. Davison
-  publisher: CoRR
-  date: '2023-01-01'
-  link: https://doi.org/10.48550/arXiv.2305.09918
-- title: Mitigating Exploitation Bias in Learning to Rank with an Uncertainty-aware
-    Empirical Bayes Approach
-  authors:
-  - Tao Yang
-  - Cuize Han
-  - Chen Luo
-  - Parth Gupta
-  - Jeff M. Phillips
-  - Qingyao Ai
-  publisher: CoRR
-  date: '2023-01-01'
-  link: https://doi.org/10.48550/arXiv.2305.16606
-- title: 'I^3 Retriever: Incorporating Implicit Interaction in Pre-trained Language
-    Models for Passage Retrieval'
-  authors:
-  - Qian Dong
-  - Yiding Liu
-  - Qingyao Ai
-  - Haitao Li
-  - Shuaiqiang Wang
-  - Yiqun Liu
-  - Dawei Yin
-  - Shaoping Ma
-  publisher: CoRR
-  date: '2023-01-01'
-  link: https://doi.org/10.48550/arXiv.2306.02371
-- title: 'GNN4EEG: A Benchmark and Toolkit for Electroencephalography Classification
-    with Graph Neural Network'
-  authors:
-  - Kaiyuan Zhang
-  - Ziyi Ye
-  - Qingyao Ai
-  - Xiaohui Xie
-  - Yiqun Liu
-  publisher: CoRR
-  date: '2023-01-01'
-  link: https://doi.org/10.48550/arXiv.2309.15515
-- title: Aligning the Capabilities of Large Language Models with the Context of Information
-    Retrieval via Contrastive Feedback
-  authors:
-  - Qian Dong
-  - Yiding Liu
-  - Qingyao Ai
-  - Zhijing Wu
-  - Haitao Li
-  - Yiqun Liu
-  - Shuaiqiang Wang
-  - Dawei Yin
-  - Shaoping Ma
-  publisher: CoRR
-  date: '2023-01-01'
-  link: https://doi.org/10.48550/arXiv.2309.17078
-- title: 'LeCaRDv2: A Large-Scale Chinese Legal Case Retrieval Dataset'
-  authors:
-  - Haitao Li
-  - Yunqiu Shao
-  - Yueyue Wu
-  - Qingyao Ai
-  - Yixiao Ma
-  - Yiqun Liu
-  publisher: CoRR
-  date: '2023-01-01'
-  link: https://doi.org/10.48550/arXiv.2310.17609
-- title: 'Caseformer: Pre-training for Legal Case Retrieval'
-  authors:
-  - Weihang Su
-  - Qingyao Ai
-  - Yueyue Wu
-  - Yixiao Ma
-  - Haitao Li
-  - Yiqun Liu
-  publisher: CoRR
-  date: '2023-01-01'
-  link: https://doi.org/10.48550/arXiv.2311.00333
-- title: Language Generation from Human Brain Activities
-  authors:
-  - Ziyi Ye
-  - Qingyao Ai
-  - Yiqun Liu
-  - Min Zhang
-  - Christina Lioma
-  - Tuukka Ruotsalo
-  publisher: CoRR
-  date: '2023-01-01'
-  link: https://doi.org/10.48550/arXiv.2311.09889
-- title: Relevance Feedback with Brain Signals
-  authors:
-  - Ziyi Ye
-  - Xiaohui Xie
-  - Qingyao Ai
-  - Yiqun Liu
-  - Zhihong Wang
-  - Weihang Su
-  - Min Zhang
-  publisher: CoRR
-  date: '2023-01-01'
-  link: https://doi.org/10.48550/arXiv.2312.05669
-- title: 'Wikiformer: Pre-training with Structured Information of Wikipedia for Ad-hoc
-    Retrieval'
-  authors:
-  - Weihang Su
-  - Qingyao Ai
-  - Xiangsheng Li
-  - Jia Chen
-  - Yiqun Liu
-  - Xiaolong Wu
-  - Shengluan Hou
-  publisher: CoRR
-  date: '2023-01-01'
-  link: https://doi.org/10.48550/arXiv.2312.10661
-- title: Simulating and Modeling the Risk of Conversational Search
-  authors:
-  - Zhenduo Wang
-  - Qingyao Ai
-  publisher: ACM Trans. Inf. Syst.
-  date: '2022-01-01'
-  link: https://doi.org/10.1145/3507357
-- title: 'Hard Negatives or False Negatives: Correcting Pooling Bias in Training Neural
-    Ranking Models'
+  date: '2024-12-29'
+  link: https://doi.org/10.48550/arXiv.2402.11457
+- title: 'L2R: Lifelong Learning for First-stage Retrieval with Backward-Compatible
+    Representations'
   authors:
   - Yinqiong Cai
-  - Jiafeng Guo
+  - Keping Bi
   - Yixing Fan
-  - Qingyao Ai
+  - Jiafeng Guo
+  - Wei Chen
+  - Xueqi Cheng
+  publisher: Proceedings of the 32nd ACM International Conference on Information and
+    Knowledge Management, CIKM 2023, Birmingham, United Kingdom, October 21-25, 2023
+  date: '2023-12-28'
+  link: https://doi.org/10.1145/3583780.3614947
+- title: Pre-training with Aspect-Content Text Mutual Prediction for Multi-Aspect
+    Dense Retrieval
+  authors:
+  - Xiaojie Sun
+  - Keping Bi
+  - Jiafeng Guo
+  - Xinyu Ma
+  - Yixing Fan
+  - Hongyu Shan
+  - Qishen Zhang
+  - Zhongyi Liu
+  publisher: Proceedings of the 32nd ACM International Conference on Information and
+    Knowledge Management, CIKM 2023, Birmingham, United Kingdom, October 21-25, 2023
+  date: '2023-12-27'
+  link: https://doi.org/10.1145/3583780.3615157
+- title: A Comparative Study of Training Objectives for Clarification Facet Generation
+  authors:
+  - Shiyu Ni
+  - Keping Bi
+  - Jiafeng Guo
+  - Xueqi Cheng
+  publisher: Annual International ACM SIGIR Conference on Research and Development
+    in Information Retrieval in the Asia Pacific Region, SIGIR-AP 2023, Beijing, China,
+    November 26-28, 2023
+  date: '2023-12-26'
+  link: https://doi.org/10.1145/3624918.3625332
+- title: Feature-Enhanced Network with Hybrid Debiasing Strategies for Unbiased Learning
+    to Rank
+  authors:
+  - Lulu Yu
+  - Yiting Wang
+  - Xiaojie Sun
+  - Keping Bi
+  - Jiafeng Guo
+  publisher: CoRR
+  date: '2023-12-25'
+  link: https://doi.org/10.48550/arXiv.2302.07530
+- title: Ensemble Ranking Model with Multiple Pretraining Strategies for Web Search
+  authors:
+  - Xiaojie Sun
+  - Lulu Yu
+  - Yiting Wang
+  - Keping Bi
+  - Jiafeng Guo
+  publisher: CoRR
+  date: '2023-12-24'
+  link: https://doi.org/10.48550/arXiv.2302.09340
+- title: CIR at the NTCIR-17 ULTRE-2 Task
+  authors:
+  - Lulu Yu
+  - Keping Bi
+  - Jiafeng Guo
+  - Xueqi Cheng
+  publisher: CoRR
+  date: '2023-12-22'
+  link: https://doi.org/10.48550/arXiv.2310.11852
+- title: 'CAME: Competitively Learning a Mixture-of-Experts Model for First-stage
+    Retrieval'
+  authors:
+  - Yinqiong Cai
+  - Yixing Fan
+  - Keping Bi
+  - Jiafeng Guo
+  - Wei Chen
   - Ruqing Zhang
   - Xueqi Cheng
-  publisher: Proceedings of the 31st ACM International Conference on Information &
-    Knowledge Management, Atlanta, GA, USA, October 17-21, 2022
-  date: '2022-01-01'
-  link: https://doi.org/10.1145/3511808.3557343
-- title: 'Can Clicks Be Both Labels and Features?: Unbiased Behavior Feature Collection
-    and Uncertainty-aware Learning to Rank'
-  authors:
-  - Tao Yang
-  - Chen Luo
-  - Hanqing Lu
-  - Parth Gupta
-  - Bing Yin
-  - Qingyao Ai
-  publisher: 'SIGIR ''22: The 45th International ACM SIGIR Conference on Research
-    and Development in Information Retrieval, Madrid, Spain, July 11 - 15, 2022'
-  date: '2022-01-01'
-  link: https://doi.org/10.1145/3477495.3531948
-- title: Incorporating Retrieval Information into the Truncation of Ranking Lists
-    for Better Legal Search
-  authors:
-  - Yixiao Ma
-  - Qingyao Ai
-  - Yueyue Wu
-  - Yunqiu Shao
-  - Yiqun Liu
-  - Min Zhang
-  - Shaoping Ma
-  publisher: 'SIGIR ''22: The 45th International ACM SIGIR Conference on Research
-    and Development in Information Retrieval, Madrid, Spain, July 11 - 15, 2022'
-  date: '2022-01-01'
-  link: https://doi.org/10.1145/3477495.3531998
-- title: Effective Exposure Amortizing for Fair Top-k Recommendation
-  authors:
-  - Tao Yang
-  - Zhichao Xu
-  - Qingyao Ai
   publisher: CoRR
-  date: '2022-01-01'
-  link: https://doi.org/10.48550/arXiv.2204.03046
-- title: Learning to Rank Rationales for Explainable Recommendation
+  date: '2023-12-21'
+  link: https://doi.org/10.48550/arXiv.2311.02834
+- title: A Multi-Granularity-Aware Aspect Learning Model for Multi-Aspect Dense Retrieval
   authors:
-  - Zhichao Xu
-  - Yi Han
-  - Tao Yang
-  - Anh Tran
-  - Qingyao Ai
+  - Xiaojie Sun
+  - Keping Bi
+  - Jiafeng Guo
+  - Sihui Yang
+  - Qishen Zhang
+  - Zhongyi Liu
+  - Guannan Zhang
+  - Xueqi Cheng
   publisher: CoRR
-  date: '2022-01-01'
-  link: https://doi.org/10.48550/arXiv.2206.05368
-- title: Disentangled Modeling of Domain and Relevance for Adaptable Dense Retrieval
+  date: '2023-12-20'
+  link: https://doi.org/10.48550/arXiv.2312.02538
+- title: 'AREDSUM: Adaptive Redundancy-Aware Iterative Sentence Ranking for Extractive
+    Document Summarization'
   authors:
-  - Jingtao Zhan
-  - Qingyao Ai
-  - Yiqun Liu
-  - Jiaxin Mao
-  - Xiaohui Xie
-  - Min Zhang
-  - Shaoping Ma
-  publisher: CoRR
-  date: '2022-01-01'
-  link: https://doi.org/10.48550/arXiv.2208.05753
-- title: Reinforcement Learning to Rank with Coarse-grained Labels
-  authors:
-  - Zhichao Xu
-  - Anh Tran
-  - Tao Yang
-  - Qingyao Ai
-  publisher: CoRR
-  date: '2022-01-01'
-  link: https://doi.org/10.48550/arXiv.2208.07563
-- title: 'Unbiased Learning to Rank: Online or Offline?'
-  authors:
-  - Qingyao Ai
-  - Tao Yang
-  - Huazheng Wang
-  - Jiaxin Mao
-  publisher: ACM Trans. Inf. Syst.
-  date: '2021-01-01'
-  link: https://doi.org/10.1145/3439861
-- title: Model-agnostic vs Model-intrinsic Interpretability for Explainable Product
-    Search
-  authors:
-  - Qingyao Ai
-  - Lakshmi Narayanan Ramasamy
-  publisher: 'CIKM ''21: The 30th ACM International Conference on Information and
-    Knowledge Management, Virtual Event, Queensland, Australia, November 1 - 5, 2021'
-  date: '2021-01-01'
-  link: https://doi.org/10.1145/3459637.3482276
-- title: 'ULTRA: An Unbiased Learning To Rank Algorithm Toolbox'
-  authors:
-  - Anh Tran
-  - Tao Yang
-  - Qingyao Ai
-  publisher: 'CIKM ''21: The 30th ACM International Conference on Information and
-    Knowledge Management, Virtual Event, Queensland, Australia, November 1 - 5, 2021'
-  date: '2021-01-01'
-  link: https://doi.org/10.1145/3459637.3482020
-- title: A Zero Attentive Relevance Matching Network for Review Modeling in Recommendation
-    System
-  authors:
-  - Hansi Zeng
-  - Zhichao Xu
-  - Qingyao Ai
-  publisher: Advances in Information Retrieval - 43rd European Conference on IR Research,
-    ECIR 2021, Virtual Event, March 28 - April 1, 2021, Proceedings, Part I
-  date: '2021-01-01'
-  link: https://doi.org/10.1007/978-3-030-72113-8_48
-- title: Understanding the Effectiveness of Reviews in E-commerce Top-N Recommendation
-  authors:
-  - Zhichao Xu
-  - Hansi Zeng
-  - Qingyao Ai
-  publisher: 'ICTIR ''21: The 2021 ACM SIGIR International Conference on the Theory
-    of Information Retrieval, Virtual Event, Canada, July 11, 2021'
-  date: '2021-01-01'
-  link: https://doi.org/10.1145/3471158.3472258
+  - Keping Bi
+  - Rahul Jha
+  - W. Bruce Croft
+  - Asli Celikyilmaz
+  publisher: 'Proceedings of the 16th Conference of the European Chapter of the Association
+    for Computational Linguistics: Main Volume, EACL 2021, Online, April 19 - 23,
+    2021'
+  date: '2021-12-19'
+  link:
+  - https://doi.org/10.18653/v1/2021.eacl-main.22
+  - https://aclanthology.org/2021.eacl-main.22/
 - title: Asking Clarifying Questions Based on Negative Feedback in Conversational
     Search
   authors:
@@ -611,22 +139,6 @@
     of Information Retrieval, Virtual Event, Canada, July 11, 2021'
   date: '2021-01-01'
   link: https://doi.org/10.1145/3471158.3472232
-- title: 3rd International Workshop on Deep Learning Practice for High-Dimensional
-    Sparse Data with KDD 2021
-  authors:
-  - Xiaoqiang Zhu
-  - Kuang-chih Lee
-  - Guorui Zhou
-  - Biye Jiang
-  - Zhe Wang
-  - Ruiming Tang
-  - Kan Ren
-  - Qingyao Ai
-  - Weinan Zhang
-  publisher: 'KDD ''21: The 27th ACM SIGKDD Conference on Knowledge Discovery and
-    Data Mining, Virtual Event, Singapore, August 14-18, 2021'
-  date: '2021-01-01'
-  link: https://doi.org/10.1145/3447548.3469444
 - title: Learning a Fine-Grained Review-based Transformer Model for Personalized Product
     Search
   authors:
@@ -637,63 +149,16 @@
     and Development in Information Retrieval, Virtual Event, Canada, July 11-15, 2021'
   date: '2021-01-01'
   link: https://doi.org/10.1145/3404835.3462911
-- title: 'Beyond Probability Ranking Principle: Modeling the Dependencies among Documents'
+- title: Leveraging User Behavior History for Personalized Email Search
   authors:
-  - Liang Pang
-  - Qingyao Ai
-  - Jun Xu
-  publisher: 'SIGIR ''21: The 44th International ACM SIGIR Conference on Research
-    and Development in Information Retrieval, Virtual Event, Canada, July 11-15, 2021'
-  date: '2021-01-01'
-  link: https://doi.org/10.1145/3404835.3462808
-- title: Maximizing Marginal Fairness for Dynamic Learning to Rank
-  authors:
-  - Tao Yang
-  - Qingyao Ai
+  - Keping Bi
+  - Pavel Metrikov
+  - Chunyuan Li
+  - Byungki Byun
   publisher: 'WWW ''21: The Web Conference 2021, Virtual Event / Ljubljana, Slovenia,
     April 19-23, 2021.'
-  date: '2021-01-01'
-  link: https://doi.org/10.1145/3442381.3449901
-- title: Controlling the Risk of Conversational Search via Reinforcement Learning
-  authors:
-  - Zhenduo Wang
-  - Qingyao Ai
-  publisher: 'WWW ''21: The Web Conference 2021, Virtual Event / Ljubljana, Slovenia,
-    April 19-23, 2021.'
-  date: '2021-01-01'
-  link: https://doi.org/10.1145/3442381.3449893
-- title: A Zero Attentive Relevance Matching Networkfor Review Modeling in Recommendation
-    System
-  authors:
-  - Hansi Zeng
-  - Zhichao Xu
-  - Qingyao Ai
-  publisher: CoRR
-  date: '2021-01-01'
-  link: https://arxiv.org/abs/2101.06387
-- title: A Neural Passage Model for Ad-hoc Document Retrieval
-  authors:
-  - Qingyao Ai
-  - Brendan O'Connor
-  - W. Bruce Croft
-  publisher: Advances in Information Retrieval - 40th European Conference on IR Research,
-    ECIR 2018, Grenoble, France, March 26-29, 2018, Proceedings
-  date: '2018-01-01'
-  link: https://doi.org/10.1007/978-3-319-76941-7_41
-- title: A Deep Look into neural ranking models for information retrieval
-  authors:
-  - Jiafeng Guo
-  - Yixing Fan
-  - Liang Pang
-  - Liu Yang
-  - Qingyao Ai
-  - Hamed Zamani
-  - Chen Wu
-  - W. Bruce Croft
-  - Xueqi Cheng
-  publisher: Inf. Process. Manag.
-  date: '2020-01-01'
-  link: https://doi.org/10.1016/j.ipm.2019.102067
+  date: '2021-12-18'
+  link: https://doi.org/10.1145/3442381.3450110
 - title: Explainable Product Search with a Dynamic Relation Embedding Model
   authors:
   - Qingyao Ai
@@ -705,42 +170,6 @@
   link:
   - https://doi.org/10.1145/3361738
   - https://www.wikidata.org/entity/Q102634548
-- title: E-commerce Recommendation with Weighted Expected Utility
-  authors:
-  - Zhichao Xu
-  - Yi Han
-  - Yongfeng Zhang
-  - Qingyao Ai
-  publisher: 'CIKM ''20: The 29th ACM International Conference on Information and
-    Knowledge Management, Virtual Event, Ireland, October 19-23, 2020'
-  date: '2020-01-01'
-  link: https://doi.org/10.1145/3340531.3411993
-- title: Analysis of Multivariate Scoring Functions for Automatic Unbiased Learning
-    to Rank
-  authors:
-  - Tao Yang
-  - Shikai Fang
-  - Shibo Li
-  - Yulan Wang
-  - Qingyao Ai
-  publisher: 'CIKM ''20: The 29th ACM International Conference on Information and
-    Knowledge Management, Virtual Event, Ireland, October 19-23, 2020'
-  date: '2020-01-01'
-  link: https://doi.org/10.1145/3340531.3412128
-- title: 'SetRank: Learning a Permutation-Invariant Ranking Model for Information
-    Retrieval'
-  authors:
-  - Liang Pang
-  - Jun Xu
-  - Qingyao Ai
-  - Yanyan Lan
-  - Xueqi Cheng
-  - Jirong Wen
-  publisher: Proceedings of the 43rd International ACM SIGIR conference on research
-    and development in Information Retrieval, SIGIR 2020, Virtual Event, China, July
-    25-30, 2020
-  date: '2020-01-01'
-  link: https://doi.org/10.1145/3397271.3401104
 - title: A Transformer-based Embedding Model for Personalized Product Search
   authors:
   - Keping Bi
@@ -759,40 +188,18 @@
   publisher: CoRR
   date: '2020-01-01'
   link: https://arxiv.org/abs/2004.09424
-- title: Review Regularized Neural Collaborative Filtering
+- title: 'Artemis: A Novel Annotation Methodology for Indicative Single Document Summarization'
   authors:
-  - Zhimeng Pan
-  - Wenzheng Tao
-  - Qingyao Ai
+  - Rahul Jha
+  - Keping Bi
+  - Yang Li
+  - Mahdi Pakdaman
+  - Asli Celikyilmaz
+  - Ivan Zhiboedov
+  - Kieran McDonald
   publisher: CoRR
-  date: '2020-01-01'
-  link: https://arxiv.org/abs/2008.13527
-- title: A Hierarchical Self-attentive Convolution Network for Review Modeling in
-    Recommendation Systems
-  authors:
-  - Hansi Zeng
-  - Qingyao Ai
-  publisher: CoRR
-  date: '2020-01-01'
-  link: https://arxiv.org/abs/2011.13436
-- title: Investigating Weak Supervision in Deep Ranking
-  authors:
-  - Yukun Zheng
-  - Yiqun Liu
-  - Zhen Fan
-  - Cheng Luo
-  - Qingyao Ai
-  - Min Zhang
-  - Shaoping Ma
-  publisher: Data Inf. Manag.
-  date: '2019-01-01'
-  link: https://doi.org/10.2478/dim-2019-0010
-- title: Neural generative models and representation learning for information retrieval
-  authors:
-  - Qingyao Ai
-  publisher: SIGIR Forum
-  date: '2019-01-01'
-  link: https://doi.org/10.1145/3458553.3458565
+  date: '2020-12-16'
+  link: https://arxiv.org/abs/2005.02146
 - title: Conversational Product Search Based on Negative Feedback
   authors:
   - Keping Bi
@@ -803,40 +210,17 @@
     Knowledge Management, CIKM 2019, Beijing, China, November 3-7, 2019.
   date: '2019-01-01'
   link: https://doi.org/10.1145/3357384.3357939
-- title: A Zero Attention Model for Personalized Product Search
+- title: A Study of Context Dependencies in Multi-page Product Search
   authors:
-  - Qingyao Ai
-  - Daniel N. Hill
-  - S. V. N. Vishwanathan
+  - Keping Bi
+  - Choon Hui Teo
+  - Yesh Dattatreya
+  - Vijai Mohan
   - W. Bruce Croft
   publisher: Proceedings of the 28th ACM International Conference on Information and
     Knowledge Management, CIKM 2019, Beijing, China, November 3-7, 2019.
-  date: '2019-01-01'
-  link: https://doi.org/10.1145/3357384.3357980
-- title: Improving Web Image Search with Contextual Information
-  authors:
-  - Xiaohui Xie
-  - Jiaxin Mao
-  - Yiqun Liu
-  - Maarten de Rijke
-  - Qingyao Ai
-  - Yufei Huang
-  - Min Zhang
-  - Shaoping Ma
-  publisher: Proceedings of the 28th ACM International Conference on Information and
-    Knowledge Management, CIKM 2019, Beijing, China, November 3-7, 2019.
-  date: '2019-01-01'
-  link: https://doi.org/10.1145/3357384.3358011
-- title: Correcting for Recency Bias in Job Recommendation
-  authors:
-  - Ruey-Cheng Chen
-  - Qingyao Ai
-  - Gaya Jayasinghe
-  - W. Bruce Croft
-  publisher: Proceedings of the 28th ACM International Conference on Information and
-    Knowledge Management, CIKM 2019, Beijing, China, November 3-7, 2019.
-  date: '2019-01-01'
-  link: https://doi.org/10.1145/3357384.3358131
+  date: '2019-12-15'
+  link: https://doi.org/10.1145/3357384.3358095
 - title: Iterative Relevance Feedback for Answer Passage Retrieval with Passage-Level
     Semantic Match
   authors:
@@ -847,86 +231,18 @@
     ECIR 2019, Cologne, Germany, April 14-18, 2019, Proceedings, Part I
   date: '2019-01-01'
   link: https://doi.org/10.1007/978-3-030-15712-8_36
-- title: Learning Groupwise Multivariate Scoring Functions Using Deep Neural Networks
+- title: Leverage Implicit Feedback for Context-aware Product Search
   authors:
-  - Qingyao Ai
-  - Xuanhui Wang
-  - Sebastian Bruch
-  - Nadav Golbandi
-  - Michael Bendersky
-  - Marc Najork
-  publisher: Proceedings of the 2019 ACM SIGIR International Conference on Theory
-    of Information Retrieval, ICTIR 2019, Santa Clara, CA, USA, October 2-5, 2019.
-  date: '2019-01-01'
-  link: https://doi.org/10.1145/3341981.3344218
-- title: SIGIR 2019 Tutorial on Explainable Recommendation and Search
-  authors:
-  - Yongfeng Zhang
-  - Jiaxin Mao
-  - Qingyao Ai
-  publisher: Proceedings of the 42nd International ACM SIGIR Conference on Research
-    and Development in Information Retrieval, SIGIR 2019, Paris, France, July 21-25,
-    2019.
-  date: '2019-01-01'
-  link:
-  - https://doi.org/10.1145/3331184.3331390
-  - https://www.wikidata.org/entity/Q102633801
-- title: 'DAPA: The WSDM 2019 Workshop on Deep Matching in Practical Applications'
-  authors:
-  - Yixing Fan
-  - Qingyao Ai
-  - Zhaochun Ren
-  - Liangjie Hong
-  - Dawei Yin
-  - Jiafeng Guo
-  publisher: Proceedings of the Twelfth ACM International Conference on Web Search
-    and Data Mining, WSDM 2019, Melbourne, VIC, Australia, February 11-15, 2019
-  date: '2019-01-01'
-  link: https://doi.org/10.1145/3289600.3291375
-- title: WWW'19 Tutorial on Explainable Recommendation and Search
-  authors:
-  - Yongfeng Zhang
-  - Jiaxin Mao
-  - Qingyao Ai
-  publisher: Companion of The 2019 World Wide Web Conference, WWW 2019, San Francisco,
-    CA, USA, May 13-17, 2019.
-  date: '2019-01-01'
-  link:
-  - https://doi.org/10.1145/3308560.3320094
-  - https://www.wikidata.org/entity/Q102633792
-- title: Learning Heterogeneous Knowledge Base Embeddings for Explainable Recommendation
-  authors:
-  - Qingyao Ai
-  - Vahid Azizi
-  - Xu Chen
-  - Yongfeng Zhang
-  publisher: Algorithms
-  date: '2018-01-01'
-  link:
-  - https://doi.org/10.3390/a11090137
-  - https://www.wikidata.org/entity/Q102633537
-  - https://orkg.org/resource/R69633
-- title: 'Towards Conversational Search and Recommendation: System Ask, User Respond'
-  authors:
-  - Yongfeng Zhang
-  - Xu Chen
-  - Qingyao Ai
-  - Liu Yang
+  - Keping Bi
+  - Choon Hui Teo
+  - Yesh Dattatreya
+  - Vijai Mohan
   - W. Bruce Croft
-  publisher: Proceedings of the 27th ACM International Conference on Information and
-    Knowledge Management, CIKM 2018, Torino, Italy, October 22-26, 2018
-  date: '2018-01-01'
-  link: https://doi.org/10.1145/3269206.3271776
-- title: 'Unbiased Learning to Rank: Theory and Practice'
-  authors:
-  - Qingyao Ai
-  - Jiaxin Mao
-  - Yiqun Liu
-  - W. Bruce Croft
-  publisher: Proceedings of the 27th ACM International Conference on Information and
-    Knowledge Management, CIKM 2018, Torino, Italy, October 22-26, 2018
-  date: '2018-01-01'
-  link: https://doi.org/10.1145/3269206.3274274
+  publisher: Proceedings of the SIGIR 2019 Workshop on eCommerce, co-located with
+    the 42nd International ACM SIGIR Conference on Research and Development in Information
+    Retrieval, eCom@SIGIR 2019, Paris, France, July 25, 2019.
+  date: '2019-12-14'
+  link: https://ceur-ws.org/Vol-2410/paper15.pdf
 - title: Learning a Deep Listwise Context Model for Ranking Refinement
   authors:
   - Qingyao Ai
@@ -948,35 +264,6 @@
     in Information Retrieval, SIGIR 2018, Ann Arbor, MI, USA, July 08-12, 2018
   date: '2018-01-01'
   link: https://doi.org/10.1145/3209978.3209986
-- title: 'aNMM: Ranking Short Answer Texts with Attention-Based Neural Matching Model'
-  authors:
-  - Liu Yang
-  - Qingyao Ai
-  - Jiafeng Guo
-  - W. Bruce Croft
-  publisher: Proceedings of the 25th ACM International Conference on Information and
-    Knowledge Management, CIKM 2016, Indianapolis, IN, USA, October 24-28, 2016
-  date: '2016-01-01'
-  link: https://doi.org/10.1145/2983323.2983818
-- title: Learning over Knowledge-Base Embeddings for Recommendation
-  authors:
-  - Yongfeng Zhang
-  - Qingyao Ai
-  - Xu Chen
-  - Pengfei Wang
-  publisher: CoRR
-  date: '2018-01-01'
-  link: http://arxiv.org/abs/1803.06540
-- title: Learning Groupwise Scoring Functions Using Deep Neural Networks
-  authors:
-  - Qingyao Ai
-  - Xuanhui Wang
-  - Nadav Golbandi
-  - Michael Bendersky
-  - Marc Najork
-  publisher: CoRR
-  date: '2018-01-01'
-  link: http://arxiv.org/abs/1811.04415
 - title: Revisiting Iterative Relevance Feedback for Document and Passage Retrieval
   authors:
   - Keping Bi
@@ -985,52 +272,6 @@
   publisher: CoRR
   date: '2018-01-01'
   link: http://arxiv.org/abs/1812.05731
-- title: Enhancing click models with mouse movement information
-  authors:
-  - Zeyang Liu
-  - Jiaxin Mao
-  - Chao Wang
-  - Qingyao Ai
-  - Yiqun Liu
-  - Jian-Yun Nie
-  publisher: Inf. Retr. J.
-  date: '2017-01-01'
-  link: https://doi.org/10.1007/s10791-016-9292-4
-- title: Large-Scale Analysis of Email Search and Organizational Strategies
-  authors:
-  - Kanika Narang
-  - Susan T. Dumais
-  - Nick Craswell
-  - Daniel J. Liebling
-  - Qingyao Ai
-  publisher: Proceedings of the 2017 Conference on Conference Human Information Interaction
-    and Retrieval, CHIIR 2017, Oslo, Norway, March 7-11, 2017
-  date: '2017-01-01'
-  link: https://doi.org/10.1145/3020165.3020175
-- title: Joint Representation Learning for Top-N Recommendation with Heterogeneous
-    Information Sources
-  authors:
-  - Yongfeng Zhang
-  - Qingyao Ai
-  - Xu Chen
-  - W. Bruce Croft
-  publisher: Proceedings of the 2017 ACM on Conference on Information and Knowledge
-    Management, CIKM 2017, Singapore, November 06 - 10, 2017
-  date: '2017-01-01'
-  link: https://doi.org/10.1145/3132847.3132892
-- title: Personalized Key Frame Recommendation
-  authors:
-  - Xu Chen
-  - Yongfeng Zhang
-  - Qingyao Ai
-  - Hongteng Xu
-  - Junchi Yan
-  - Zheng Qin
-  publisher: Proceedings of the 40th International ACM SIGIR Conference on Research
-    and Development in Information Retrieval, Shinjuku, Tokyo, Japan, August 7-11,
-    2017
-  date: '2017-01-01'
-  link: https://doi.org/10.1145/3077136.3080776
 - title: Learning a Hierarchical Embedding Model for Personalized Product Search
   authors:
   - Qingyao Ai
@@ -1043,101 +284,14 @@
     2017
   date: '2017-01-01'
   link: https://doi.org/10.1145/3077136.3080813
-- title: UMass at TREC 2017 Common Core Track
+- title: Extracting search-focused key n-grams for relevance ranking in web search
   authors:
-  - Qingyao Ai
-  - Hamed Zamani
-  - Stephen M. Harding
-  - Shahrzad Naseri
-  - James Allan
-  - W. Bruce Croft
-  publisher: Proceedings of The Twenty-Sixth Text REtrieval Conference, TREC 2017,
-    Gaithersburg, Maryland, USA, November 15-17, 2017
-  date: '2017-01-01'
-  link: https://trec.nist.gov/pubs/trec26/papers/UMass-CC.pdf
-- title: Characterizing Email Search using Large-scale Behavioral Logs and Surveys
-  authors:
-  - Qingyao Ai
-  - Susan T. Dumais
-  - Nick Craswell
-  - Daniel J. Liebling
-  publisher: Proceedings of the 26th International Conference on World Wide Web, WWW
-    2017, Perth, Australia, April 3-7, 2017
-  date: '2017-01-01'
-  link: https://doi.org/10.1145/3038912.3052615
-- title: A Deep Relevance Matching Model for Ad-hoc Retrieval
-  authors:
-  - Jiafeng Guo
-  - Yixing Fan
-  - Qingyao Ai
-  - W. Bruce Croft
-  publisher: Proceedings of the 25th ACM International Conference on Information and
-    Knowledge Management, CIKM 2016, Indianapolis, IN, USA, October 24-28, 2016
-  date: '2016-01-01'
-  link: https://doi.org/10.1145/2983323.2983769
-- title: Semantic Matching by Non-Linear Word Transportation for Information Retrieval
-  authors:
-  - Jiafeng Guo
-  - Yixing Fan
-  - Qingyao Ai
-  - W. Bruce Croft
-  publisher: Proceedings of the 25th ACM International Conference on Information and
-    Knowledge Management, CIKM 2016, Indianapolis, IN, USA, October 24-28, 2016
-  date: '2016-01-01'
-  link: https://doi.org/10.1145/2983323.2983768
-- title: 'Beyond Factoid QA: Effective Methods for Non-factoid Answer Sentence Retrieval'
-  authors:
-  - Liu Yang
-  - Qingyao Ai
-  - Damiano Spina
-  - Ruey-Cheng Chen
-  - Liang Pang
-  - W. Bruce Croft
-  - Jiafeng Guo
-  - Falk Scholer
-  publisher: Advances in Information Retrieval - 38th European Conference on IR Research,
-    ECIR 2016, Padua, Italy, March 20-23, 2016. Proceedings
-  date: '2016-01-01'
-  link:
-  - https://doi.org/10.1007/978-3-319-30671-1_9
-  - https://www.wikidata.org/entity/Q57583494
-- title: Analysis of the Paragraph Vector Model for Information Retrieval
-  authors:
-  - Qingyao Ai
-  - Liu Yang
-  - Jiafeng Guo
-  - W. Bruce Croft
-  publisher: Proceedings of the 2016 ACM on International Conference on the Theory
-    of Information Retrieval, ICTIR 2016, Newark, DE, USA, September 12- 6, 2016
-  date: '2016-01-01'
-  link: https://doi.org/10.1145/2970398.2970409
-- title: Improving Language Estimation with the Paragraph Vector Model for Ad-hoc
-    Retrieval
-  authors:
-  - Qingyao Ai
-  - Liu Yang
-  - Jiafeng Guo
-  - W. Bruce Croft
-  publisher: Proceedings of the 39th International ACM SIGIR conference on Research
-    and Development in Information Retrieval, SIGIR 2016, Pisa, Italy, July 17-21,
-    2016
-  date: '2016-01-01'
-  link: https://doi.org/10.1145/2911451.2914688
-- title: Adaptability of Neural Networks on Varying Granularity IR Tasks
-  authors:
-  - Daniel Cohen
-  - Qingyao Ai
-  - W. Bruce Croft
-  publisher: CoRR
-  date: '2016-01-01'
-  link: http://arxiv.org/abs/1606.07565
-- title: An Optimization Framework for Merging Multiple Result Lists
-  authors:
-  - Chia-Jung Lee
-  - Qingyao Ai
-  - W. Bruce Croft
-  - Daniel Sheldon
-  publisher: Proceedings of the 24th ACM International Conference on Information and
-    Knowledge Management, CIKM 2015, Melbourne, VIC, Australia, October 19 - 23, 2015
-  date: '2015-01-01'
-  link: https://doi.org/10.1145/2806416.2806489
+  - Chen Wang
+  - Keping Bi
+  - Yunhua Hu
+  - Hang Li
+  - Guihong Cao
+  publisher: Proceedings of the Fifth International Conference on Web Search and Web
+    Data Mining, WSDM 2012, Seattle, WA, USA, February 8-12, 2012
+  date: '2012-12-12'
+  link: https://doi.org/10.1145/2124295.2124338
