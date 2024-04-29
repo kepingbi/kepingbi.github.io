@@ -1,6 +1,6 @@
 ---
 name: Keping Bi<br/>毕可平
-image: images/people/aqy.jpg
+image: images/people/bkp.jpg
 description: Assistant Professor
 role: pi
 aliases:
@@ -13,7 +13,7 @@ links:
     github: KepingBi
     google-scholar: UKqaI5IAAAAJ
     twitter: BiKeping
-    linkedin: qingyao-ai-4ab8306a
+    linkedin: keping-bi-4ab8306a
 ---
 
 中国科学院计算技术研究所助理研究员。主要研究兴趣包括信息检索模型，检索增强的模型生成，可信人工智能等。

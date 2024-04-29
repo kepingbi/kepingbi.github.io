@@ -40,6 +40,10 @@ Haidian District, Beijing, 100190<br/>
 
 My research primarily focuses on Information Retrieval, with a special emphasis on dense retrieval, conversational search, and the emerging field of retrieval-augmented generation. Additionally, I am deeply interested in Trustworthy AI, particularly in relation to information-seeking systems, such as unbiased learning, model robustness, and implicit bias evaluation. I earned my Ph.D. from the College of Information and Computer Sciences at the University of Massachusetts (UMass) Amherst, under the guidance of Professor [W. Bruce Croft](http://ciir.cs.umass.edu/croft) at the [Center for Intelligent Information Retrieval (CIIR)](http://ciir.cs.umass.edu/). I also hold two master's degrees—one in computer science from UMass Amherst and another in machine intelligence from Peking University—and a bachelor's degree in Computer Science from Nankai University.
 
+**Recruiting**
+
+I'm recruiting self-motivated master students who are interested in conducting innovative research. Undergraduate students who are willing to pursue a Ph.D. or master degree in Institute of Computing Technology CAS or abroad are welcome to do internships in my group. If you are interested, please send your resume to my email address (bikeping[at]ict.ac.cn) and include your research interests and your future plan. 
+
 **Experience**
 
 - Assistant Professor at [Information of Computing Technology (ICT)](http://english.ict.cas.cn/), CAS, Beijing, China, Oct. 2022 - now

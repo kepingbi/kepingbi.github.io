@@ -1,7 +1,7 @@
 import os,sys
 import urllib.request
 import re
-#dblp_url = 'https://dblp.uni-trier.de/pid/169/1808.ris'
+dblp_url = 'https://dblp.uni-trier.de/pid/56/10886.ris'
 import ssl
 ssl._create_default_https_context = ssl._create_unverified_context
 
@@ -46,7 +46,7 @@ def format_author_first_last_name(raw_au):
 def load_publication_ris_from_dblp(url):
 	# Open the URL and read the data
 	with urllib.request.urlopen(url) as response:
-	    data = response.read().decode('utf-8') # Assuming the data is in UTF-8 encoding
+		data = response.read().decode('utf-8') # Assuming the data is in UTF-8 encoding
 
 	# Process the data as needed
 	publications = []
@@ -78,7 +78,7 @@ def load_publication_ris_from_dblp(url):
 	return publications
 
 # Format publication and output
-#print(load_publication_ris_from_dblp(dblp_url))
+# print(load_publication_ris_from_dblp(dblp_url))
 
 
 
