@@ -16,7 +16,7 @@ nav:
 
 
 Assistant Professor<br/>
-Information of Computing Technology (ICT)<br/>
+Institute of Computing Technology (ICT)<br/>
 Chinese Academy of Sciences (CAS)<br/>
 
 NO. 6 Kexueyuan South Road<br/>
@@ -60,7 +60,7 @@ I'm recruiting self-motivated master students who are interested in conducting i
 **Achievements**
 
 - New Hundred Stars Talent Program, ICT (top 4), 2022
-- Baidu Highest Award Nomination (top 10/180+,  $1 million reward for teams of 10 or less members), 2014
+- Baidu Highest Award Nomination (top 10/180+,  $1 million reward for teams of 10 or fewer members), 2014
 - Promoted Twice at Baidu, 2013, 2014
 - Tencent Campus Practice Competition, Third Prize (top 10%), 2010
 - Outstanding Student Leader of Nankai University (top 5%, 3 times)
