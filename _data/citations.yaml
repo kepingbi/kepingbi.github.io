@@ -1,5 +1,30 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM DBLP.
 
+- title: 'MORE: Multi-mOdal REtrieval Augmented Generative Commonsense Reasoning'
+  authors:
+  - Wanqing Cui
+  - Keping Bi
+  - Jiafeng Guo
+  - Xueqi Cheng
+  publisher: Findings of the Association for Computational Linguistics, ACL 2024,
+    Bangkok, Thailand and virtual meeting, August 11-16, 2024
+  date: '2024-12-30'
+  link:
+  - https://doi.org/10.18653/v1/2024.findings-acl.69
+  - https://aclanthology.org/2024.findings-acl.69
+- title: When Do LLMs Need Retrieval Augmentation? Mitigating LLMs' Overconfidence
+    Helps Retrieval Augmentation
+  authors:
+  - Shiyu Ni
+  - Keping Bi
+  - Jiafeng Guo
+  - Xueqi Cheng
+  publisher: Findings of the Association for Computational Linguistics, ACL 2024,
+    Bangkok, Thailand and virtual meeting, August 11-16, 2024
+  date: '2024-12-29'
+  link:
+  - https://doi.org/10.18653/v1/2024.findings-acl.675
+  - https://aclanthology.org/2024.findings-acl.675
 - title: Reproducibility Analysis and Enhancements for Multi-Aspect Dense Retriever
     with Aspect Learning
   authors:
@@ -25,25 +50,52 @@
     Data Mining, WSDM 2024, Merida, Mexico, March 4-8, 2024
   date: '2024-12-29'
   link: https://doi.org/10.1145/3616855.3635770
-- title: When Do LLMs Need Retrieval Augmentation? Mitigating LLMs' Overconfidence
-    Helps Retrieval Augmentation
+- id: iterative utility judgment framework via llms inspired by relevance in philosophy
+  title: Iterative Utility Judgment Framework via LLMs Inspired by Relevance in Philosophy
   authors:
-  - Shiyu Ni
+  - Hengran Zhang
   - Keping Bi
   - Jiafeng Guo
   - Xueqi Cheng
   publisher: CoRR
-  date: '2024-12-29'
-  link: https://doi.org/10.48550/arXiv.2402.11457
-- title: 'MORE: Multi-mOdal REtrieval Augmented Generative Commonsense Reasoning'
+  date: '2024-12-28'
+  link: https://doi.org/10.48550/arXiv.2406.11290
+- id: evaluating implicit bias in large language models by attacking from a psychometric
+    perspective
+  title: Evaluating Implicit Bias in Large Language Models by Attacking From a Psychometric
+    Perspective
   authors:
-  - Wanqing Cui
+  - Yuchen Wen
   - Keping Bi
+  - Wei Chen
   - Jiafeng Guo
   - Xueqi Cheng
   publisher: CoRR
   date: '2024-12-27'
-  link: https://doi.org/10.48550/arXiv.2402.13625
+  link: https://doi.org/10.48550/arXiv.2406.14023
+- id: are large language models more honest in their probabilistic or verbalized confidence?
+  title: Are Large Language Models More Honest in Their Probabilistic or Verbalized
+    Confidence?
+  authors:
+  - Shiyu Ni
+  - Keping Bi
+  - Lulu Yu
+  - Jiafeng Guo
+  publisher: CoRR
+  date: '2024-12-26'
+  link: https://doi.org/10.48550/arXiv.2408.09773
+- id: contextual dual learning algorithm with listwise distillation for unbiased learning
+    to rank
+  title: Contextual Dual Learning Algorithm with Listwise Distillation for Unbiased
+    Learning to Rank
+  authors:
+  - Lulu Yu
+  - Keping Bi
+  - Shiyu Ni
+  - Jiafeng Guo
+  publisher: CoRR
+  date: '2024-12-25'
+  link: https://doi.org/10.48550/arXiv.2408.09817
 - title: 'L2R: Lifelong Learning for First-stage Retrieval with Backward-Compatible
     Representations'
   authors:
