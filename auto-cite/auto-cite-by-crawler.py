@@ -56,13 +56,14 @@ def load_publication_ris_from_dblp(url):
             arr = line.split('  -')
             key = arr[0].strip()
             value = arr[1].strip()
-            if key not in entry:
-                entry[key] = value
-            elif not isinstance(entry[key], list):
-                entry[key] = [entry[key]]
-                entry[key].append(value)
+            if key not in entry or key == 'UR':
+                entry[key] = value # if key is UR, keep only one link for each pub
             else:
-                entry[key].append(value)
+                if not isinstance(entry[key], list):
+                    entry[key] = [entry[key]]
+                    entry[key].append(value)
+                else:
+                    entry[key].append(value)
         entry['TI'] = entry['TI'].replace('.','')
         cur_title = entry['TI'].replace('^','')
         if cur_title in pub_titles:
@@ -76,7 +77,7 @@ def load_publication_ris_from_dblp(url):
         if flag:
             continue
         publications.append(entry)
-    
+
     return publications
 
 def convert_to_datetime(time_string):
@@ -125,7 +126,7 @@ will_exit = False
 dblp_pubs = load_publication_ris_from_dblp(config["dblp-link"])
 
 publications = {}
-        
+
 for pub in citations:
     title = pub["title"]
     if 'id' in pub:
@@ -187,7 +188,7 @@ unique_id_set = set()
 for entry in dblp_pubs:
     title = entry['TI'].strip()
     id = title.lower()
-    if id in publications and id not in unique_id_set:        
+    if id in publications and id not in unique_id_set:
         new_citations.append(publications[id])
         unique_id_set.add(id)
 

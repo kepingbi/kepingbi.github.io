@@ -1,6 +1,7 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM DBLP.
 
-- title: 'MORE: Multi-mOdal REtrieval Augmented Generative Commonsense Reasoning'
+- id: 'more: multi-modal retrieval augmented generative commonsense reasoning'
+  title: 'MORE: Multi-mOdal REtrieval Augmented Generative Commonsense Reasoning'
   authors:
   - Wanqing Cui
   - Keping Bi
@@ -9,10 +10,10 @@
   publisher: Findings of the Association for Computational Linguistics, ACL 2024,
     Bangkok, Thailand and virtual meeting, August 11-16, 2024
   date: '2024-12-30'
-  link:
-  - https://doi.org/10.18653/v1/2024.findings-acl.69
-  - https://aclanthology.org/2024.findings-acl.69
-- title: When Do LLMs Need Retrieval Augmentation? Mitigating LLMs' Overconfidence
+  link: https://aclanthology.org/2024.findings-acl.69
+- id: when do llms need retrieval augmentation? mitigating llms' overconfidence helps
+    retrieval augmentation
+  title: When Do LLMs Need Retrieval Augmentation? Mitigating LLMs' Overconfidence
     Helps Retrieval Augmentation
   authors:
   - Shiyu Ni
@@ -22,10 +23,10 @@
   publisher: Findings of the Association for Computational Linguistics, ACL 2024,
     Bangkok, Thailand and virtual meeting, August 11-16, 2024
   date: '2024-12-29'
-  link:
-  - https://doi.org/10.18653/v1/2024.findings-acl.675
-  - https://aclanthology.org/2024.findings-acl.675
-- title: Reproducibility Analysis and Enhancements for Multi-Aspect Dense Retriever
+  link: https://aclanthology.org/2024.findings-acl.675
+- id: reproducibility analysis and enhancements for multi-aspect dense retriever with
+    aspect learning
+  title: Reproducibility Analysis and Enhancements for Multi-aspect Dense Retriever
     with Aspect Learning
   authors:
   - Keping Bi
@@ -34,9 +35,10 @@
   - Xueqi Cheng
   publisher: Advances in Information Retrieval - 46th European Conference on Information
     Retrieval, ECIR 2024, Glasgow, UK, March 24-28, 2024, Proceedings, Part IV
-  date: '2024-12-30'
+  date: '2024-12-28'
   link: https://doi.org/10.1007/978-3-031-56066-8_17
-- title: A Multi-Granularity-Aware Aspect Learning Model for Multi-Aspect Dense Retrieval
+- id: a multi-granularity-aware aspect learning model for multi-aspect dense retrieval
+  title: A Multi-Granularity-Aware Aspect Learning Model for Multi-Aspect Dense Retrieval
   authors:
   - Xiaojie Sun
   - Keping Bi
@@ -48,7 +50,7 @@
   - Xueqi Cheng
   publisher: Proceedings of the 17th ACM International Conference on Web Search and
     Data Mining, WSDM 2024, Merida, Mexico, March 4-8, 2024
-  date: '2024-12-29'
+  date: '2024-12-27'
   link: https://doi.org/10.1145/3616855.3635770
 - id: iterative utility judgment framework via llms inspired by relevance in philosophy
   title: Iterative Utility Judgment Framework via LLMs Inspired by Relevance in Philosophy
@@ -58,7 +60,7 @@
   - Jiafeng Guo
   - Xueqi Cheng
   publisher: CoRR
-  date: '2024-12-28'
+  date: '2024-12-26'
   link: https://doi.org/10.48550/arXiv.2406.11290
 - id: evaluating implicit bias in large language models by attacking from a psychometric
     perspective
@@ -71,7 +73,7 @@
   - Jiafeng Guo
   - Xueqi Cheng
   publisher: CoRR
-  date: '2024-12-27'
+  date: '2024-12-25'
   link: https://doi.org/10.48550/arXiv.2406.14023
 - id: are large language models more honest in their probabilistic or verbalized confidence?
   title: Are Large Language Models More Honest in Their Probabilistic or Verbalized
@@ -82,7 +84,7 @@
   - Lulu Yu
   - Jiafeng Guo
   publisher: CoRR
-  date: '2024-12-26'
+  date: '2024-12-24'
   link: https://doi.org/10.48550/arXiv.2408.09773
 - id: contextual dual learning algorithm with listwise distillation for unbiased learning
     to rank
@@ -94,9 +96,10 @@
   - Shiyu Ni
   - Jiafeng Guo
   publisher: CoRR
-  date: '2024-12-25'
+  date: '2024-12-23'
   link: https://doi.org/10.48550/arXiv.2408.09817
-- title: 'L2R: Lifelong Learning for First-stage Retrieval with Backward-Compatible
+- id: 'l2r: lifelong learning for first-stage retrieval with backward-compatible representations'
+  title: 'L2R: Lifelong Learning for First-stage Retrieval with Backward-Compatible
     Representations'
   authors:
   - Yinqiong Cai
@@ -107,9 +110,11 @@
   - Xueqi Cheng
   publisher: Proceedings of the 32nd ACM International Conference on Information and
     Knowledge Management, CIKM 2023, Birmingham, United Kingdom, October 21-25, 2023
-  date: '2023-12-28'
+  date: '2023-12-22'
   link: https://doi.org/10.1145/3583780.3614947
-- title: Pre-training with Aspect-Content Text Mutual Prediction for Multi-Aspect
+- id: pre-training with aspect-content text mutual prediction for multi-aspect dense
+    retrieval
+  title: Pre-training with Aspect-Content Text Mutual Prediction for Multi-Aspect
     Dense Retrieval
   authors:
   - Xiaojie Sun
@@ -122,9 +127,10 @@
   - Zhongyi Liu
   publisher: Proceedings of the 32nd ACM International Conference on Information and
     Knowledge Management, CIKM 2023, Birmingham, United Kingdom, October 21-25, 2023
-  date: '2023-12-27'
+  date: '2023-12-21'
   link: https://doi.org/10.1145/3583780.3615157
-- title: A Comparative Study of Training Objectives for Clarification Facet Generation
+- id: a comparative study of training objectives for clarification facet generation
+  title: A Comparative Study of Training Objectives for Clarification Facet Generation
   authors:
   - Shiyu Ni
   - Keping Bi
@@ -133,9 +139,11 @@
   publisher: Annual International ACM SIGIR Conference on Research and Development
     in Information Retrieval in the Asia Pacific Region, SIGIR-AP 2023, Beijing, China,
     November 26-28, 2023
-  date: '2023-12-26'
+  date: '2023-12-20'
   link: https://doi.org/10.1145/3624918.3625332
-- title: Feature-Enhanced Network with Hybrid Debiasing Strategies for Unbiased Learning
+- id: feature-enhanced network with hybrid debiasing strategies for unbiased learning
+    to rank
+  title: Feature-Enhanced Network with Hybrid Debiasing Strategies for Unbiased Learning
     to Rank
   authors:
   - Lulu Yu
@@ -144,9 +152,10 @@
   - Keping Bi
   - Jiafeng Guo
   publisher: CoRR
-  date: '2023-12-25'
+  date: '2023-12-19'
   link: https://doi.org/10.48550/arXiv.2302.07530
-- title: Ensemble Ranking Model with Multiple Pretraining Strategies for Web Search
+- id: ensemble ranking model with multiple pretraining strategies for web search
+  title: Ensemble Ranking Model with Multiple Pretraining Strategies for Web Search
   authors:
   - Xiaojie Sun
   - Lulu Yu
@@ -154,18 +163,20 @@
   - Keping Bi
   - Jiafeng Guo
   publisher: CoRR
-  date: '2023-12-24'
+  date: '2023-12-18'
   link: https://doi.org/10.48550/arXiv.2302.09340
-- title: CIR at the NTCIR-17 ULTRE-2 Task
+- id: cir at the ntcir-17 ultre-2 task
+  title: CIR at the NTCIR-17 ULTRE-2 Task
   authors:
   - Lulu Yu
   - Keping Bi
   - Jiafeng Guo
   - Xueqi Cheng
   publisher: CoRR
-  date: '2023-12-22'
+  date: '2023-12-17'
   link: https://doi.org/10.48550/arXiv.2310.11852
-- title: 'CAME: Competitively Learning a Mixture-of-Experts Model for First-stage
+- id: 'came: competitively learning a mixture-of-experts model for first-stage retrieval'
+  title: 'CAME: Competitively Learning a Mixture-of-Experts Model for First-stage
     Retrieval'
   authors:
   - Yinqiong Cai
@@ -176,9 +187,11 @@
   - Ruqing Zhang
   - Xueqi Cheng
   publisher: CoRR
-  date: '2023-12-21'
+  date: '2023-12-16'
   link: https://doi.org/10.48550/arXiv.2311.02834
-- title: 'AREDSUM: Adaptive Redundancy-Aware Iterative Sentence Ranking for Extractive
+- id: 'aredsum: adaptive redundancy-aware iterative sentence ranking for extractive
+    document summarization'
+  title: 'AREDSUM: Adaptive Redundancy-Aware Iterative Sentence Ranking for Extractive
     Document Summarization'
   authors:
   - Keping Bi
@@ -188,11 +201,10 @@
   publisher: 'Proceedings of the 16th Conference of the European Chapter of the Association
     for Computational Linguistics: Main Volume, EACL 2021, Online, April 19 - 23,
     2021'
-  date: '2021-12-19'
-  link:
-  - https://doi.org/10.18653/v1/2021.eacl-main.22
-  - https://aclanthology.org/2021.eacl-main.22/
-- title: Asking Clarifying Questions Based on Negative Feedback in Conversational
+  date: '2021-12-15'
+  link: https://aclanthology.org/2021.eacl-main.22/
+- id: asking clarifying questions based on negative feedback in conversational search
+  title: Asking Clarifying Questions Based on Negative Feedback in Conversational
     Search
   authors:
   - Keping Bi
@@ -200,9 +212,11 @@
   - W. Bruce Croft
   publisher: 'ICTIR ''21: The 2021 ACM SIGIR International Conference on the Theory
     of Information Retrieval, Virtual Event, Canada, July 11, 2021'
-  date: '2021-01-01'
+  date: '2021-12-14'
   link: https://doi.org/10.1145/3471158.3472232
-- title: Learning a Fine-Grained Review-based Transformer Model for Personalized Product
+- id: learning a fine-grained review-based transformer model for personalized product
+    search
+  title: Learning a Fine-Grained Review-based Transformer Model for Personalized Product
     Search
   authors:
   - Keping Bi
@@ -210,9 +224,10 @@
   - W. Bruce Croft
   publisher: 'SIGIR ''21: The 44th International ACM SIGIR Conference on Research
     and Development in Information Retrieval, Virtual Event, Canada, July 11-15, 2021'
-  date: '2021-01-01'
+  date: '2021-12-13'
   link: https://doi.org/10.1145/3404835.3462911
-- title: Leveraging User Behavior History for Personalized Email Search
+- id: leveraging user behavior history for personalized email search
+  title: Leveraging User Behavior History for Personalized Email Search
   authors:
   - Keping Bi
   - Pavel Metrikov
@@ -220,20 +235,20 @@
   - Byungki Byun
   publisher: 'WWW ''21: The Web Conference 2021, Virtual Event / Ljubljana, Slovenia,
     April 19-23, 2021.'
-  date: '2021-12-18'
+  date: '2021-12-12'
   link: https://doi.org/10.1145/3442381.3450110
-- title: Explainable Product Search with a Dynamic Relation Embedding Model
+- id: explainable product search with a dynamic relation embedding model
+  title: Explainable Product Search with a Dynamic Relation Embedding Model
   authors:
   - Qingyao Ai
   - Yongfeng Zhang
   - Keping Bi
   - W. Bruce Croft
   publisher: ACM Trans. Inf. Syst.
-  date: '2020-01-01'
-  link:
-  - https://doi.org/10.1145/3361738
-  - https://www.wikidata.org/entity/Q102634548
-- title: 'Artemis: A Novel Annotation Methodology for Indicative Single Document Summarization'
+  date: '2020-12-11'
+  link: https://www.wikidata.org/entity/Q102634548
+- id: 'artemis: a novel annotation methodology for indicative single document summarization'
+  title: 'Artemis: A Novel Annotation Methodology for Indicative Single Document Summarization'
   authors:
   - Rahul Jha
   - Keping Bi
@@ -244,9 +259,10 @@
   - Kieran McDonald
   publisher: Proceedings of the First Workshop on Evaluation and Comparison of NLP
     Systems, Eval4NLP 2020, Online, November 20, 2020
-  date: '2020-12-22'
+  date: '2020-12-10'
   link: https://doi.org/10.18653/v1/2020.eval4nlp-1.8
-- title: A Transformer-based Embedding Model for Personalized Product Search
+- id: a transformer-based embedding model for personalized product search
+  title: A Transformer-based Embedding Model for Personalized Product Search
   authors:
   - Keping Bi
   - Qingyao Ai
@@ -254,17 +270,19 @@
   publisher: Proceedings of the 43rd International ACM SIGIR conference on research
     and development in Information Retrieval, SIGIR 2020, Virtual Event, China, July
     25-30, 2020
-  date: '2020-01-01'
+  date: 2020-12-9
   link: https://doi.org/10.1145/3397271.3401192
-- title: A Review-based Transformer Model for Personalized Product Search
+- id: a review-based transformer model for personalized product search
+  title: A Review-based Transformer Model for Personalized Product Search
   authors:
   - Keping Bi
   - Qingyao Ai
   - W. Bruce Croft
   publisher: CoRR
-  date: '2020-01-01'
+  date: 2020-12-8
   link: https://arxiv.org/abs/2004.09424
-- title: Conversational Product Search Based on Negative Feedback
+- id: conversational product search based on negative feedback
+  title: Conversational Product Search Based on Negative Feedback
   authors:
   - Keping Bi
   - Qingyao Ai
@@ -272,9 +290,10 @@
   - W. Bruce Croft
   publisher: Proceedings of the 28th ACM International Conference on Information and
     Knowledge Management, CIKM 2019, Beijing, China, November 3-7, 2019.
-  date: '2019-01-01'
+  date: 2019-12-7
   link: https://doi.org/10.1145/3357384.3357939
-- title: A Study of Context Dependencies in Multi-page Product Search
+- id: a study of context dependencies in multi-page product search
+  title: A Study of Context Dependencies in Multi-page Product Search
   authors:
   - Keping Bi
   - Choon Hui Teo
@@ -283,9 +302,11 @@
   - W. Bruce Croft
   publisher: Proceedings of the 28th ACM International Conference on Information and
     Knowledge Management, CIKM 2019, Beijing, China, November 3-7, 2019.
-  date: '2019-12-15'
+  date: 2019-12-6
   link: https://doi.org/10.1145/3357384.3358095
-- title: Iterative Relevance Feedback for Answer Passage Retrieval with Passage-Level
+- id: iterative relevance feedback for answer passage retrieval with passage-level
+    semantic match
+  title: Iterative Relevance Feedback for Answer Passage Retrieval with Passage-Level
     Semantic Match
   authors:
   - Keping Bi
@@ -293,9 +314,10 @@
   - W. Bruce Croft
   publisher: Advances in Information Retrieval - 41st European Conference on IR Research,
     ECIR 2019, Cologne, Germany, April 14-18, 2019, Proceedings, Part I
-  date: '2019-01-01'
+  date: 2019-12-5
   link: https://doi.org/10.1007/978-3-030-15712-8_36
-- title: Leverage Implicit Feedback for Context-aware Product Search
+- id: leverage implicit feedback for context-aware product search
+  title: Leverage Implicit Feedback for Context-aware Product Search
   authors:
   - Keping Bi
   - Choon Hui Teo
@@ -305,9 +327,10 @@
   publisher: Proceedings of the SIGIR 2019 Workshop on eCommerce, co-located with
     the 42nd International ACM SIGIR Conference on Research and Development in Information
     Retrieval, eCom@SIGIR 2019, Paris, France, July 25, 2019.
-  date: '2019-12-14'
+  date: 2019-12-4
   link: https://ceur-ws.org/Vol-2410/paper15.pdf
-- title: Learning a Deep Listwise Context Model for Ranking Refinement
+- id: learning a deep listwise context model for ranking refinement
+  title: Learning a Deep Listwise Context Model for Ranking Refinement
   authors:
   - Qingyao Ai
   - Keping Bi
@@ -315,9 +338,10 @@
   - W. Bruce Croft
   publisher: The 41st International ACM SIGIR Conference on Research & Development
     in Information Retrieval, SIGIR 2018, Ann Arbor, MI, USA, July 08-12, 2018
-  date: '2018-01-01'
+  date: 2018-12-3
   link: https://doi.org/10.1145/3209978.3209985
-- title: Unbiased Learning to Rank with Unbiased Propensity Estimation
+- id: unbiased learning to rank with unbiased propensity estimation
+  title: Unbiased Learning to Rank with Unbiased Propensity Estimation
   authors:
   - Qingyao Ai
   - Keping Bi
@@ -326,17 +350,19 @@
   - W. Bruce Croft
   publisher: The 41st International ACM SIGIR Conference on Research & Development
     in Information Retrieval, SIGIR 2018, Ann Arbor, MI, USA, July 08-12, 2018
-  date: '2018-01-01'
+  date: 2018-12-2
   link: https://doi.org/10.1145/3209978.3209986
-- title: Revisiting Iterative Relevance Feedback for Document and Passage Retrieval
+- id: revisiting iterative relevance feedback for document and passage retrieval
+  title: Revisiting Iterative Relevance Feedback for Document and Passage Retrieval
   authors:
   - Keping Bi
   - Qingyao Ai
   - W. Bruce Croft
   publisher: CoRR
-  date: '2018-01-01'
+  date: 2018-12-1
   link: http://arxiv.org/abs/1812.05731
-- title: Learning a Hierarchical Embedding Model for Personalized Product Search
+- id: learning a hierarchical embedding model for personalized product search
+  title: Learning a Hierarchical Embedding Model for Personalized Product Search
   authors:
   - Qingyao Ai
   - Yongfeng Zhang
@@ -346,9 +372,10 @@
   publisher: Proceedings of the 40th International ACM SIGIR Conference on Research
     and Development in Information Retrieval, Shinjuku, Tokyo, Japan, August 7-11,
     2017
-  date: '2017-01-01'
+  date: '2017-11-31'
   link: https://doi.org/10.1145/3077136.3080813
-- title: Extracting search-focused key n-grams for relevance ranking in web search
+- id: extracting search-focused key n-grams for relevance ranking in web search
+  title: Extracting search-focused key n-grams for relevance ranking in web search
   authors:
   - Chen Wang
   - Keping Bi
@@ -357,5 +384,5 @@
   - Guihong Cao
   publisher: Proceedings of the Fifth International Conference on Web Search and Web
     Data Mining, WSDM 2012, Seattle, WA, USA, February 8-12, 2012
-  date: '2012-12-12'
+  date: '2012-11-30'
   link: https://doi.org/10.1145/2124295.2124338
