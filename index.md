@@ -15,7 +15,7 @@ nav:
 <p class="center">
 
 
-Assistant Professor<br/>
+Associate Professor<br/>
 Institute of Computing Technology (ICT)<br/>
 Chinese Academy of Sciences (CAS)<br/>
 
@@ -36,7 +36,7 @@ Haidian District, Beijing, 100190<br/>
 {% capture main_panel %}
 
 
-**Keping Bi**, Assistant Professor at Institute of Computing Technology (ICT), Chinese Academy of Sciences (CAS)
+**Keping Bi**, Associate Professor at Institute of Computing Technology (ICT), Chinese Academy of Sciences (CAS)
 
 My research primarily focuses on Information Retrieval, with a special emphasis on dense retrieval, conversational search, and the emerging field of retrieval-augmented generation. Additionally, I am deeply interested in Trustworthy AI, particularly in relation to information-seeking systems, such as unbiased learning, model robustness, and implicit bias evaluation. I earned my Ph.D. from the College of Information and Computer Sciences at the University of Massachusetts (UMass) Amherst, under the guidance of Professor [W. Bruce Croft](http://ciir.cs.umass.edu/croft) at the [Center for Intelligent Information Retrieval (CIIR)](http://ciir.cs.umass.edu/). I also hold two master's degrees—one in computer science from UMass Amherst and another in machine intelligence from Peking University—and a bachelor's degree in Computer Science from Nankai University.
 
@@ -46,7 +46,8 @@ I'm recruiting self-motivated master students who are interested in conducting i
 
 **Experience**
 
-- Assistant Professor at [Institute of Computing Technology (ICT)](http://english.ict.cas.cn/), CAS, Beijing, China, Oct. 2022 - now
+- Associate Professor at [Institute of Computing Technology (ICT)](http://english.ict.cas.cn/), CAS, Beijing, China, Oct. 2024 - now
+- Assistant Professor at [Institute of Computing Technology (ICT)](http://english.ict.cas.cn/), CAS, Beijing, China, Oct. 2022 - Oct. 2024
 - Microsoft Search Intelligence & Assistant, Applied Scientist II, USA, July 2021 - August 2022
 - University of Massachusetts, Amherst, Research Assistant in [CIIR](http://ciir.cs.umass.edu/), advised by Prof. [W. Bruce Croft](http://ciir.cs.umass.edu/croft). Amherst, MA, USA, Sept. 2015 - Jul. 2021
 - Microsoft Research and MSAI, joint Research Intern, mentored by [Dr. Pavel Metrikov](https://www.linkedin.com/in/pavel-metrikov-a46525a/) and [Dr. Chunyuan Li](https://chunyuan.li/), Remote Internship, USA, July 2020 - August 2020
