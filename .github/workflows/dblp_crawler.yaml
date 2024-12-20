@@ -9,6 +9,8 @@ on:
   # workflow_dispatch:
   # schedule:
   #   - cron: "0 0 * * 1"
+permissions:
+  contents: write
 
 jobs:
   update_research:
@@ -35,3 +37,5 @@ jobs:
           file_pattern: "_data/citations.yaml"
           commit_message: "Generate citations by crawler"
           push_options: --force
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
