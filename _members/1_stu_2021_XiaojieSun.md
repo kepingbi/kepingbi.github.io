@@ -1,7 +1,7 @@
 ---
 name: Xiaojie Sun
 image: images/students/XiaojieSun.jpeg
-description: M.S. at ICT, Chinese Academy of Sciences, 2021-2024
+description: M.S. at ICT, CAS, 2021-2024
 role: master
 group: former
 aliases:

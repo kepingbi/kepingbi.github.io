@@ -1,6 +1,6 @@
 ---
 name: Wanqing Cui
-description: Ph.D. at ICT, Chinese Academy of Sciences, 2018-
+description: Ph.D. at ICT, CAS, 2018-
 role: phd
 group: current
 aliases:

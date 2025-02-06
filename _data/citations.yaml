@@ -32,9 +32,7 @@
     Retrieval, ECIR 2024, Glasgow, UK, March 24-28, 2024, Proceedings, Part IV
   date: '2024-12-28'
   link: https://doi.org/10.1007/978-3-031-56066-8_17
-- id: 'linkage: listwise ranking among varied-quality references for non-factoid qa
-    evaluation via llms'
-  title: 'LINKAGE: Listwise Ranking among Varied-Quality References for Non-Factoid
+- title: 'LINKAGE: Listwise Ranking among Varied-Quality References for Non-Factoid
     QA Evaluation via LLMs'
   authors:
   - Sihui Yang
@@ -100,9 +98,7 @@
   publisher: CoRR
   date: '2024-12-23'
   link: https://doi.org/10.48550/arXiv.2408.09817
-- id: 'causaldiff: causality-inspired disentanglement via diffusion model for adversarial
-    defense'
-  title: 'CausalDiff: Causality-Inspired Disentanglement via Diffusion Model for Adversarial
+- title: 'CausalDiff: Causality-Inspired Disentanglement via Diffusion Model for Adversarial
     Defense'
   authors:
   - Mingkun Zhang
