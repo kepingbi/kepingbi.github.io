@@ -44,6 +44,12 @@ My research primarily focuses on Information Retrieval, with a special emphasis 
 
 I'm recruiting self-motivated master students who are interested in conducting innovative research. Undergraduate students who are willing to pursue a Ph.D. or master degree in Institute of Computing Technology CAS or abroad are welcome to do internships in my group. If you are interested, please send your resume to my email address (bikeping[at]ict.ac.cn) and include your research interests and your future plan. 
 
+**News**
+
+- I am serving as a general co-chair of [SIGIR-AP 2025](https://www.sigir-ap.org/sigir-ap-2025)! Welcome your submissions!
+
+- I am serving as a tutorial co-chair of [NLPCC 2025](http://tcci.ccf.org.cn/conference/2025/). 
+
 **Experience**
 
 - Associate Professor at [Institute of Computing Technology (ICT)](http://english.ict.cas.cn/), CAS, Beijing, China, Oct. 2024 - now

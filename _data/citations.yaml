@@ -1,5 +1,140 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM DBLP.
 
+- title: 'GSM-EL: A Generalizable Symbol-Manipulation Approach for Entity Linking'
+  authors:
+  - Xueqi Cheng
+  - Yuanzheng Wang
+  - Yixing Fan
+  - Jiafeng Guo
+  - Ruqing Zhang
+  - Keping Bi
+  publisher: IEEE Trans. Knowl. Data Eng.
+  date: 2025-3-30
+  link: https://doi.org/10.1109/TKDE.2024.3523399
+- title: 'CAME: Competitively Learning a Mixture-of-Experts Model for First-stage
+    Retrieval'
+  authors:
+  - Jiafeng Guo
+  - Yinqiong Cai
+  - Keping Bi
+  - Yixing Fan
+  - Wei Chen
+  - Ruqing Zhang
+  - Xueqi Cheng
+  publisher: ACM Trans. Inf. Syst.
+  date: 2025-3-30
+  link: https://doi.org/10.1145/3678880
+- id: 'unbiased learning to rank with query-level click propensity estimation: beyond
+    pointwise observation and relevance'
+  title: 'Unbiased Learning to Rank with Query-Level Click Propensity Estimation:
+    Beyond Pointwise Observation and Relevance'
+  authors:
+  - Lulu Yu
+  - Keping Bi
+  - Jiafeng Guo
+  - Shihao Liu
+  - Dawei Yin
+  - Xueqi Cheng
+  publisher: Companion Proceedings of the ACM on Web Conference 2025, WWW 2025, Sydney,
+    NSW, Australia, 28 April 2025 - 2 May 2025
+  date: 2025-3-29
+  link: https://doi.org/10.1145/3701716.3715458
+- id: towards fully exploiting llm internal states to enhance knowledge boundary perception
+  title: Towards Fully Exploiting LLM Internal States to Enhance Knowledge Boundary
+    Perception
+  authors:
+  - Shiyu Ni
+  - Keping Bi
+  - Jiafeng Guo
+  - Lulu Yu
+  - Baolong Bi
+  - Xueqi Cheng
+  publisher: CoRR
+  date: 2025-2-28
+  link: https://doi.org/10.48550/arXiv.2502.11677
+- id: estimating commonsense plausibility through semantic shifts
+  title: Estimating Commonsense Plausibility through Semantic Shifts
+  authors:
+  - Wanqing Cui
+  - Keping Bi
+  - Jiafeng Guo
+  - Xueqi Cheng
+  publisher: CoRR
+  date: 2025-2-27
+  link: https://doi.org/10.48550/arXiv.2502.13464
+- id: 'clipure: purification in latent space via clip for adversarially robust zero-shot
+    classification'
+  title: 'CLIPure: Purification in Latent Space via CLIP for Adversarially Robust
+    Zero-Shot Classification'
+  authors:
+  - Mingkun Zhang
+  - Keping Bi
+  - Wei Chen
+  - Jiafeng Guo
+  - Xueqi Cheng
+  publisher: CoRR
+  date: 2025-2-26
+  link: https://doi.org/10.48550/arXiv.2502.18176
+- id: tailoring table retrieval from a field-aware hybrid matching perspective
+  title: Tailoring Table Retrieval from a Field-aware Hybrid Matching Perspective
+  authors:
+  - Da Li
+  - Keping Bi
+  - Jiafeng Guo
+  - Xueqi Cheng
+  publisher: CoRR
+  date: 2025-3-25
+  link: https://doi.org/10.48550/arXiv.2503.02251
+- id: unleashing the power of llms in dense retrieval with query likelihood modeling
+  title: Unleashing the Power of LLMs in Dense Retrieval with Query Likelihood Modeling
+  authors:
+  - Hengran Zhang
+  - Keping Bi
+  - Jiafeng Guo
+  - Xiaojie Sun
+  - Shihao Liu
+  - Daiting Shi
+  - Dawei Yin
+  - Xueqi Cheng
+  publisher: CoRR
+  date: 2025-4-24
+  link: https://doi.org/10.48550/arXiv.2504.05216
+- id: 'leveraging llms for utility-focused annotation: reducing manual effort for
+    retrieval and rag'
+  title: 'Leveraging LLMs for Utility-Focused Annotation: Reducing Manual Effort for
+    Retrieval and RAG'
+  authors:
+  - Hengran Zhang
+  - Minghao Tang
+  - Keping Bi
+  - Jiafeng Guo
+  - Shihao Liu
+  - Daiting Shi
+  - Dawei Yin
+  - Xueqi Cheng
+  publisher: CoRR
+  date: 2025-4-23
+  link: https://doi.org/10.48550/arXiv.2504.05220
+- id: bridging queries and tables through entities in table retrieval
+  title: Bridging Queries and Tables through Entities in Table Retrieval
+  authors:
+  - Da Li
+  - Keping Bi
+  - Jiafeng Guo
+  - Xueqi Cheng
+  publisher: CoRR
+  date: 2025-4-22
+  link: https://doi.org/10.48550/arXiv.2504.06551
+- id: how knowledge popularity influences and enhances llm knowledge boundary perception
+  title: How Knowledge Popularity Influences and Enhances LLM Knowledge Boundary Perception
+  authors:
+  - Shiyu Ni
+  - Keping Bi
+  - Jiafeng Guo
+  - Xueqi Cheng
+  publisher: CoRR
+  date: 2025-5-21
+  link: https://doi.org/10.48550/arXiv.2505.17537
 - title: 'MORE: Multi-mOdal REtrieval Augmented Generative Commonsense Reasoning'
   authors:
   - Wanqing Cui
@@ -21,6 +156,17 @@
     Bangkok, Thailand and virtual meeting, August 11-16, 2024
   date: '2024-12-29'
   link: https://aclanthology.org/2024.findings-acl.675
+- title: Are Large Language Models More Honest in Their Probabilistic or Verbalized
+    Confidence?
+  authors:
+  - Shiyu Ni
+  - Keping Bi
+  - Lulu Yu
+  - Jiafeng Guo
+  publisher: Information Retrieval - 30th China Conference, CCIR 2024, Wuhan, China,
+    October 18-20, 2024, Revised Selected Papers
+  date: 2024-5-20
+  link: https://doi.org/10.1007/978-981-96-1710-4_10
 - title: Reproducibility Analysis and Enhancements for Multi-aspect Dense Retriever
     with Aspect Learning
   authors:
@@ -44,6 +190,20 @@
     Miami, Florida, USA, November 12-16, 2024'
   date: '2024-12-30'
   link: https://aclanthology.org/2024.findings-emnlp.410
+- title: 'CausalDiff: Causality-Inspired Disentanglement via Diffusion Model for Adversarial
+    Defense'
+  authors:
+  - Mingkun Zhang
+  - Keping Bi
+  - Wei Chen
+  - Quanrun Chen
+  - Jiafeng Guo
+  - Xueqi Cheng
+  publisher: 'Advances in Neural Information Processing Systems 38: Annual Conference
+    on Neural Information Processing Systems 2024, NeurIPS 2024, Vancouver, BC, Canada,
+    December 10 - 15, 2024.'
+  date: 2024-3-29
+  link: http://papers.nips.cc/paper_files/paper/2024/hash/e1b619a9e241606a23eb21767f16cf81-Abstract-Conference.html
 - title: A Multi-Granularity-Aware Aspect Learning Model for Multi-Aspect Dense Retrieval
   authors:
   - Xiaojie Sun
@@ -78,16 +238,6 @@
   publisher: CoRR
   date: '2024-12-25'
   link: https://doi.org/10.48550/arXiv.2406.14023
-- title: Are Large Language Models More Honest in Their Probabilistic or Verbalized
-    Confidence?
-  authors:
-  - Shiyu Ni
-  - Keping Bi
-  - Lulu Yu
-  - Jiafeng Guo
-  publisher: CoRR
-  date: '2024-12-24'
-  link: https://doi.org/10.48550/arXiv.2408.09773
 - title: Contextual Dual Learning Algorithm with Listwise Distillation for Unbiased
     Learning to Rank
   authors:
@@ -98,18 +248,6 @@
   publisher: CoRR
   date: '2024-12-23'
   link: https://doi.org/10.48550/arXiv.2408.09817
-- title: 'CausalDiff: Causality-Inspired Disentanglement via Diffusion Model for Adversarial
-    Defense'
-  authors:
-  - Mingkun Zhang
-  - Keping Bi
-  - Wei Chen
-  - Quanrun Chen
-  - Jiafeng Guo
-  - Xueqi Cheng
-  publisher: CoRR
-  date: '2024-12-25'
-  link: https://doi.org/10.48550/arXiv.2410.23091
 - title: 'L2R: Lifelong Learning for First-stage Retrieval with Backward-Compatible
     Representations'
   authors:
@@ -179,19 +317,6 @@
   publisher: CoRR
   date: '2023-12-17'
   link: https://doi.org/10.48550/arXiv.2310.11852
-- title: 'CAME: Competitively Learning a Mixture-of-Experts Model for First-stage
-    Retrieval'
-  authors:
-  - Yinqiong Cai
-  - Yixing Fan
-  - Keping Bi
-  - Jiafeng Guo
-  - Wei Chen
-  - Ruqing Zhang
-  - Xueqi Cheng
-  publisher: CoRR
-  date: '2023-12-16'
-  link: https://doi.org/10.48550/arXiv.2311.02834
 - title: 'AREDSUM: Adaptive Redundancy-Aware Iterative Sentence Ranking for Extractive
     Document Summarization'
   authors:
