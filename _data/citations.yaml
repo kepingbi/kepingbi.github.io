@@ -24,9 +24,7 @@
   publisher: ACM Trans. Inf. Syst.
   date: 2025-3-30
   link: https://doi.org/10.1145/3678880
-- id: 'unbiased learning to rank with query-level click propensity estimation: beyond
-    pointwise observation and relevance'
-  title: 'Unbiased Learning to Rank with Query-Level Click Propensity Estimation:
+- title: 'Unbiased Learning to Rank with Query-Level Click Propensity Estimation:
     Beyond Pointwise Observation and Relevance'
   authors:
   - Lulu Yu
@@ -39,8 +37,7 @@
     NSW, Australia, 28 April 2025 - 2 May 2025
   date: 2025-3-29
   link: https://doi.org/10.1145/3701716.3715458
-- id: towards fully exploiting llm internal states to enhance knowledge boundary perception
-  title: Towards Fully Exploiting LLM Internal States to Enhance Knowledge Boundary
+- title: Towards Fully Exploiting LLM Internal States to Enhance Knowledge Boundary
     Perception
   authors:
   - Shiyu Ni
@@ -52,8 +49,7 @@
   publisher: CoRR
   date: 2025-2-28
   link: https://doi.org/10.48550/arXiv.2502.11677
-- id: estimating commonsense plausibility through semantic shifts
-  title: Estimating Commonsense Plausibility through Semantic Shifts
+- title: Estimating Commonsense Plausibility through Semantic Shifts
   authors:
   - Wanqing Cui
   - Keping Bi
@@ -62,9 +58,7 @@
   publisher: CoRR
   date: 2025-2-27
   link: https://doi.org/10.48550/arXiv.2502.13464
-- id: 'clipure: purification in latent space via clip for adversarially robust zero-shot
-    classification'
-  title: 'CLIPure: Purification in Latent Space via CLIP for Adversarially Robust
+- title: 'CLIPure: Purification in Latent Space via CLIP for Adversarially Robust
     Zero-Shot Classification'
   authors:
   - Mingkun Zhang
@@ -75,8 +69,7 @@
   publisher: CoRR
   date: 2025-2-26
   link: https://doi.org/10.48550/arXiv.2502.18176
-- id: tailoring table retrieval from a field-aware hybrid matching perspective
-  title: Tailoring Table Retrieval from a Field-aware Hybrid Matching Perspective
+- title: Tailoring Table Retrieval from a Field-aware Hybrid Matching Perspective
   authors:
   - Da Li
   - Keping Bi
@@ -85,8 +78,7 @@
   publisher: CoRR
   date: 2025-3-25
   link: https://doi.org/10.48550/arXiv.2503.02251
-- id: unleashing the power of llms in dense retrieval with query likelihood modeling
-  title: Unleashing the Power of LLMs in Dense Retrieval with Query Likelihood Modeling
+- title: Unleashing the Power of LLMs in Dense Retrieval with Query Likelihood Modeling
   authors:
   - Hengran Zhang
   - Keping Bi
@@ -99,9 +91,7 @@
   publisher: CoRR
   date: 2025-4-24
   link: https://doi.org/10.48550/arXiv.2504.05216
-- id: 'leveraging llms for utility-focused annotation: reducing manual effort for
-    retrieval and rag'
-  title: 'Leveraging LLMs for Utility-Focused Annotation: Reducing Manual Effort for
+- title: 'Leveraging LLMs for Utility-Focused Annotation: Reducing Manual Effort for
     Retrieval and RAG'
   authors:
   - Hengran Zhang
@@ -115,8 +105,7 @@
   publisher: CoRR
   date: 2025-4-23
   link: https://doi.org/10.48550/arXiv.2504.05220
-- id: bridging queries and tables through entities in table retrieval
-  title: Bridging Queries and Tables through Entities in Table Retrieval
+- title: Bridging Queries and Tables through Entities in Table Retrieval
   authors:
   - Da Li
   - Keping Bi
@@ -125,8 +114,7 @@
   publisher: CoRR
   date: 2025-4-22
   link: https://doi.org/10.48550/arXiv.2504.06551
-- id: how knowledge popularity influences and enhances llm knowledge boundary perception
-  title: How Knowledge Popularity Influences and Enhances LLM Knowledge Boundary Perception
+- title: How Knowledge Popularity Influences and Enhances LLM Knowledge Boundary Perception
   authors:
   - Shiyu Ni
   - Keping Bi
