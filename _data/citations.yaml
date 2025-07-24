@@ -24,6 +24,18 @@
   publisher: ACM Trans. Inf. Syst.
   date: 2025-3-30
   link: https://doi.org/10.1145/3678880
+- title: 'CLIPure: Purification in Latent Space via CLIP for Adversarially Robust
+    Zero-Shot Classification'
+  authors:
+  - Mingkun Zhang
+  - Keping Bi
+  - Wei Chen
+  - Jiafeng Guo
+  - Xueqi Cheng
+  publisher: The Thirteenth International Conference on Learning Representations,
+    ICLR 2025, Singapore, April 24-28, 2025
+  date: '2025-12-30'
+  link: https://openreview.net/forum?id=TQ2ZOy6miT
 - title: 'Unbiased Learning to Rank with Query-Level Click Propensity Estimation:
     Beyond Pointwise Observation and Relevance'
   authors:
@@ -58,17 +70,6 @@
   publisher: CoRR
   date: 2025-2-27
   link: https://doi.org/10.48550/arXiv.2502.13464
-- title: 'CLIPure: Purification in Latent Space via CLIP for Adversarially Robust
-    Zero-Shot Classification'
-  authors:
-  - Mingkun Zhang
-  - Keping Bi
-  - Wei Chen
-  - Jiafeng Guo
-  - Xueqi Cheng
-  publisher: CoRR
-  date: 2025-2-26
-  link: https://doi.org/10.48550/arXiv.2502.18176
 - title: Tailoring Table Retrieval from a Field-aware Hybrid Matching Perspective
   authors:
   - Da Li
@@ -123,6 +124,15 @@
   publisher: CoRR
   date: 2025-5-21
   link: https://doi.org/10.48550/arXiv.2505.17537
+- id: lifeir at the ntcir-18 lifelog-6 task
+  title: LifeIR at the NTCIR-18 Lifelog-6 Task
+  authors:
+  - Jiahan Chen
+  - Da Li
+  - Keping Bi
+  publisher: CoRR
+  date: 2025-5-22
+  link: https://doi.org/10.48550/arXiv.2505.20987
 - title: 'MORE: Multi-mOdal REtrieval Augmented Generative Commonsense Reasoning'
   authors:
   - Wanqing Cui
