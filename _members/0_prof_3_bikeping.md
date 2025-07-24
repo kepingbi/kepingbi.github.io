@@ -16,6 +16,6 @@ links:
     linkedin: keping-bi-4ab8306a
 ---
 
-中国科学院计算技术研究所助理研究员。主要研究兴趣包括信息检索模型，检索增强的模型生成，可信人工智能等。
+中国科学院计算技术研究所副研究员。主要研究兴趣包括信息检索模型，检索增强的模型生成，可信人工智能等。
 
 Assistant Professor of Institute of Computing Technology, Chinese Academy of Sciences. Major research interests include information retrieval models, retrieval augmented generation, trustworthy AI, etc.

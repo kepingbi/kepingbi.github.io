@@ -1,8 +1,8 @@
 ---
 name: Wanqing Cui
-description: Ph.D. at ICT, CAS, 2018-
+description: Ph.D. at ICT, CAS, 2018-2025
 role: phd
-group: current
+group: former
 aliases:
   - W. Cui
   - Wanqing Cui

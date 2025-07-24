@@ -65,7 +65,7 @@ I'm recruiting self-motivated master students who are interested in conducting i
 
 
 **Achievements**
-
+- National-level Young Talent, 2023
 - New Hundred Stars Talent Program, ICT (top 4), 2022
 - Baidu Highest Award Nomination (top 10/180+,  $1 million reward for teams of 10 or fewer members), 2014
 - Promoted Twice at Baidu, 2013, 2014
@@ -74,11 +74,13 @@ I'm recruiting self-motivated master students who are interested in conducting i
 - TEDA-Motorola Scholarship (top 10%, gave a speech as a student representative), 2007
 
 **Services**
-- SIGIR-AP 2023 Registration Chair
+- [SIGIR-AP 2025](https://www.sigir-ap.org/sigir-ap-2025) General Co-chair
+- [NLPCC 2025](http://tcci.ccf.org.cn/conference/2025/) Tutorial Co-chair
+- [SIGIR-AP 2023](https://www.sigir-ap.org/sigir-ap-2023) Registration Chair
 - Area Chair/Senior PC Member
   - LREC-COLING 
 - PC Member: 
-  - SIGIR, WWW, CIKM, ACL
+  - SIGIR, WWW, CIKM, ACL, WSDM
 - Journal Review: 
   - TOIS, TKDE, IPM, TIST, JASIST, IEEE Access
 

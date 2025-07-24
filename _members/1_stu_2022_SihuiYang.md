@@ -1,9 +1,9 @@
 ---
 name: Sihui Yang
 image: images/students/SihuiYang.jpeg
-description: M.S. at ICT, CAS, 2022-
+description: M.S. at ICT, CAS, 2022-2025
 role: master
-group: current
+group: former
 aliases:
   - S. Yang
   - Sihui Yang

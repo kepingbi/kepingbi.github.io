@@ -1,7 +1,7 @@
 ---
 name: Pratiksha Agrawal
 image: images/students/PratikshaAgrawal.jpeg
-description: intern at Microsoft, 2022
+description: intern at Microsoft, 2022 summer
 role: intern
 group: former
 aliases:
