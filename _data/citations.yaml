@@ -124,8 +124,7 @@
   publisher: CoRR
   date: 2025-5-21
   link: https://doi.org/10.48550/arXiv.2505.17537
-- id: lifeir at the ntcir-18 lifelog-6 task
-  title: LifeIR at the NTCIR-18 Lifelog-6 Task
+- title: LifeIR at the NTCIR-18 Lifelog-6 Task
   authors:
   - Jiahan Chen
   - Da Li
