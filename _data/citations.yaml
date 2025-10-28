@@ -147,8 +147,7 @@
   publisher: CoRR
   date: 2025-5-21
   link: https://doi.org/10.48550/arXiv.2505.17537
-- id: a comparative study of specialized llms as dense retrievers
-  title: A Comparative Study of Specialized LLMs as Dense Retrievers
+- title: A Comparative Study of Specialized LLMs as Dense Retrievers
   authors:
   - Hengran Zhang
   - Keping Bi
@@ -156,9 +155,7 @@
   publisher: CoRR
   date: 2025-7-23
   link: https://doi.org/10.48550/arXiv.2507.03958
-- id: distilling a small utility-based passage selector to enhance retrieval-augmented
-    generation
-  title: Distilling a Small Utility-Based Passage Selector to Enhance Retrieval-Augmented
+- title: Distilling a Small Utility-Based Passage Selector to Enhance Retrieval-Augmented
     Generation
   authors:
   - Hengran Zhang
@@ -171,9 +168,7 @@
   publisher: CoRR
   date: 2025-7-22
   link: https://doi.org/10.48550/arXiv.2507.19102
-- id: injecting external knowledge into the reasoning process enhances retrieval-augmented
-    generation
-  title: Injecting External Knowledge into the Reasoning Process Enhances Retrieval-Augmented
+- title: Injecting External Knowledge into the Reasoning Process Enhances Retrieval-Augmented
     Generation
   authors:
   - Minghao Tang
@@ -183,8 +178,7 @@
   publisher: CoRR
   date: 2025-7-21
   link: https://doi.org/10.48550/arXiv.2507.19333
-- id: how do llm-generated texts impact term-based retrieval models?
-  title: How Do LLM-Generated Texts Impact Term-Based Retrieval Models?
+- title: How Do LLM-Generated Texts Impact Term-Based Retrieval Models?
   authors:
   - Wei Huang
   - Keping Bi
@@ -195,9 +189,7 @@
   publisher: CoRR
   date: 2025-8-20
   link: https://doi.org/10.48550/arXiv.2508.17715
-- id: do lvlms know what they know? a systematic study of knowledge boundary perception
-    in lvlms
-  title: Do LVLMs Know What They Know? A Systematic Study of Knowledge Boundary Perception
+- title: Do LVLMs Know What They Know? A Systematic Study of Knowledge Boundary Perception
     in LVLMs
   authors:
   - Zhikai Ding
