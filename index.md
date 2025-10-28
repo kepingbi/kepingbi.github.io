@@ -45,9 +45,13 @@ My research primarily focuses on Information Retrieval, with a special emphasis 
 I'm recruiting self-motivated master students who are interested in conducting innovative research. Undergraduate students who are willing to pursue a Ph.D. or master degree in Institute of Computing Technology CAS or abroad are welcome to do internships in my group. If you are interested, please send your resume to my email address (bikeping[at]ict.ac.cn) and include your research interests and your future plan. 
 
 **News**
-
+- 2 students I supervised got national scholarship (Hengran and Lulu). Congrats! 
+- 1 paper accepted by WSDM 2026. 
+- 2 papers accepted by SIGIR-AP 2025.
+- 3 papers accepted by EMNLP 2025 (2 main, 1 findings).
+- 1 paper accepted by CIKM 2025. 
 - I am serving as a general co-chair of [SIGIR-AP 2025](https://www.sigir-ap.org/sigir-ap-2025)! Welcome your submissions!
-
+- 2 papers accepted to ACL 2025 (1 main, 1 findings). 
 - I am serving as a tutorial co-chair of [NLPCC 2025](http://tcci.ccf.org.cn/conference/2025/). 
 
 **Experience**
@@ -67,22 +71,22 @@ I'm recruiting self-motivated master students who are interested in conducting i
 **Achievements**
 - National-level Young Talent, 2023
 - New Hundred Stars Talent Program, ICT (top 4), 2022
-- Baidu Highest Award Nomination (top 10/180+,  $1 million reward for teams of 10 or fewer members), 2014
-- Promoted Twice at Baidu, 2013, 2014
-- Tencent Campus Practice Competition, Third Prize (top 10%), 2010
-- Outstanding Student Leader of Nankai University (top 5%, 3 times)
-- TEDA-Motorola Scholarship (top 10%, gave a speech as a student representative), 2007
+- Baidu Highest Award Nomination (top 10/180+,  $1 million reward for teams of 10- members), 2014
+<!-- - Promoted Twice at Baidu, 2013, 2014 -->
+<!-- - Tencent Campus Practice Competition, Third Prize (top 10%), 2010 -->
+<!-- - Outstanding Student Leader of Nankai University (top 5%, 3 times) -->
+<!--  - TEDA-Motorola Scholarship (top 10%, gave a speech as a student representative), 2007 -->
 
-**Services**
+**Academic Services**
 - [SIGIR-AP 2025](https://www.sigir-ap.org/sigir-ap-2025) General Co-chair
 - [NLPCC 2025](http://tcci.ccf.org.cn/conference/2025/) Tutorial Co-chair
 - [SIGIR-AP 2023](https://www.sigir-ap.org/sigir-ap-2023) Registration Chair
 - Area Chair/Senior PC Member
-  - LREC-COLING 
+  - LREC-COLING 2023, ARR 2025
 - PC Member: 
-  - SIGIR, WWW, CIKM, ACL, WSDM
+  - SIGIR, WWW, CIKM, ACL, WSDM, ICLR, EMNLP
 - Journal Review: 
-  - TOIS, TKDE, IPM, TIST, JASIST, IEEE Access
+  - TOIS, TKDE, IPM, TIST, JASIST, IEEE Access, IJDSA
 
 {% endcapture %}
 

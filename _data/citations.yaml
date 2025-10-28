@@ -24,6 +24,32 @@
   publisher: ACM Trans. Inf. Syst.
   date: 2025-3-30
   link: https://doi.org/10.1145/3678880
+- title: Evaluating Implicit Bias in Large Language Models by Attacking From a Psychometric
+    Perspective
+  authors:
+  - Yuchen Wen
+  - Keping Bi
+  - Wei Chen
+  - Jiafeng Guo
+  - Xueqi Cheng
+  publisher: Findings of the Association for Computational Linguistics, ACL 2025,
+    Vienna, Austria, July 27 - August 1, 2025
+  date: '2025-12-30'
+  link: https://aclanthology.org/2025.findings-acl.263/
+- title: Towards Fully Exploiting LLM Internal States to Enhance Knowledge Boundary
+    Perception
+  authors:
+  - Shiyu Ni
+  - Keping Bi
+  - Jiafeng Guo
+  - Lulu Yu
+  - Baolong Bi
+  - Xueqi Cheng
+  publisher: 'Proceedings of the 63rd Annual Meeting of the Association for Computational
+    Linguistics (Volume 1: Long Papers), ACL 2025, Vienna, Austria, July 27 - August
+    1, 2025'
+  date: '2025-12-29'
+  link: https://aclanthology.org/2025.acl-long.1184/
 - title: 'CLIPure: Purification in Latent Space via CLIP for Adversarially Robust
     Zero-Shot Classification'
   authors:
@@ -36,6 +62,15 @@
     ICLR 2025, Singapore, April 24-28, 2025
   date: '2025-12-30'
   link: https://openreview.net/forum?id=TQ2ZOy6miT
+- title: LifeIR at the NTCIR-18 Lifelog-6 Task
+  authors:
+  - Jiahan Chen
+  - Da Li
+  - Keping Bi
+  publisher: Proceedings of the 18th NTCIR Conference on Evaluation of Information
+    Access Technologies, NTCIR 2025, Tokyo, Japan, June 10-13, 2025
+  date: '2025-12-28'
+  link: https://doi.org/10.20736/0002002049
 - title: 'Unbiased Learning to Rank with Query-Level Click Propensity Estimation:
     Beyond Pointwise Observation and Relevance'
   authors:
@@ -49,18 +84,6 @@
     NSW, Australia, 28 April 2025 - 2 May 2025
   date: 2025-3-29
   link: https://doi.org/10.1145/3701716.3715458
-- title: Towards Fully Exploiting LLM Internal States to Enhance Knowledge Boundary
-    Perception
-  authors:
-  - Shiyu Ni
-  - Keping Bi
-  - Jiafeng Guo
-  - Lulu Yu
-  - Baolong Bi
-  - Xueqi Cheng
-  publisher: CoRR
-  date: 2025-2-28
-  link: https://doi.org/10.48550/arXiv.2502.11677
 - title: Estimating Commonsense Plausibility through Semantic Shifts
   authors:
   - Wanqing Cui
@@ -124,15 +147,65 @@
   publisher: CoRR
   date: 2025-5-21
   link: https://doi.org/10.48550/arXiv.2505.17537
-- id: lifeir at the ntcir-18 lifelog-6 task
-  title: LifeIR at the NTCIR-18 Lifelog-6 Task
+- id: a comparative study of specialized llms as dense retrievers
+  title: A Comparative Study of Specialized LLMs as Dense Retrievers
   authors:
-  - Jiahan Chen
-  - Da Li
+  - Hengran Zhang
+  - Keping Bi
+  - Jiafeng Guo
+  publisher: CoRR
+  date: 2025-7-21
+  link: https://doi.org/10.48550/arXiv.2507.03958
+- id: distilling a small utility-based passage selector to enhance retrieval-augmented
+    generation
+  title: Distilling a Small Utility-Based Passage Selector to Enhance Retrieval-Augmented
+    Generation
+  authors:
+  - Hengran Zhang
+  - Keping Bi
+  - Jiafeng Guo
+  - Jiaming Zhang
+  - Shuaiqiang Wang
+  - Dawei Yin
+  - Xueqi Cheng
+  publisher: CoRR
+  date: 2025-7-20
+  link: https://doi.org/10.48550/arXiv.2507.19102
+- id: injecting external knowledge into the reasoning process enhances retrieval-augmented
+    generation
+  title: Injecting External Knowledge into the Reasoning Process Enhances Retrieval-Augmented
+    Generation
+  authors:
+  - Minghao Tang
+  - Shiyu Ni
+  - Jiafeng Guo
   - Keping Bi
   publisher: CoRR
-  date: 2025-5-22
-  link: https://doi.org/10.48550/arXiv.2505.20987
+  date: 2025-7-19
+  link: https://doi.org/10.48550/arXiv.2507.19333
+- id: how do llm-generated texts impact term-based retrieval models?
+  title: How Do LLM-Generated Texts Impact Term-Based Retrieval Models?
+  authors:
+  - Wei Huang
+  - Keping Bi
+  - Yinqiong Cai
+  - Wei Chen
+  - Jiafeng Guo
+  - Xueqi Cheng
+  publisher: CoRR
+  date: 2025-8-18
+  link: https://doi.org/10.48550/arXiv.2508.17715
+- id: do lvlms know what they know? a systematic study of knowledge boundary perception
+    in lvlms
+  title: Do LVLMs Know What They Know? A Systematic Study of Knowledge Boundary Perception
+    in LVLMs
+  authors:
+  - Zhikai Ding
+  - Shiyu Ni
+  - Keping Bi
+  publisher: CoRR
+  date: 2025-8-17
+  link: https://doi.org/10.48550/arXiv.2508.19111
 - title: 'MORE: Multi-mOdal REtrieval Augmented Generative Commonsense Reasoning'
   authors:
   - Wanqing Cui
@@ -225,17 +298,6 @@
   publisher: CoRR
   date: '2024-12-26'
   link: https://doi.org/10.48550/arXiv.2406.11290
-- title: Evaluating Implicit Bias in Large Language Models by Attacking From a Psychometric
-    Perspective
-  authors:
-  - Yuchen Wen
-  - Keping Bi
-  - Wei Chen
-  - Jiafeng Guo
-  - Xueqi Cheng
-  publisher: CoRR
-  date: '2024-12-25'
-  link: https://doi.org/10.48550/arXiv.2406.14023
 - title: Contextual Dual Learning Algorithm with Listwise Distillation for Unbiased
     Learning to Rank
   authors:
@@ -274,6 +336,16 @@
     Knowledge Management, CIKM 2023, Birmingham, United Kingdom, October 21-25, 2023
   date: '2023-12-21'
   link: https://doi.org/10.1145/3583780.3615157
+- title: CIR at the NTCIR-17 ULTRE-2 Task
+  authors:
+  - Lulu Yu
+  - Keping Bi
+  - Jiafeng Guo
+  - Xueqi Cheng
+  publisher: Proceedings of the 17th NTCIR Conference on Evaluation of Information
+    Access Technologies, NTCIR 2023, Tokyo, Japan, December 12-15, 2023
+  date: 2023-8-14
+  link: https://doi.org/10.20736/0002001336
 - title: A Comparative Study of Training Objectives for Clarification Facet Generation
   authors:
   - Shiyu Ni
@@ -306,15 +378,6 @@
   publisher: CoRR
   date: '2023-12-18'
   link: https://doi.org/10.48550/arXiv.2302.09340
-- title: CIR at the NTCIR-17 ULTRE-2 Task
-  authors:
-  - Lulu Yu
-  - Keping Bi
-  - Jiafeng Guo
-  - Xueqi Cheng
-  publisher: CoRR
-  date: '2023-12-17'
-  link: https://doi.org/10.48550/arXiv.2310.11852
 - title: 'AREDSUM: Adaptive Redundancy-Aware Iterative Sentence Ranking for Extractive
     Document Summarization'
   authors:
