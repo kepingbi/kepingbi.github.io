@@ -50,8 +50,7 @@
     1, 2025'
   date: '2025-12-29'
   link: https://aclanthology.org/2025.acl-long.1184/
-- id: bridging queries and tables through entities in open-domain table retrieval
-  title: Bridging Queries and Tables through Entities in Open-Domain Table Retrieval
+- title: Bridging Queries and Tables through Entities in Open-Domain Table Retrieval
   authors:
   - Da Li
   - Keping Bi
@@ -209,8 +208,7 @@
   publisher: CoRR
   date: 2025-8-19
   link: https://doi.org/10.48550/arXiv.2508.19111
-- id: 'llm-specific utility: a new perspective for retrieval-augmented generation'
-  title: 'LLM-Specific Utility: A New Perspective for Retrieval-Augmented Generation'
+- title: 'LLM-Specific Utility: A New Perspective for Retrieval-Augmented Generation'
   authors:
   - Hengran Zhang
   - Keping Bi
@@ -222,9 +220,7 @@
   publisher: CoRR
   date: '2025-10-18'
   link: https://doi.org/10.48550/arXiv.2510.11358
-- id: the role of parametric injection-a systematic study of parametric retrieval-augmented
-    generation
-  title: The Role of Parametric Injection-A Systematic Study of Parametric Retrieval-Augmented
+- title: The Role of Parametric Injection-A Systematic Study of Parametric Retrieval-Augmented
     Generation
   authors:
   - Minghao Tang
@@ -235,8 +231,7 @@
   publisher: CoRR
   date: '2025-10-17'
   link: https://doi.org/10.48550/arXiv.2510.12668
-- id: annotation-efficient universal honesty alignment
-  title: Annotation-Efficient Universal Honesty Alignment
+- title: Annotation-Efficient Universal Honesty Alignment
   authors:
   - Shiyu Ni
   - Keping Bi
