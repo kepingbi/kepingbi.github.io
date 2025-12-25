@@ -24,11 +24,13 @@ Haidian District, Beijing, 100190<br/>
 
 <br/>
 {%- include link.html type="google-scholar" icon="" text="Google Scholar" tooltip="" link="kJQYiFIAAAAJ" -%}<br/>
-{%- include link.html type="github" icon="" text="Github" tooltip="" link="KepingBi" -%}<br/>
+{%- include link.html type="github" icon="" text="Personal Github" tooltip="" link="KepingBi" -%}<br/>
 {%- include link.html type="twitter" icon="" text="Twitter" tooltip="" link="BiKeping" -%}<br/>
 {%- include link.html type="linkedin" icon="" text="Linkedin" tooltip="" link="keping-bi-b62a3437" -%}<br/>
 {%- include link.html type="email" icon="" text="Email" tooltip="" link="bikeping@ict.ac.cn" -%}<br/>
-
+{%- include link.html type="home-page" icon="" text="My Group Homepage" tooltip="" link="https://stay-hungry-time.github.io/" -%}<br/>
+{%- include link.html type="github" icon="" text="My Group Github" tooltip="" link="Trustworthy-Information-Access" -%}<br/>
+{%- include link.html type="gongzhonghao" icon="" text="My Group WeChat" tooltip="" link="K7heOgMI04VMAblsGtKusA" -%}<br/>
 </p>
 
 {% endcapture %}
@@ -45,14 +47,18 @@ My research primarily focuses on Information Retrieval, with a special emphasis 
 I'm recruiting self-motivated master students who are interested in conducting innovative research. Undergraduate students who are willing to pursue a Ph.D. or master degree in Institute of Computing Technology CAS or abroad are welcome to do internships in my group. If you are interested, please send your resume to my email address (bikeping[at]ict.ac.cn) and include your research interests and your future plan. 
 
 **News**
-- 2 students I supervised got national scholarship (Hengran and Lulu). Congrats! 
-- 1 paper accepted by WSDM 2026. 
-- 2 papers accepted by SIGIR-AP 2025.
-- 3 papers accepted by EMNLP 2025 (2 main, 1 findings).
-- 1 paper accepted by CIKM 2025. 
-- I am serving as a general co-chair of [SIGIR-AP 2025](https://www.sigir-ap.org/sigir-ap-2025)! Welcome your submissions!
-- 2 papers accepted to ACL 2025 (1 main, 1 findings). 
-- I am serving as a tutorial co-chair of [NLPCC 2025](http://tcci.ccf.org.cn/conference/2025/). 
+- **Dec. 2025**: Shiyu has been selected for the 2025 China Association for Science and Technology Young Scientific and Technological Talent Cultivation Program-Doctoral Track (中国科协青年科技人才培育工程博士生专项计划). Congrats!
+- **Dec. 2025**: SIGIR-AP 2025 has successfully concluded in Xi'an, and I summarized the event in this [article](https://mp.weixin.qq.com/s/vq3A4cxLHKEA0TVX16WX9Q). 
+- **Nov. 2025**: I gave a keynote talk in the [International Workshop on Multimodal Generative Search and Recommendation in CIKM 2025](https://mmgensr-cikm25.github.io/). The slides can be found on our group website [Smarter Retrieval for Smarter Generation--When and How to Retrieve for Retrieval-Augmented Generation](https://stay-hungry-time.github.io/resources). 
+- **Oct. 2025**: I will serve as a [SIGIR Forum Co-Editor](https://sigir.org/forum/editorial-policy-and-forum-editors/) for a three-year term. 
+- **Oct. 2025**: 2 students I supervised got national scholarship (Hengran and Lulu). Congrats! 
+- **Oct. 2025**: 1 paper accepted by WSDM 2026. 
+- **Sep. 2025**: 2 papers accepted by SIGIR-AP 2025.
+- **Aug. 2025**: 1 paper accepted by CIKM 2025. 
+- **Aug. 2025**: 3 papers accepted by EMNLP 2025 (2 main, 1 findings).
+- **May 2025**: 2 papers accepted to ACL 2025 (1 main, 1 findings). 
+- **Mar. 2025**: I am serving as a tutorial co-chair of [NLPCC 2025](http://tcci.ccf.org.cn/conference/2025/). 
+- **Feb. 2025**: I am serving as a general co-chair of [SIGIR-AP 2025](https://www.sigir-ap.org/sigir-ap-2025)! Welcome your submissions!
 
 **Experience**
 
@@ -68,9 +74,15 @@ I'm recruiting self-motivated master students who are interested in conducting i
 - Microsoft Research Asia, Research Intern at Information Retrieval and Mining Group, mentored by [Dr. Yunhua Hu](https://dblp.org/pid/34/3973.html) and [Dr. Hang Li](https://www.linkedin.com/in/hang-li-84aa6314/), Beijing, China, May 2010 - Feb. 2011
 
 
-**Achievements**
+**Honors&Awards**
 - National-level Young Talent, 2023
 - New Hundred Stars Talent Program, ICT (top 4), 2022
+- Travel Grants:
+  * SIGIR'21 Student Travel Grant;
+  * WWW'21 Student Scholarship;
+  * SIGIR'20 Student Travel Grant;
+  * CIKM'19 Student Travel Grant; ECIR'19 Student Travel Grant;
+  * SIGIR'18 Travel Grant; 
 - Baidu Highest Award Nomination (top 10/180+,  $1 million reward for teams of 10- members), 2014
 <!-- - Promoted Twice at Baidu, 2013, 2014 -->
 <!-- - Tencent Campus Practice Competition, Third Prize (top 10%), 2010 -->
@@ -78,15 +90,41 @@ I'm recruiting self-motivated master students who are interested in conducting i
 <!--  - TEDA-Motorola Scholarship (top 10%, gave a speech as a student representative), 2007 -->
 
 **Academic Services**
+- [SIGIR](https://sigir.org/general-information/officers-and-volunteers/) Forum Co-Editor
 - [SIGIR-AP 2025](https://www.sigir-ap.org/sigir-ap-2025) General Co-chair
 - [NLPCC 2025](http://tcci.ccf.org.cn/conference/2025/) Tutorial Co-chair
 - [SIGIR-AP 2023](https://www.sigir-ap.org/sigir-ap-2023) Registration Chair
-- Area Chair/Senior PC Member
-  - LREC-COLING 2023, ARR 2025
-- PC Member: 
-  - SIGIR, WWW, CIKM, ACL, WSDM, ICLR, EMNLP
-- Journal Review: 
-  - TOIS, TKDE, IPM, TIST, JASIST, IEEE Access, IJDSA
+
+<!-- -- - Area Chair -->
+  <!-- - LREC-COLING 2023, ARR Oct. 2025, ARR Jan. 2026 -->
+<!-- - PC Member:  -->
+  <!-- - SIGIR, WWW, CIKM, ACL, WSDM, ICLR, EMNLP -->
+<!-- - Journal Review:  -->
+  <!-- - TOIS, TKDE, IPM, TIST, JASIST, IEEE Access, IJDSA -->
+
+- Area Chair
+  - Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING), 2024
+  - ACL Rolling Review (ARR) 2025 (Oct.), 2026 (Jan.)
+
+- PC member / Reviewer:
+  - International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR), (short) 2022, (long&short) 2023, (long) 2025, (long) 2026
+  - ACL Rolling Review (ARR) 2024 (Feb., June, Oct.), 2025 (Feb., May)
+  - The International Conference on Learning Representations, 2026
+  - European Conference on Information Retrieval (ECIR), (long) 2026
+  - ACM International Conference on Web Search and Data Mining (WSDM), (short) 2026
+  - ACM SIGIR Information Retrieval in the Asia Pacific (SIGIR-AP) workshop proposal committee, 2025
+  - ACM Web Conference (formerly known as International World Wide Web Conference, WWW), (long) 2025
+  - ACM International Conference on Information and Knowledge Management (CIKM), (short) 2020, (short&long)2021, (long)2022, (long&short) 2023, (long&short) 2024, (long) 2025
+  - WSDM Workshop on Deep Matching in Practical Applications (DAPA), 2019
+  - International Conference on Computer Science and Application Engineering (CSAE), 2019
+
+- Journal Reviewer
+  - ACM Transactions on Information Systems (TOIS), 2019, 2020, 2021, 2025
+  - International Journal of Data Science and Analytics (IJDSA), 2025
+  - Transactions on Intelligent Systems and Technology (TIST), 2023
+  - Data & Knowledge Engineering (DKE) 2022
+  - Journal of the Association for Information Science and Technology (JASIST), 2020
+  - IEEE Access, 2019
 
 {% endcapture %}
 

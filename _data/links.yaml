@@ -74,6 +74,12 @@ wechat:
   tooltip: WeChat
   link: images/$LINK
 
+gongzhonghao:
+  icon: fab fa-weixin
+  text: WeChat
+  tooltip: WeChat
+  link: https://mp.weixin.qq.com/s/$LINK
+
 facebook:
   icon: fab fa-facebook
   text: Facebook

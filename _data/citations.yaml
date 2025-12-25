@@ -50,6 +50,17 @@
     1, 2025'
   date: '2025-12-29'
   link: https://aclanthology.org/2025.acl-long.1184/
+- id: bridging queries and tables through entities in open-domain table retrieval
+  title: Bridging Queries and Tables through Entities in Open-Domain Table Retrieval
+  authors:
+  - Da Li
+  - Keping Bi
+  - Jiafeng Guo
+  - Xueqi Cheng
+  publisher: Proceedings of the 34th ACM International Conference on Information and
+    Knowledge Management, CIKM 2025, Seoul, Republic of Korea, November 10-14, 2025
+  date: '2025-12-30'
+  link: https://doi.org/10.1145/3746252.3761002
 - title: 'CLIPure: Purification in Latent Space via CLIP for Adversarially Robust
     Zero-Shot Classification'
   authors:
@@ -147,8 +158,7 @@
   publisher: CoRR
   date: 2025-5-21
   link: https://doi.org/10.48550/arXiv.2505.17537
-- id: a comparative study of specialized llms as dense retrievers
-  title: A Comparative Study of Specialized LLMs as Dense Retrievers
+- title: A Comparative Study of Specialized LLMs as Dense Retrievers
   authors:
   - Hengran Zhang
   - Keping Bi
@@ -156,9 +166,7 @@
   publisher: CoRR
   date: 2025-7-23
   link: https://doi.org/10.48550/arXiv.2507.03958
-- id: distilling a small utility-based passage selector to enhance retrieval-augmented
-    generation
-  title: Distilling a Small Utility-Based Passage Selector to Enhance Retrieval-Augmented
+- title: Distilling a Small Utility-Based Passage Selector to Enhance Retrieval-Augmented
     Generation
   authors:
   - Hengran Zhang
@@ -171,9 +179,7 @@
   publisher: CoRR
   date: 2025-7-22
   link: https://doi.org/10.48550/arXiv.2507.19102
-- id: injecting external knowledge into the reasoning process enhances retrieval-augmented
-    generation
-  title: Injecting External Knowledge into the Reasoning Process Enhances Retrieval-Augmented
+- title: Injecting External Knowledge into the Reasoning Process Enhances Retrieval-Augmented
     Generation
   authors:
   - Minghao Tang
@@ -183,8 +189,7 @@
   publisher: CoRR
   date: 2025-7-21
   link: https://doi.org/10.48550/arXiv.2507.19333
-- id: how do llm-generated texts impact term-based retrieval models?
-  title: How Do LLM-Generated Texts Impact Term-Based Retrieval Models?
+- title: How Do LLM-Generated Texts Impact Term-Based Retrieval Models?
   authors:
   - Wei Huang
   - Keping Bi
@@ -195,9 +200,7 @@
   publisher: CoRR
   date: 2025-8-20
   link: https://doi.org/10.48550/arXiv.2508.17715
-- id: do lvlms know what they know? a systematic study of knowledge boundary perception
-    in lvlms
-  title: Do LVLMs Know What They Know? A Systematic Study of Knowledge Boundary Perception
+- title: Do LVLMs Know What They Know? A Systematic Study of Knowledge Boundary Perception
     in LVLMs
   authors:
   - Zhikai Ding
@@ -206,6 +209,45 @@
   publisher: CoRR
   date: 2025-8-19
   link: https://doi.org/10.48550/arXiv.2508.19111
+- id: 'llm-specific utility: a new perspective for retrieval-augmented generation'
+  title: 'LLM-Specific Utility: A New Perspective for Retrieval-Augmented Generation'
+  authors:
+  - Hengran Zhang
+  - Keping Bi
+  - Jiafeng Guo
+  - Jiaming Zhang
+  - Shuaiqiang Wang
+  - Dawei Yin
+  - Xueqi Cheng
+  publisher: CoRR
+  date: '2025-10-18'
+  link: https://doi.org/10.48550/arXiv.2510.11358
+- id: the role of parametric injection-a systematic study of parametric retrieval-augmented
+    generation
+  title: The Role of Parametric Injection-A Systematic Study of Parametric Retrieval-Augmented
+    Generation
+  authors:
+  - Minghao Tang
+  - Shiyu Ni
+  - Jingtong Wu
+  - Zengxin Han
+  - Keping Bi
+  publisher: CoRR
+  date: '2025-10-17'
+  link: https://doi.org/10.48550/arXiv.2510.12668
+- id: annotation-efficient universal honesty alignment
+  title: Annotation-Efficient Universal Honesty Alignment
+  authors:
+  - Shiyu Ni
+  - Keping Bi
+  - Jiafeng Guo
+  - Minghao Tang
+  - Jingtong Wu
+  - Zengxin Han
+  - Xueqi Cheng
+  publisher: CoRR
+  date: '2025-10-16'
+  link: https://doi.org/10.48550/arXiv.2510.17509
 - title: 'MORE: Multi-mOdal REtrieval Augmented Generative Commonsense Reasoning'
   authors:
   - Wanqing Cui
