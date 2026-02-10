@@ -1,5 +1,6 @@
 ---
 name: Wanqing Cui
+image: images/students/girl.png
 description: Ph.D. at ICT, CAS, 2018-2025
 role: phd
 group: former

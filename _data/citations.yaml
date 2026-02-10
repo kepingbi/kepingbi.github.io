@@ -50,8 +50,16 @@
     1, 2025'
   date: '2025-12-29'
   link: https://aclanthology.org/2025.acl-long.1184/
-- id: bridging queries and tables through entities in open-domain table retrieval
-  title: Bridging Queries and Tables through Entities in Open-Domain Table Retrieval
+- title: A Comparative Study of Specialized LLMs as Dense Retrievers
+  authors:
+  - Hengran Zhang
+  - Keping Bi
+  - Jiafeng Guo
+  publisher: Information Retrieval - 31st China Conference, CCIR 2025, Shihezi, China,
+    August 15-17, 2025, Revised Selected Papers
+  date: '2025-12-30'
+  link: https://doi.org/10.1007/978-981-95-5637-3_4
+- title: Bridging Queries and Tables through Entities in Open-Domain Table Retrieval
   authors:
   - Da Li
   - Keping Bi
@@ -61,6 +69,31 @@
     Knowledge Management, CIKM 2025, Seoul, Republic of Korea, November 10-14, 2025
   date: '2025-12-30'
   link: https://doi.org/10.1145/3746252.3761002
+- id: utility-focused llm annotation for retrieval and retrieval-augmented generation
+  title: Utility-Focused LLM Annotation for Retrieval and Retrieval-Augmented Generation
+  authors:
+  - Hengran Zhang
+  - Minghao Tang
+  - Keping Bi
+  - Jiafeng Guo
+  - Shihao Liu
+  - Daiting Shi
+  - Dawei Yin
+  - Xueqi Cheng
+  publisher: Proceedings of the 2025 Conference on Empirical Methods in Natural Language
+    Processing, EMNLP 2025, Suzhou, China, November 4-9, 2025
+  date: '2025-12-29'
+  link: https://doi.org/10.18653/v1/2025.emnlp-main.88
+- title: Tailoring Table Retrieval from a Field-aware Hybrid Matching Perspective
+  authors:
+  - Da Li
+  - Keping Bi
+  - Jiafeng Guo
+  - Xueqi Cheng
+  publisher: Proceedings of the 2025 Conference on Empirical Methods in Natural Language
+    Processing, EMNLP 2025, Suzhou, China, November 4-9, 2025
+  date: '2025-12-28'
+  link: https://doi.org/10.18653/v1/2025.emnlp-main.1409
 - title: 'CLIPure: Purification in Latent Space via CLIP for Adversarially Robust
     Zero-Shot Classification'
   authors:
@@ -82,6 +115,33 @@
     Access Technologies, NTCIR 2025, Tokyo, Japan, June 10-13, 2025
   date: '2025-12-30'
   link: https://doi.org/10.20736/0002002049
+- title: Distilling a Small Utility-Based Passage Selector to Enhance Retrieval-Augmented
+    Generation
+  authors:
+  - Hengran Zhang
+  - Keping Bi
+  - Jiafeng Guo
+  - Jiaming Zhang
+  - Shuaiqiang Wang
+  - Dawei Yin
+  - Xueqi Cheng
+  publisher: Proceedings of the 2025 Annual International ACM SIGIR Conference on
+    Research and Development in Information Retrieval in the Asia Pacific Region,
+    SIGIR-AP 2025, Xi'an, China, December 7-10, 2025
+  date: '2025-12-27'
+  link: https://doi.org/10.1145/3767695.3769496
+- title: Injecting External Knowledge into the Reasoning Process Enhances Retrieval-Augmented
+    Generation
+  authors:
+  - Minghao Tang
+  - Shiyu Ni
+  - Jiafeng Guo
+  - Keping Bi
+  publisher: Proceedings of the 2025 Annual International ACM SIGIR Conference on
+    Research and Development in Information Retrieval in the Asia Pacific Region,
+    SIGIR-AP 2025, Xi'an, China, December 7-10, 2025
+  date: '2025-12-26'
+  link: https://doi.org/10.1145/3767695.3769515
 - title: 'Unbiased Learning to Rank with Query-Level Click Propensity Estimation:
     Beyond Pointwise Observation and Relevance'
   authors:
@@ -104,15 +164,6 @@
   publisher: CoRR
   date: 2025-2-27
   link: https://doi.org/10.48550/arXiv.2502.13464
-- title: Tailoring Table Retrieval from a Field-aware Hybrid Matching Perspective
-  authors:
-  - Da Li
-  - Keping Bi
-  - Jiafeng Guo
-  - Xueqi Cheng
-  publisher: CoRR
-  date: 2025-3-25
-  link: https://doi.org/10.48550/arXiv.2503.02251
 - title: Unleashing the Power of LLMs in Dense Retrieval with Query Likelihood Modeling
   authors:
   - Hengran Zhang
@@ -158,37 +209,6 @@
   publisher: CoRR
   date: 2025-5-21
   link: https://doi.org/10.48550/arXiv.2505.17537
-- title: A Comparative Study of Specialized LLMs as Dense Retrievers
-  authors:
-  - Hengran Zhang
-  - Keping Bi
-  - Jiafeng Guo
-  publisher: CoRR
-  date: 2025-7-23
-  link: https://doi.org/10.48550/arXiv.2507.03958
-- title: Distilling a Small Utility-Based Passage Selector to Enhance Retrieval-Augmented
-    Generation
-  authors:
-  - Hengran Zhang
-  - Keping Bi
-  - Jiafeng Guo
-  - Jiaming Zhang
-  - Shuaiqiang Wang
-  - Dawei Yin
-  - Xueqi Cheng
-  publisher: CoRR
-  date: 2025-7-22
-  link: https://doi.org/10.48550/arXiv.2507.19102
-- title: Injecting External Knowledge into the Reasoning Process Enhances Retrieval-Augmented
-    Generation
-  authors:
-  - Minghao Tang
-  - Shiyu Ni
-  - Jiafeng Guo
-  - Keping Bi
-  publisher: CoRR
-  date: 2025-7-21
-  link: https://doi.org/10.48550/arXiv.2507.19333
 - title: How Do LLM-Generated Texts Impact Term-Based Retrieval Models?
   authors:
   - Wei Huang
@@ -209,8 +229,7 @@
   publisher: CoRR
   date: 2025-8-19
   link: https://doi.org/10.48550/arXiv.2508.19111
-- id: 'llm-specific utility: a new perspective for retrieval-augmented generation'
-  title: 'LLM-Specific Utility: A New Perspective for Retrieval-Augmented Generation'
+- title: 'LLM-Specific Utility: A New Perspective for Retrieval-Augmented Generation'
   authors:
   - Hengran Zhang
   - Keping Bi
@@ -222,9 +241,7 @@
   publisher: CoRR
   date: '2025-10-18'
   link: https://doi.org/10.48550/arXiv.2510.11358
-- id: the role of parametric injection-a systematic study of parametric retrieval-augmented
-    generation
-  title: The Role of Parametric Injection-A Systematic Study of Parametric Retrieval-Augmented
+- title: The Role of Parametric Injection-A Systematic Study of Parametric Retrieval-Augmented
     Generation
   authors:
   - Minghao Tang
@@ -235,8 +252,7 @@
   publisher: CoRR
   date: '2025-10-17'
   link: https://doi.org/10.48550/arXiv.2510.12668
-- id: annotation-efficient universal honesty alignment
-  title: Annotation-Efficient Universal Honesty Alignment
+- title: Annotation-Efficient Universal Honesty Alignment
   authors:
   - Shiyu Ni
   - Keping Bi
@@ -248,6 +264,50 @@
   publisher: CoRR
   date: '2025-10-16'
   link: https://doi.org/10.48550/arXiv.2510.17509
+- id: can llm annotations replace user clicks for learning to rank?
+  title: Can LLM Annotations Replace User Clicks for Learning to Rank?
+  authors:
+  - Lulu Yu
+  - Keping Bi
+  - Jiafeng Guo
+  - Shihao Liu
+  - Shuaiqiang Wang
+  - Dawei Yin
+  - Xueqi Cheng
+  publisher: CoRR
+  date: '2025-11-15'
+  link: https://doi.org/10.48550/arXiv.2511.06635
+- id: 'compression then matching: an efficient pre-training paradigm for multimodal
+    embedding'
+  title: 'Compression then Matching: An Efficient Pre-training Paradigm for Multimodal
+    Embedding'
+  authors:
+  - Da Li
+  - Yuxiao Luo
+  - Keping Bi
+  - Jiafeng Guo
+  - Wei Yuan
+  - Biao Yang
+  - Yan Wang
+  - Fan Yang
+  - Tingting Gao
+  - Guorui Zhou
+  publisher: CoRR
+  date: '2025-11-14'
+  link: https://doi.org/10.48550/arXiv.2511.08480
+- id: attention grounded enhancement for visual document retrieval
+  title: Attention Grounded Enhancement for Visual Document Retrieval
+  authors:
+  - Wanqing Cui
+  - Wei Huang
+  - Yazhi Guo
+  - Yibo Hu
+  - Meiguang Jin
+  - Junfeng Ma
+  - Keping Bi
+  publisher: CoRR
+  date: '2025-11-13'
+  link: https://doi.org/10.48550/arXiv.2511.13415
 - title: 'MORE: Multi-mOdal REtrieval Augmented Generative Commonsense Reasoning'
   authors:
   - Wanqing Cui

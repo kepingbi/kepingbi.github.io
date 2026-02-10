@@ -28,9 +28,9 @@ Haidian District, Beijing, 100190<br/>
 {%- include link.html type="twitter" icon="" text="Twitter" tooltip="" link="BiKeping" -%}<br/>
 {%- include link.html type="linkedin" icon="" text="Linkedin" tooltip="" link="keping-bi-b62a3437" -%}<br/>
 {%- include link.html type="email" icon="" text="Email" tooltip="" link="bikeping@ict.ac.cn" -%}<br/>
-{%- include link.html type="home-page" icon="" text="My Group Homepage" tooltip="" link="https://stay-hungry-time.github.io/" -%}<br/>
-{%- include link.html type="github" icon="" text="My Group Github" tooltip="" link="Trustworthy-Information-Access" -%}<br/>
-{%- include link.html type="gongzhonghao" icon="" text="My Group WeChat" tooltip="" link="K7heOgMI04VMAblsGtKusA" -%}<br/>
+{%- include link.html type="home-page" icon="" text="Our Group Homepage" tooltip="" link="https://stay-hungry-time.github.io/" -%}<br/>
+{%- include link.html type="github" icon="" text="Our Group Github" tooltip="" link="Trustworthy-Information-Access" -%}<br/>
+{%- include link.html type="gongzhonghao" icon="" text="Our Group WeChat" tooltip="" link="K7heOgMI04VMAblsGtKusA" -%}<br/>
 </p>
 
 {% endcapture %}
@@ -40,14 +40,19 @@ Haidian District, Beijing, 100190<br/>
 
 **Keping Bi**, Associate Professor at Institute of Computing Technology (ICT), Chinese Academy of Sciences (CAS)
 
-My research primarily focuses on Information Retrieval, with a special emphasis on dense retrieval, conversational search, and the emerging field of retrieval-augmented generation. Additionally, I am deeply interested in Trustworthy AI, particularly in relation to information-seeking systems, such as unbiased learning, model robustness, and implicit bias evaluation. I earned my Ph.D. from the College of Information and Computer Sciences at the University of Massachusetts (UMass) Amherst, under the guidance of Professor [W. Bruce Croft](http://ciir.cs.umass.edu/croft) at the [Center for Intelligent Information Retrieval (CIIR)](http://ciir.cs.umass.edu/). I also hold two master's degrees—one in computer science from UMass Amherst and another in machine intelligence from Peking University—and a bachelor's degree in Computer Science from Nankai University.
+> My research centers on **[Trustworthy Information Access](https://stay-hungry-time.github.io/)**, aiming to advance information access systems that are not only effective, but also *reliable, transparent, and aligned with human values*. As large language models increasingly mediate how people search for, consume, and act on information, I investigate how LLM-based information access systems can be designed to behave **honestly, helpfully, and harmlessly**, while operating responsibly within the broader information ecosystem.
+>
+> My work spans information retrieval, retrieval-augmented generation, agentic search, and model robustness, with a particular focus on understanding and mitigating implicit bias, source bias. 
+>
+> I earned my Ph.D. from the College of Information and Computer Sciences at the University of Massachusetts (UMass) Amherst, under the guidance of Professor [W. Bruce Croft](http://ciir.cs.umass.edu/croft) at the [Center for Intelligent Information Retrieval (CIIR)](http://ciir.cs.umass.edu/). I also hold two master's degrees—one in computer science from UMass Amherst and another in machine intelligence from Peking University—and a bachelor's degree in Computer Science from Nankai University.
 
 **Recruiting**
 
 I'm recruiting self-motivated master students who are interested in conducting innovative research. Undergraduate students who are willing to pursue a Ph.D. or master degree in Institute of Computing Technology CAS or abroad are welcome to do internships in my group. If you are interested, please send your resume to my email address (bikeping[at]ict.ac.cn) and include your research interests and your future plan. 
 
 **News**
-- **Dec. 2025**: Shiyu has been selected for the 2025 China Association for Science and Technology Young Scientific and Technological Talent Cultivation Program-Doctoral Track (中国科协青年科技人才培育工程博士生专项计划). Congrats!
+- **Jan. 2026**: 2 papers accepted by ICLR 2026. Congrats to Shiyu and Da!
+- **Dec. 2025**: [Shiyu](https://shiyunee.github.io/) has been selected for the Young Elite Scientists Sponsorship Program (Doctoral Students Track), China Association for Science and Technology. Congrats!
 - **Dec. 2025**: SIGIR-AP 2025 has successfully concluded in Xi'an, and I summarized the event in this [article](https://mp.weixin.qq.com/s/vq3A4cxLHKEA0TVX16WX9Q). 
 - **Nov. 2025**: I gave a keynote talk in the [International Workshop on Multimodal Generative Search and Recommendation in CIKM 2025](https://mmgensr-cikm25.github.io/). The slides can be found on our group website [Smarter Retrieval for Smarter Generation--When and How to Retrieve for Retrieval-Augmented Generation](https://stay-hungry-time.github.io/resources). 
 - **Oct. 2025**: I will serve as a [SIGIR Forum Co-Editor](https://sigir.org/forum/editorial-policy-and-forum-editors/) for a three-year term. 
@@ -75,7 +80,8 @@ I'm recruiting self-motivated master students who are interested in conducting i
 
 
 **Honors&Awards**
-- National-level Young Talent, 2023
+- ICT Outstanding Researcher, 2025
+- National Young Talent, 2023
 - New Hundred Stars Talent Program, ICT (top 4), 2022
 - Travel Grants:
   * SIGIR'21 Student Travel Grant;
@@ -87,7 +93,7 @@ I'm recruiting self-motivated master students who are interested in conducting i
 <!-- - Promoted Twice at Baidu, 2013, 2014 -->
 <!-- - Tencent Campus Practice Competition, Third Prize (top 10%), 2010 -->
 <!-- - Outstanding Student Leader of Nankai University (top 5%, 3 times) -->
-<!--  - TEDA-Motorola Scholarship (top 10%, gave a speech as a student representative), 2007 -->
+<!-- - TEDA-Motorola Scholarship (top 10%, gave a speech as a student representative), 2007 -->
 
 **Academic Services**
 - [SIGIR](https://sigir.org/general-information/officers-and-volunteers/) Forum Co-Editor
