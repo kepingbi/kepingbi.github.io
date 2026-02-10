@@ -230,6 +230,7 @@
   date: 2025-8-19
   link: https://doi.org/10.48550/arXiv.2508.19111
 - title: 'LLM-Specific Utility: A New Perspective for Retrieval-Augmented Generation'
+- title: 'LLM-Specific Utility: A New Perspective for Retrieval-Augmented Generation'
   authors:
   - Hengran Zhang
   - Keping Bi
@@ -242,6 +243,7 @@
   date: '2025-10-18'
   link: https://doi.org/10.48550/arXiv.2510.11358
 - title: The Role of Parametric Injection-A Systematic Study of Parametric Retrieval-Augmented
+- title: The Role of Parametric Injection-A Systematic Study of Parametric Retrieval-Augmented
     Generation
   authors:
   - Minghao Tang
@@ -252,6 +254,7 @@
   publisher: CoRR
   date: '2025-10-17'
   link: https://doi.org/10.48550/arXiv.2510.12668
+- title: Annotation-Efficient Universal Honesty Alignment
 - title: Annotation-Efficient Universal Honesty Alignment
   authors:
   - Shiyu Ni
