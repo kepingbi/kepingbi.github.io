@@ -1,0 +1,220 @@
+---
+---
+
+@import "palettes";
+@import "theme";
+@import "mixins";
+
+.home {
+  position: relative;
+  padding: 30px 0 70px;
+  text-align: left;
+
+  &:before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background:
+      radial-gradient(80% 60% at 10% 0%, rgba(13, 148, 136, 0.12), transparent 60%),
+      radial-gradient(70% 50% at 90% 10%, rgba(15, 118, 110, 0.12), transparent 55%),
+      linear-gradient(180deg, rgba(248, 250, 252, 0.96), rgba(248, 250, 252, 0.92));
+    z-index: 0;
+  }
+
+  .container {
+    position: relative;
+    z-index: 1;
+    max-width: 1150px;
+  }
+
+  .row {
+    align-items: flex-start;
+    gap: 20px 0;
+  }
+}
+
+.home-left {
+  position: sticky;
+  top: 30px;
+}
+
+.home-card {
+  background: $white;
+  border-radius: $rounded;
+  padding: 28px 26px;
+  box-shadow: $shadow;
+  border: 1px solid rgba(15, 118, 110, 0.08);
+  text-align: center;
+}
+
+.home-portrait {
+  width: 160px;
+  height: 160px;
+  margin: 0 auto 16px;
+  border-radius: 28px;
+  overflow: hidden;
+  box-shadow: 0 18px 30px -24px #0f172a99;
+
+  img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+}
+
+.home-name {
+  font-family: $sans;
+  font-size: 1.6rem;
+  font-weight: $bold;
+  letter-spacing: 0.5px;
+  margin: 0;
+  padding: 0;
+  text-transform: none;
+}
+
+.home-name span {
+  display: block;
+  font-family: $serif;
+  font-size: 1.15rem;
+  font-weight: $regular;
+  color: $gray-600;
+  margin-top: 6px;
+}
+
+.home-title {
+  margin: 14px 0 10px;
+  color: $gray-700;
+  font-weight: $medium;
+  line-height: 1.5;
+}
+
+.home-address {
+  color: $gray-600;
+  font-size: 0.95rem;
+  line-height: 1.6;
+}
+
+.home-links {
+  margin-top: 18px;
+  display: grid;
+  gap: 10px;
+}
+
+.home-links .link {
+  justify-content: center;
+  border-radius: 999px;
+  font-size: 0.85rem;
+}
+
+.home-links .link[data-style="button"] {
+  background: $accent;
+  color: $white;
+  border: 1px solid transparent;
+}
+
+.home-links .link[data-style="button"]:hover {
+  background: $dark-accent;
+}
+
+.home-right {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
+.home-intro {
+  background: rgba(255, 255, 255, 0.94);
+  border-radius: $rounded;
+  padding: 26px 30px;
+  border: 1px solid rgba(15, 118, 110, 0.08);
+  box-shadow: $shadow;
+}
+
+.home-intro p {
+  text-align: left;
+  margin: 0 0 14px;
+}
+
+.home-intro p:last-child {
+  margin-bottom: 0;
+}
+
+.home-section {
+  background: $white;
+  border-radius: $rounded;
+  padding: 22px 28px;
+  border: 1px solid rgba(15, 118, 110, 0.08);
+  box-shadow: $shadow;
+}
+
+.home-section-title {
+  font-family: $sans;
+  font-size: 0.85rem;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  color: $gray-600;
+  margin: 0 0 12px;
+}
+
+.home-subtitle {
+  font-family: $sans;
+  font-size: 0.95rem;
+  font-weight: $semi-bold;
+  margin: 16px 0 8px;
+  color: $gray-700;
+}
+
+.home-section p,
+.home-section li {
+  text-align: left;
+}
+
+.home-list {
+  list-style: none;
+  padding-left: 0;
+  margin: 0;
+  display: grid;
+  gap: 10px;
+}
+
+.home-list li {
+  padding: 12px 14px;
+  border-radius: 12px;
+  background: rgba(15, 118, 110, 0.06);
+  line-height: 1.6;
+}
+
+.home-grid {
+  display: grid;
+  gap: 12px;
+}
+
+.home-grid li {
+  background: rgba(15, 118, 110, 0.04);
+}
+
+@media (max-width: $tablet) {
+  .home-left {
+    position: static;
+  }
+
+  .home-card {
+    padding: 24px 20px;
+  }
+
+  .home-intro,
+  .home-section {
+    padding: 20px 22px;
+  }
+}
+
+@media (max-width: $phone) {
+  .home-portrait {
+    width: 140px;
+    height: 140px;
+  }
+
+  .home-links {
+    grid-template-columns: 1fr;
+  }
+}

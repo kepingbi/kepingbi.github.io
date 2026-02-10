@@ -1,0 +1,102 @@
+---
+---
+
+@import "palettes";
+@import "theme";
+@import "mixins";
+
+.experience {
+  position: relative;
+  padding: 40px 0 70px;
+
+  &:before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background:
+      radial-gradient(70% 40% at 5% 0%, rgba(15, 118, 110, 0.12), transparent 60%),
+      radial-gradient(60% 50% at 95% 5%, rgba(13, 148, 136, 0.12), transparent 55%),
+      linear-gradient(180deg, rgba(248, 250, 252, 0.96), rgba(248, 250, 252, 0.9));
+    z-index: 0;
+  }
+
+  .container {
+    position: relative;
+    z-index: 1;
+    max-width: 1100px;
+  }
+}
+
+.experience-hero {
+  background: $white;
+  border-radius: $rounded;
+  padding: 28px 32px;
+  box-shadow: $shadow;
+  border: 1px solid rgba(15, 118, 110, 0.08);
+  margin-bottom: 28px;
+}
+
+.experience-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 22px;
+}
+
+.experience-card {
+  background: $white;
+  border-radius: $rounded;
+  padding: 22px 26px;
+  box-shadow: $shadow;
+  border: 1px solid rgba(15, 118, 110, 0.08);
+}
+
+.experience-card h2,
+.experience-card h3 {
+  text-align: left;
+  margin: 0 0 12px;
+  padding: 0;
+}
+
+.experience-card h2 {
+  font-size: 1.1rem;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  color: $gray-600;
+}
+
+.experience-card h3 {
+  font-size: 1rem;
+  font-weight: $semi-bold;
+  margin-top: 16px;
+  color: $gray-700;
+}
+
+.experience-card ul {
+  list-style: none;
+  padding-left: 0;
+  margin: 0;
+  display: grid;
+  gap: 10px;
+}
+
+.experience-card li {
+  padding: 12px 14px;
+  border-radius: 12px;
+  background: rgba(15, 118, 110, 0.06);
+  line-height: 1.6;
+  text-align: left;
+}
+
+.experience-card li strong {
+  color: $gray-800;
+}
+
+.experience-card p {
+  text-align: left;
+}
+
+@media (max-width: $tablet) {
+  .experience-card {
+    padding: 20px 22px;
+  }
+}

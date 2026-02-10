@@ -9,106 +9,96 @@ nav:
 {% capture left_panel %}
 
 {%- assign image = "/images/profile.jpg" | default: "" -%}
-![Keping Bi]({{ image | relative_url }})
-# Keping Bi<br/>毕可平
-
-<p class="center">
-
-
-Associate Professor<br/>
-Institute of Computing Technology (ICT)<br/>
-Chinese Academy of Sciences (CAS)<br/>
-
-NO. 6 Kexueyuan South Road<br/>
-Haidian District, Beijing, 100190<br/>
-
-<br/>
-{%- include link.html type="google-scholar" icon="" text="Google Scholar" tooltip="" link="kJQYiFIAAAAJ" -%}<br/>
-{%- include link.html type="github" icon="" text="Personal Github" tooltip="" link="KepingBi" -%}<br/>
-{%- include link.html type="twitter" icon="" text="Twitter" tooltip="" link="BiKeping" -%}<br/>
-{%- include link.html type="linkedin" icon="" text="Linkedin" tooltip="" link="keping-bi-b62a3437" -%}<br/>
-{%- include link.html type="email" icon="" text="Email" tooltip="" link="bikeping@ict.ac.cn" -%}<br/>
-{%- include link.html type="home-page" icon="" text="Our Group Homepage" tooltip="" link="https://stay-hungry-time.github.io/" -%}<br/>
-{%- include link.html type="github" icon="" text="Our Group Github" tooltip="" link="Trustworthy-Information-Access" -%}<br/>
-{%- include link.html type="gongzhonghao" icon="" text="Our Group WeChat" tooltip="" link="K7heOgMI04VMAblsGtKusA" -%}<br/>
-</p>
+<div class="home-left">
+  <div class="home-card">
+    <div class="home-portrait">
+      <img src="{{ image | relative_url }}" alt="Keping Bi" />
+    </div>
+    <h1 class="home-name">Keping Bi <span>毕可平</span></h1>
+    <div class="home-title">
+      Associate Professor<br/>
+      Institute of Computing Technology (ICT)<br/>
+      Chinese Academy of Sciences (CAS)
+    </div>
+    <div class="home-address">
+      NO. 6 Kexueyuan South Road<br/>
+      Haidian District, Beijing, 100190
+    </div>
+    <div class="home-links">
+      {%- include link.html type="google-scholar" icon="" text="Google Scholar" tooltip="" link="kJQYiFIAAAAJ" style="button" -%}
+      {%- include link.html type="github" icon="" text="Personal Github" tooltip="" link="KepingBi" style="button" -%}
+      {%- include link.html type="twitter" icon="" text="Twitter" tooltip="" link="BiKeping" style="button" -%}
+      {%- include link.html type="linkedin" icon="" text="Linkedin" tooltip="" link="keping-bi-b62a3437" style="button" -%}
+      {%- include link.html type="email" icon="" text="Email" tooltip="" link="bikeping@ict.ac.cn" style="button" -%}
+      {%- include link.html type="home-page" icon="" text="Our Group Homepage" tooltip="" link="https://stay-hungry-time.github.io/" style="button" -%}
+      {%- include link.html type="github" icon="" text="Our Group Github" tooltip="" link="Trustworthy-Information-Access" style="button" -%}
+      {%- include link.html type="gongzhonghao" icon="" text="Our Group WeChat" tooltip="" link="K7heOgMI04VMAblsGtKusA" style="button" -%}
+    </div>
+  </div>
+</div>
 
 {% endcapture %}
 
 {% capture main_panel %}
 
+<div class="home-right">
+  <div class="home-intro">
+    <p><strong>Keping Bi</strong>, Associate Professor at Institute of Computing Technology (ICT), Chinese Academy of Sciences (CAS).</p>
+    <p>My research centers on <strong><a href="https://stay-hungry-time.github.io/">Trustworthy Information Access</a></strong>, aiming to advance information access systems that are not only effective, but also reliable, transparent, and aligned with human values. As large language models increasingly mediate how people search for, consume, and act on information, I investigate how LLM-based information access systems can be designed to behave honestly, helpfully, and harmlessly, while operating responsibly within the broader information ecosystem.</p>
+    <p>My work spans information retrieval, retrieval-augmented generation, agentic search, and model robustness, with a particular focus on understanding and mitigating implicit bias and source bias.</p>
+    <p>I earned my Ph.D. from the College of Information and Computer Sciences at the University of Massachusetts (UMass) Amherst, under the guidance of Professor <a href="http://ciir.cs.umass.edu/croft">W. Bruce Croft</a> at the <a href="http://ciir.cs.umass.edu/">Center for Intelligent Information Retrieval (CIIR)</a>. I also hold two master's degrees—one in computer science from UMass Amherst and another in machine intelligence from Peking University—and a bachelor's degree in Computer Science from Nankai University.</p>
+    <p><a href="{{ '/experience/' | relative_url }}">See experience and academic services.</a></p>
 
-**Keping Bi**, Associate Professor at Institute of Computing Technology (ICT), Chinese Academy of Sciences (CAS)
+  </div>
 
-> My research centers on **[Trustworthy Information Access](https://stay-hungry-time.github.io/)**, aiming to advance information access systems that are not only effective, but also *reliable, transparent, and aligned with human values*. As large language models increasingly mediate how people search for, consume, and act on information, I investigate how LLM-based information access systems can be designed to behave **honestly, helpfully, and harmlessly**, while operating responsibly within the broader information ecosystem.
->
-> My work spans information retrieval, retrieval-augmented generation, agentic search, and model robustness, with a particular focus on understanding and mitigating implicit bias, source bias. 
->
-> I earned my Ph.D. from the College of Information and Computer Sciences at the University of Massachusetts (UMass) Amherst, under the guidance of Professor [W. Bruce Croft](http://ciir.cs.umass.edu/croft) at the [Center for Intelligent Information Retrieval (CIIR)](http://ciir.cs.umass.edu/). I also hold two master's degrees—one in computer science from UMass Amherst and another in machine intelligence from Peking University—and a bachelor's degree in Computer Science from Nankai University.
+  <div class="home-section">
+    <div class="home-section-title">Recruiting</div>
+    <p>I'm recruiting self-motivated master students who are interested in conducting innovative research. Undergraduate students who are willing to pursue a Ph.D. or master degree in Institute of Computing Technology CAS or abroad are welcome to do internships in our group. If you are interested, please send your resume to my email address (bikeping[at]ict.ac.cn) and include your research interests and your future plan.</p>
+  </div>
 
-**Recruiting**
+  <div class="home-section">
+    <div class="home-section-title">Honors & Awards</div>
+    <ul class="home-grid">
+      <li>ICT Outstanding Researcher, 2025.</li>
+      <li>National Young Talent, 2023.</li>
+      <li>New Hundred Stars Talent Program, ICT (top 4), 2022.</li>
+      <li>Travel Grants: SIGIR'21 Student Travel Grant; WWW'21 Student Scholarship; SIGIR'20 Student Travel Grant; CIKM'19 Student Travel Grant; ECIR'19 Student Travel Grant; SIGIR'18 Travel Grant.</li>
+      <li>Baidu Highest Award Nomination (top 10/180+, $1 million reward for teams of 10- members), 2014.</li>
+    </ul>
+  </div>
 
-I'm recruiting self-motivated master students who are interested in conducting innovative research. Undergraduate students who are willing to pursue a Ph.D. or master degree in Institute of Computing Technology CAS or abroad are welcome to do internships in my group. If you are interested, please send your resume to my email address (bikeping[at]ict.ac.cn) and include your research interests and your future plan. 
-
-**News**
-- **Jan. 2026**: 2 papers accepted by ICLR 2026. Congrats to Shiyu and Da!
-- **Dec. 2025**: [Shiyu](https://shiyunee.github.io/) has been selected for the Young Elite Scientists Sponsorship Program (Doctoral Students Track), China Association for Science and Technology. Congrats!
-- **Dec. 2025**: SIGIR-AP 2025 has successfully concluded in Xi'an, and I summarized the event in this [article](https://mp.weixin.qq.com/s/vq3A4cxLHKEA0TVX16WX9Q). 
-- **Nov. 2025**: I gave a keynote talk in the [International Workshop on Multimodal Generative Search and Recommendation in CIKM 2025](https://mmgensr-cikm25.github.io/). The slides can be found on our group website [Smarter Retrieval for Smarter Generation--When and How to Retrieve for Retrieval-Augmented Generation](https://stay-hungry-time.github.io/resources). 
-- **Oct. 2025**: I will serve as a [SIGIR Forum Co-Editor](https://sigir.org/forum/editorial-policy-and-forum-editors/) for a three-year term. 
-- **Oct. 2025**: 2 students I supervised got national scholarship (Hengran and Lulu). Congrats! 
-- **Oct. 2025**: 1 paper accepted by WSDM 2026. 
-- **Sep. 2025**: 2 papers accepted by SIGIR-AP 2025.
-- **Aug. 2025**: 1 paper accepted by CIKM 2025. 
-- **Aug. 2025**: 3 papers accepted by EMNLP 2025 (2 main, 1 findings).
-- **May 2025**: 2 papers accepted to ACL 2025 (1 main, 1 findings). 
-- **Mar. 2025**: I am serving as a tutorial co-chair of [NLPCC 2025](http://tcci.ccf.org.cn/conference/2025/). 
-- **Feb. 2025**: I am serving as a general co-chair of [SIGIR-AP 2025](https://www.sigir-ap.org/sigir-ap-2025)! Welcome your submissions!
-
-**Experience**
-
-- Associate Professor at [Institute of Computing Technology (ICT)](http://english.ict.cas.cn/), CAS, Beijing, China, Oct. 2024 - now
-- Assistant Professor at [Institute of Computing Technology (ICT)](http://english.ict.cas.cn/), CAS, Beijing, China, Oct. 2022 - Oct. 2024
-- Microsoft Search Intelligence & Assistant, Applied Scientist II, USA, July 2021 - August 2022
-- University of Massachusetts, Amherst, Research Assistant in [CIIR](http://ciir.cs.umass.edu/), advised by Prof. [W. Bruce Croft](http://ciir.cs.umass.edu/croft). Amherst, MA, USA, Sept. 2015 - Jul. 2021
-- Microsoft Research and MSAI, joint Research Intern, mentored by [Dr. Pavel Metrikov](https://www.linkedin.com/in/pavel-metrikov-a46525a/) and [Dr. Chunyuan Li](https://chunyuan.li/), Remote Internship, USA, July 2020 - August 2020
-- Microsoft Research and MSAI, joint Research Intern, mentored by [Dr. Rahul Jha](https://rahuljha.github.io/) and [Dr. Asli Celikyilmaz](http://asli.us/), Bellevue, WA, USA, May 2019 - August 2019
-- Amazon Search, Research Scientist Intern in Search Labs, mentored by [Dr. Choon Hui Teo](https://www.linkedin.com/in/choon-hui-teo-6037b69/), Palo Alto, CA, USA, May 2018 - August 2018
-- Baidu Web Search, Senior Research Engineer at Learning to Rank Group, Beijing, China, July 2012 - July 2015
-- Yahoo! Labs, Intern Scientist, supervised by [Dr. Xin Fan](https://scholar.google.com/citations?user=2CbQKWcAAAAJ), Beijing, China, June 2012 - July 2012
-- Microsoft Research Asia, Research Intern at Information Retrieval and Mining Group, mentored by [Dr. Yunhua Hu](https://dblp.org/pid/34/3973.html) and [Dr. Hang Li](https://www.linkedin.com/in/hang-li-84aa6314/), Beijing, China, May 2010 - Feb. 2011
-
-
-**Honors&Awards**
-- ICT Outstanding Researcher, 2025
-- National Young Talent, 2023
-- New Hundred Stars Talent Program, ICT (top 4), 2022
-- Travel Grants:
-  * SIGIR'21 Student Travel Grant;
-  * WWW'21 Student Scholarship;
-  * SIGIR'20 Student Travel Grant;
-  * CIKM'19 Student Travel Grant; ECIR'19 Student Travel Grant;
-  * SIGIR'18 Travel Grant; 
-- Baidu Highest Award Nomination (top 10/180+,  $1 million reward for teams of 10- members), 2014
+  <div class="home-section">
+    <div class="home-section-title">News</div>
+    <ul class="home-list">
+      <li><strong>Jan. 2026</strong>: I will serve as a PC co-chair of ICTIR 2026. </li>
+      <li><strong>Jan. 2026</strong>: 2 papers accepted by ICLR 2026. Congrats to Shiyu and Da!</li>
+      <li><strong>Dec. 2025</strong>: <a href="https://shiyunee.github.io/">Shiyu</a> has been selected for the Young Elite Scientists Sponsorship Program (Doctoral Students Track), China Association for Science and Technology. Congrats!</li>
+      <li><strong>Dec. 2025</strong>: SIGIR-AP 2025 has successfully concluded in Xi'an, and I summarized the event in this <a href="https://mp.weixin.qq.com/s/vq3A4cxLHKEA0TVX16WX9Q">article</a>.</li>
+      <li><strong>Nov. 2025</strong>: I gave a keynote talk in the <a href="https://mmgensr-cikm25.github.io/">International Workshop on Multimodal Generative Search and Recommendation in CIKM 2025</a>. The slides can be found on our group website <a href="https://stay-hungry-time.github.io/resources">Smarter Retrieval for Smarter Generation--When and How to Retrieve for Retrieval-Augmented Generation</a>.</li>
+      <li><strong>Oct. 2025</strong>: I will serve as a <a href="https://sigir.org/forum/editorial-policy-and-forum-editors/">SIGIR Forum Co-Editor</a> for a three-year term.</li>
+      <li><strong>Oct. 2025</strong>: 2 students I supervised got national scholarship (Hengran and Lulu). Congrats!</li>
+      <li><strong>Oct. 2025</strong>: 1 paper accepted by WSDM 2026.</li>
+      <li><strong>Sep. 2025</strong>: 2 papers accepted by SIGIR-AP 2025.</li>
+      <li><strong>Aug. 2025</strong>: 1 paper accepted by CIKM 2025.</li>
+      <li><strong>Aug. 2025</strong>: 3 papers accepted by EMNLP 2025 (2 main, 1 findings).</li>
+      <li><strong>May 2025</strong>: 2 papers accepted to ACL 2025 (1 main, 1 findings).</li>
+      <li><strong>Mar. 2025</strong>: I am serving as a tutorial co-chair of <a href="http://tcci.ccf.org.cn/conference/2025/">NLPCC 2025</a>.</li>
+      <li><strong>Feb. 2025</strong>: I am serving as a general co-chair of <a href="https://www.sigir-ap.org/sigir-ap-2025">SIGIR-AP 2025</a>. Welcome your submissions!</li>
+    </ul>
+  </div>
+</div>
 <!-- - Promoted Twice at Baidu, 2013, 2014 -->
 <!-- - Tencent Campus Practice Competition, Third Prize (top 10%), 2010 -->
 <!-- - Outstanding Student Leader of Nankai University (top 5%, 3 times) -->
 <!-- - TEDA-Motorola Scholarship (top 10%, gave a speech as a student representative), 2007 -->
 
-**Academic Services**
+<!--**Academic Services**
 - [SIGIR](https://sigir.org/general-information/officers-and-volunteers/) Forum Co-Editor
 - [SIGIR-AP 2025](https://www.sigir-ap.org/sigir-ap-2025) General Co-chair
 - [NLPCC 2025](http://tcci.ccf.org.cn/conference/2025/) Tutorial Co-chair
 - [SIGIR-AP 2023](https://www.sigir-ap.org/sigir-ap-2023) Registration Chair
 
-<!-- -- - Area Chair -->
-  <!-- - LREC-COLING 2023, ARR Oct. 2025, ARR Jan. 2026 -->
-<!-- - PC Member:  -->
-  <!-- - SIGIR, WWW, CIKM, ACL, WSDM, ICLR, EMNLP -->
-<!-- - Journal Review:  -->
-  <!-- - TOIS, TKDE, IPM, TIST, JASIST, IEEE Access, IJDSA -->
-
-- Area Chair
+ - Area Chair
   - Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING), 2024
   - ACL Rolling Review (ARR) 2025 (Oct.), 2026 (Jan.)
 
@@ -130,8 +120,10 @@ I'm recruiting self-motivated master students who are interested in conducting i
   - Transactions on Intelligent Systems and Technology (TIST), 2023
   - Data & Knowledge Engineering (DKE) 2022
   - Journal of the Association for Information Science and Technology (JASIST), 2020
-  - IEEE Access, 2019
+  - IEEE Access, 2019 -->
 
 {% endcapture %}
 
-{% include two-col.html leftcol=left_panel rightcol=main_panel left=3 right=9 %}
+<div class="home">
+  {% include two-col.html leftcol=left_panel rightcol=main_panel left=3 right=9 %}
+</div>
