@@ -69,8 +69,7 @@
     Knowledge Management, CIKM 2025, Seoul, Republic of Korea, November 10-14, 2025
   date: '2025-12-30'
   link: https://doi.org/10.1145/3746252.3761002
-- id: utility-focused llm annotation for retrieval and retrieval-augmented generation
-  title: Utility-Focused LLM Annotation for Retrieval and Retrieval-Augmented Generation
+- title: Utility-Focused LLM Annotation for Retrieval and Retrieval-Augmented Generation
   authors:
   - Hengran Zhang
   - Minghao Tang
@@ -230,7 +229,6 @@
   date: 2025-8-19
   link: https://doi.org/10.48550/arXiv.2508.19111
 - title: 'LLM-Specific Utility: A New Perspective for Retrieval-Augmented Generation'
-- title: 'LLM-Specific Utility: A New Perspective for Retrieval-Augmented Generation'
   authors:
   - Hengran Zhang
   - Keping Bi
@@ -243,7 +241,6 @@
   date: '2025-10-18'
   link: https://doi.org/10.48550/arXiv.2510.11358
 - title: The Role of Parametric Injection-A Systematic Study of Parametric Retrieval-Augmented
-- title: The Role of Parametric Injection-A Systematic Study of Parametric Retrieval-Augmented
     Generation
   authors:
   - Minghao Tang
@@ -254,7 +251,6 @@
   publisher: CoRR
   date: '2025-10-17'
   link: https://doi.org/10.48550/arXiv.2510.12668
-- title: Annotation-Efficient Universal Honesty Alignment
 - title: Annotation-Efficient Universal Honesty Alignment
   authors:
   - Shiyu Ni
@@ -267,8 +263,7 @@
   publisher: CoRR
   date: '2025-10-16'
   link: https://doi.org/10.48550/arXiv.2510.17509
-- id: can llm annotations replace user clicks for learning to rank?
-  title: Can LLM Annotations Replace User Clicks for Learning to Rank?
+- title: Can LLM Annotations Replace User Clicks for Learning to Rank?
   authors:
   - Lulu Yu
   - Keping Bi
@@ -280,9 +275,7 @@
   publisher: CoRR
   date: '2025-11-15'
   link: https://doi.org/10.48550/arXiv.2511.06635
-- id: 'compression then matching: an efficient pre-training paradigm for multimodal
-    embedding'
-  title: 'Compression then Matching: An Efficient Pre-training Paradigm for Multimodal
+- title: 'Compression then Matching: An Efficient Pre-training Paradigm for Multimodal
     Embedding'
   authors:
   - Da Li
@@ -298,8 +291,7 @@
   publisher: CoRR
   date: '2025-11-14'
   link: https://doi.org/10.48550/arXiv.2511.08480
-- id: attention grounded enhancement for visual document retrieval
-  title: Attention Grounded Enhancement for Visual Document Retrieval
+- title: Attention Grounded Enhancement for Visual Document Retrieval
   authors:
   - Wanqing Cui
   - Wei Huang
