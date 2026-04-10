@@ -12,8 +12,7 @@
     and Data Mining, WSDM 2026, Boise, ID, USA, February 22-26, 2026
   date: '2026-12-30'
   link: https://doi.org/10.1145/3773966.3777988
-- id: bagging-based model merging for robust general text embeddings
-  title: Bagging-Based Model Merging for Robust General Text Embeddings
+- title: Bagging-Based Model Merging for Robust General Text Embeddings
   authors:
   - Hengran Zhang
   - Keping Bi
@@ -25,9 +24,7 @@
   publisher: CoRR
   date: 2026-2-29
   link: https://doi.org/10.48550/arXiv.2602.05787
-- id: evaluating and calibrating llm confidence on questions with multiple correct
-    answers
-  title: Evaluating and Calibrating LLM Confidence on Questions with Multiple Correct
+- title: Evaluating and Calibrating LLM Confidence on Questions with Multiple Correct
     Answers
   authors:
   - Yuhan Wang
@@ -39,8 +36,7 @@
   publisher: CoRR
   date: 2026-2-28
   link: https://doi.org/10.48550/arXiv.2602.07842
-- id: training dense retrievers with multiple positive passages
-  title: Training Dense Retrievers with Multiple Positive Passages
+- title: Training Dense Retrievers with Multiple Positive Passages
   authors:
   - Benben Wang
   - Minghao Tang
@@ -50,9 +46,7 @@
   publisher: CoRR
   date: 2026-2-27
   link: https://doi.org/10.48550/arXiv.2602.12727
-- id: reconstructing content via collaborative attention to improve multimodal embedding
-    quality
-  title: Reconstructing Content via Collaborative Attention to Improve Multimodal
+- title: Reconstructing Content via Collaborative Attention to Improve Multimodal
     Embedding Quality
   authors:
   - Jiahan Chen
