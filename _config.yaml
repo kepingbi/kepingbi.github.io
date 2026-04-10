@@ -24,7 +24,7 @@ auto-cite:
       input:
         - ../_data/sources.yaml
   # dblp-link: https://dblp.uni-trier.de/pid/169/1808.ris #Qingyao
-  dblp-link: https://dblp.uni-trier.de/pid/56/10886.ris
+  dblp-link: https://dblp.org/pid/56/10886.ris
   output: ../_data/citations.yaml
   depth: 100
 

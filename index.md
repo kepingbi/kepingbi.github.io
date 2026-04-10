@@ -70,6 +70,8 @@ nav:
   <div class="home-section">
     <div class="home-section-title">News</div>
     <ul class="home-list">
+      <li><strong>April 2026</strong>: 3 papers by ACL 2026 (2 Main, 1 Findings). Congrats to Da, Minzhu (intern), Shiyu, and Hengran! </li>
+      <li><strong>April 2026</strong>: 2 papers and 1 tutorial proposal are accepted by SIGIR 2026. Congrats to Jiahan, Wanqing, Hengran, and Minghao! </li>
       <li><strong>Jan. 2026</strong>: I will serve as a PC co-chair of ICTIR 2026. </li>
       <li><strong>Jan. 2026</strong>: 2 papers accepted by ICLR 2026. Congrats to Shiyu and Da!</li>
       <li><strong>Dec. 2025</strong>: <a href="https://shiyunee.github.io/">Shiyu</a> has been selected for the Young Elite Scientists Sponsorship Program (Doctoral Students Track), China Association for Science and Technology. Congrats!</li>
@@ -80,8 +82,8 @@ nav:
       <li><strong>Oct. 2025</strong>: 1 paper accepted by WSDM 2026.</li>
       <li><strong>Sep. 2025</strong>: 2 papers accepted by SIGIR-AP 2025.</li>
       <li><strong>Aug. 2025</strong>: 1 paper accepted by CIKM 2025.</li>
-      <li><strong>Aug. 2025</strong>: 3 papers accepted by EMNLP 2025 (2 main, 1 findings).</li>
-      <li><strong>May 2025</strong>: 2 papers accepted to ACL 2025 (1 main, 1 findings).</li>
+      <li><strong>Aug. 2025</strong>: 3 papers accepted by EMNLP 2025 (2 Main, 1 Findings).</li>
+      <li><strong>May 2025</strong>: 2 papers accepted to ACL 2025 (1 Main, 1 Findings).</li>
       <li><strong>Mar. 2025</strong>: I am serving as a tutorial co-chair of <a href="http://tcci.ccf.org.cn/conference/2025/">NLPCC 2025</a>.</li>
       <li><strong>Feb. 2025</strong>: I am serving as a general co-chair of <a href="https://www.sigir-ap.org/sigir-ap-2025">SIGIR-AP 2025</a>. Welcome your submissions!</li>
     </ul>
