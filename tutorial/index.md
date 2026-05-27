@@ -1,8 +1,7 @@
 ---
 title: Tutorial
-# nav:
-#   order: 3
-#  tooltip: 项目与基金
+nav:
+  order: 5
 ---
 
 # <i class="fas fa-chalkboard-teacher"></i>Tutorials

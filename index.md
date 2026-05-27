@@ -55,7 +55,7 @@ nav:
   <div class="home-section">
     <div class="home-section-title">Recruiting</div>
     <p>I'm recruiting self-motivated master students who are interested in conducting innovative research. Undergraduate students who are willing to pursue a Ph.D. or master degree in Institute of Computing Technology CAS or abroad are welcome to do internships in our group. If you are interested, please send your resume to my email address (bikeping[at]ict.ac.cn) and include your research interests and your future plan.</p>
-    <p><strong>Student Feedback:</strong> <a href="https://zhuanlan.zhihu.com/p/701636613">Feedback 1</a> | <a href="https://zhuanlan.zhihu.com/p/701642030">Feedback 2</a></p>
+    <p><strong>Student Feedback in Their Recruitment Ads:</strong> <a href="https://zhuanlan.zhihu.com/p/701636613">Ads 1</a> | <a href="https://zhuanlan.zhihu.com/p/701642030">Ads 2</a></p>
   </div>
 
   <div class="home-section">
