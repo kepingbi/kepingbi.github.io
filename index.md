@@ -26,13 +26,14 @@ nav:
     </div>
     <div class="home-links">
       {%- include link.html type="google-scholar" icon="" text="Google Scholar" tooltip="" link="kJQYiFIAAAAJ" style="button" -%}
-      {%- include link.html type="github" icon="" text="Personal Github" tooltip="" link="KepingBi" style="button" -%}
       {%- include link.html type="twitter" icon="" text="Twitter" tooltip="" link="BiKeping" style="button" -%}
       {%- include link.html type="linkedin" icon="" text="Linkedin" tooltip="" link="keping-bi-b62a3437" style="button" -%}
+      <!-- {%- include link.html type="github" icon="" text="Personal Github" tooltip="" link="KepingBi" style="button" -%} -->
       {%- include link.html type="email" icon="" text="Email" tooltip="" link="bikeping@ict.ac.cn" style="button" -%}
       {%- include link.html type="home-page" icon="" text="Our Group Homepage" tooltip="" link="https://stay-hungry-time.github.io/" style="button" -%}
-      {%- include link.html type="github" icon="" text="Our Group Github" tooltip="" link="Trustworthy-Information-Access" style="button" -%}
       {%- include link.html type="gongzhonghao" icon="" text="Our Group WeChat" tooltip="" link="K7heOgMI04VMAblsGtKusA" style="button" -%}
+      {%- include link.html type="rednote" icon="" text="Our Group RedNote" tooltip="" link="https://xhslink.com/m/716Y7hgQbDz" style="button" -%}
+      {%- include link.html type="github" icon="" text="Our Group Github" tooltip="" link="Trustworthy-Information-Access" style="button" -%}
     </div>
   </div>
 </div>
@@ -45,8 +46,8 @@ nav:
   <div class="home-intro">
     <p><strong>Keping Bi</strong>, Associate Professor at Institute of Computing Technology (ICT), Chinese Academy of Sciences (CAS).</p>
     <p>My research centers on <strong><a href="https://stay-hungry-time.github.io/">Trustworthy Information Access</a></strong>, aiming to advance information access systems that are not only effective, but also reliable, transparent, and aligned with human values. As large language models increasingly mediate how people search for, consume, and act on information, I investigate how LLM-based information access systems can be designed to behave honestly, helpfully, and harmlessly, while operating responsibly within the broader information ecosystem.</p>
-    <p>My work spans information retrieval, retrieval-augmented generation, agentic search, and model robustness, with a particular focus on understanding and mitigating implicit bias and source bias.</p>
-    <p>I earned my Ph.D. from the College of Information and Computer Sciences at the University of Massachusetts (UMass) Amherst, under the guidance of Professor <a href="http://ciir.cs.umass.edu/croft">W. Bruce Croft</a> at the <a href="http://ciir.cs.umass.edu/">Center for Intelligent Information Retrieval (CIIR)</a>. I also hold two master's degrees—one in computer science from UMass Amherst and another in machine intelligence from Peking University—and a bachelor's degree in Computer Science from Nankai University.</p>
+    <p>My work spans information retrieval, retrieval-augmented generation, agentic search, and model robustness with a particular focus on understanding and mitigating implicit bias and source bias.</p>
+    <p>I earned my Ph.D. from the College of Information and Computer Sciences at the University of Massachusetts (UMass) Amherst, under the guidance of Professor <a href="http://ciir.cs.umass.edu/croft">W. Bruce Croft</a> at the <a href="http://ciir.cs.umass.edu/">Center for Intelligent Information Retrieval (CIIR)</a>. I also hold two master's degrees—one in computer science from UMass Amherst and another in <a href="https://www.cis.pku.edu.cn/">Machine Intelligence</a> from <a href="https://www.pku.edu.cn/">Peking University</a>—and a bachelor's degree in <a href="https://cc.nankai.edu.cn/main.htm">Computer Science</a> from <a href="https://www.nankai.edu.cn/">Nankai University</a>.</p>
     <p><a href="{{ '/experience/' | relative_url }}">See experience and academic services.</a></p>
 
   </div>
@@ -54,6 +55,7 @@ nav:
   <div class="home-section">
     <div class="home-section-title">Recruiting</div>
     <p>I'm recruiting self-motivated master students who are interested in conducting innovative research. Undergraduate students who are willing to pursue a Ph.D. or master degree in Institute of Computing Technology CAS or abroad are welcome to do internships in our group. If you are interested, please send your resume to my email address (bikeping[at]ict.ac.cn) and include your research interests and your future plan.</p>
+    <p><strong>Student Feedback:</strong> <a href="https://zhuanlan.zhihu.com/p/701636613">Feedback 1</a> | <a href="https://zhuanlan.zhihu.com/p/701642030">Feedback 2</a></p>
   </div>
 
   <div class="home-section">
@@ -70,20 +72,22 @@ nav:
   <div class="home-section">
     <div class="home-section-title">News</div>
     <ul class="home-list">
-      <li><strong>April 2026</strong>: 3 papers by ACL 2026 (2 Main, 1 Findings). Congrats to Da, Minzhu (intern), Shiyu, and Hengran! </li>
+      <li><strong>May 2026</strong>: 1 paper accepted by KDD 2026. Congrats to Benben (Undergrad), Minghao, and Hengran! </li>
+      <li><strong>May 2026</strong>: Lulu received the Outstanding Graduate Award from the University of Chinese Academy of Sciences (UCAS). Jiahan and Minghao were named Merit Students of UCAS. Congrats!</li>
+      <li><strong>April 2026</strong>: 3 papers accepted by ACL 2026 (2 Main, 1 Findings). Congrats to Da, Minzhu (intern), Shiyu, and Hengran! </li>
       <li><strong>April 2026</strong>: 2 papers and 1 tutorial proposal are accepted by SIGIR 2026. Congrats to Jiahan, Wanqing, Hengran, and Minghao! </li>
-      <li><strong>Jan. 2026</strong>: I will serve as a PC co-chair of ICTIR 2026. </li>
+      <li><strong>Jan. 2026</strong>: I will serve as a PC co-chair of <a href="https://sigir-ictir.github.io/ictir2026/">ICTIR 2026</a>. Welcome your submissions! </li>
       <li><strong>Jan. 2026</strong>: 2 papers accepted by ICLR 2026. Congrats to Shiyu and Da!</li>
       <li><strong>Dec. 2025</strong>: <a href="https://shiyunee.github.io/">Shiyu</a> has been selected for the Young Elite Scientists Sponsorship Program (Doctoral Students Track), China Association for Science and Technology. Congrats!</li>
       <li><strong>Dec. 2025</strong>: SIGIR-AP 2025 has successfully concluded in Xi'an, and I summarized the event in this <a href="https://mp.weixin.qq.com/s/vq3A4cxLHKEA0TVX16WX9Q">article</a>.</li>
       <li><strong>Nov. 2025</strong>: I gave a keynote talk in the <a href="https://mmgensr-cikm25.github.io/">International Workshop on Multimodal Generative Search and Recommendation in CIKM 2025</a>. The slides can be found on our group website <a href="https://stay-hungry-time.github.io/resources">Smarter Retrieval for Smarter Generation--When and How to Retrieve for Retrieval-Augmented Generation</a>.</li>
       <li><strong>Oct. 2025</strong>: I will serve as a <a href="https://sigir.org/forum/editorial-policy-and-forum-editors/">SIGIR Forum Co-Editor</a> for a three-year term.</li>
       <li><strong>Oct. 2025</strong>: 2 students I supervised got national scholarship (Hengran and Lulu). Congrats!</li>
-      <li><strong>Oct. 2025</strong>: 1 paper accepted by WSDM 2026.</li>
-      <li><strong>Sep. 2025</strong>: 2 papers accepted by SIGIR-AP 2025.</li>
-      <li><strong>Aug. 2025</strong>: 1 paper accepted by CIKM 2025.</li>
-      <li><strong>Aug. 2025</strong>: 3 papers accepted by EMNLP 2025 (2 Main, 1 Findings).</li>
-      <li><strong>May 2025</strong>: 2 papers accepted to ACL 2025 (1 Main, 1 Findings).</li>
+      <li><strong>Oct. 2025</strong>: 1 paper accepted by WSDM 2026. Congrats to Wei!</li>
+      <li><strong>Sep. 2025</strong>: 2 papers accepted by SIGIR-AP 2025. Congrats to Hengran and Minghao!</li>
+      <li><strong>Aug. 2025</strong>: 1 paper accepted by CIKM 2025. Congrats to Da!</li>
+      <li><strong>Aug. 2025</strong>: 3 papers accepted by EMNLP 2025 (2 Main, 1 Findings). Congrats to Da, Hengran, Minghao, Zhikai (intern), and Shiyu!</li>
+      <li><strong>May 2025</strong>: 2 papers accepted to ACL 2025 (1 Main, 1 Findings). Congrats to Shiyu and Yuchen!</li>
       <li><strong>Mar. 2025</strong>: I am serving as a tutorial co-chair of <a href="http://tcci.ccf.org.cn/conference/2025/">NLPCC 2025</a>.</li>
       <li><strong>Feb. 2025</strong>: I am serving as a general co-chair of <a href="https://www.sigir-ap.org/sigir-ap-2025">SIGIR-AP 2025</a>. Welcome your submissions!</li>
     </ul>
