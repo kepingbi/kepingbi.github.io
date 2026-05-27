@@ -61,9 +61,7 @@
   publisher: CoRR
   date: 2026-3-26
   link: https://doi.org/10.48550/arXiv.2603.01471
-- id: 'authoritybench: benchmarking llm authority perception for reliable retrieval-augmented
-    generation'
-  title: 'AuthorityBench: Benchmarking LLM Authority Perception for Reliable Retrieval-Augmented
+- title: 'AuthorityBench: Benchmarking LLM Authority Perception for Reliable Retrieval-Augmented
     Generation'
   authors:
   - Zhihui Yao
@@ -72,8 +70,7 @@
   publisher: CoRR
   date: 2026-3-26
   link: https://doi.org/10.48550/arXiv.2603.25092
-- id: 'data, not model: explaining bias toward llm texts in neural retrievers'
-  title: 'Data, Not Model: Explaining Bias toward LLM Texts in Neural Retrievers'
+- title: 'Data, Not Model: Explaining Bias toward LLM Texts in Neural Retrievers'
   authors:
   - Wei Huang
   - Keping Bi
@@ -84,8 +81,7 @@
   publisher: CoRR
   date: 2026-4-25
   link: https://doi.org/10.48550/arXiv.2604.06163
-- id: how long reasoning chains influence llms' judgment of answer factuality
-  title: How Long Reasoning Chains Influence LLMs' Judgment of Answer Factuality
+- title: How Long Reasoning Chains Influence LLMs' Judgment of Answer Factuality
   authors:
   - Minzhu Tu
   - Shiyu Ni
@@ -93,8 +89,7 @@
   publisher: CoRR
   date: 2026-4-24
   link: https://doi.org/10.48550/arXiv.2604.06756
-- id: 'beyond relevance: utility-centric retrieval in the llm era'
-  title: 'Beyond Relevance: Utility-Centric Retrieval in the LLM Era'
+- title: 'Beyond Relevance: Utility-Centric Retrieval in the LLM Era'
   authors:
   - Hengran Zhang
   - Minghao Tang
