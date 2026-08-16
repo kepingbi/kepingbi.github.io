@@ -1,5 +1,92 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM DBLP.
 
+- id: 'compressing then matching: an efficient pre-training paradigm for multimodal
+    embedding'
+  title: 'Compressing then Matching: An Efficient Pre-training Paradigm for Multimodal
+    Embedding'
+  authors:
+  - Da Li
+  - Yuxiao Luo
+  - Keping Bi
+  - Jiafeng Guo
+  - Wei Yuan
+  - Biao Yang
+  - Yan Wang
+  - Fan Yang
+  - Tingting Gao
+  - Guorui Zhou
+  publisher: 'Proceedings of the 64th Annual Meeting of the Association for Computational
+    Linguistics (Volume 1: Long Papers), ACL 2026, San Diego, California, United States,
+    July 2-7, 2026'
+  date: '2026-12-30'
+  link: https://aclanthology.org/2026.acl-long.169/
+- id: an iterative utility judgment framework inspired by philosophical relevance
+    via llms
+  title: An Iterative Utility Judgment Framework Inspired by Philosophical Relevance
+    via LLMs
+  authors:
+  - Hengran Zhang
+  - Keping Bi
+  - Jiafeng Guo
+  - Xueqi Cheng
+  publisher: Findings of the Association for Computational Linguistics, ACL 2026,
+    San Diego, California, United States, July 2-7, 2026
+  date: '2026-12-29'
+  link: https://aclanthology.org/2026.findings-acl.1579/
+- title: How Long Reasoning Chains Influence LLMs' Judgment of Answer Factuality
+  authors:
+  - Minzhu Tu
+  - Shiyu Ni
+  - Keping Bi
+  publisher: 'Proceedings of the 64th Annual Meeting of the Association for Computational
+    Linguistics (Volume 1: Long Papers), ACL 2026, San Diego, California, United States,
+    July 2-7, 2026'
+  date: '2026-12-28'
+  link: https://aclanthology.org/2026.acl-long.2082/
+- id: reconstructing content with collaborative attention for universal multimodal
+    representation learning
+  title: Reconstructing Content with Collaborative Attention for Universal Multimodal
+    Representation Learning
+  authors:
+  - Jiahan Chen
+  - Da Li
+  - Hengran Zhang
+  - Yinqiong Cai
+  - Lixin Su
+  - Jiafeng Guo
+  - Daiting Shi
+  - Dawei Yin
+  - Keping Bi
+  publisher: Proceedings of the 49th International ACM SIGIR Conference on Research
+    and Development in Information Retrieval, SIGIR 2026, MelbourneVICAustralia, July
+    20-24, 2026
+  date: '2026-12-27'
+  link: https://doi.org/10.1145/3805712.3809695
+- title: Attention Grounded Enhancement for Visual Document Retrieval
+  authors:
+  - Wanqing Cui
+  - Wei Huang
+  - Yazhi Guo
+  - Yibo Hu
+  - Meiguang Jin
+  - Junfeng Ma
+  - Keping Bi
+  publisher: Proceedings of the 49th International ACM SIGIR Conference on Research
+    and Development in Information Retrieval, SIGIR 2026, MelbourneVICAustralia, July
+    20-24, 2026
+  date: '2026-12-26'
+  link: https://doi.org/10.1145/3805712.3809532
+- title: 'Beyond Relevance: Utility-Centric Retrieval in the LLM Era'
+  authors:
+  - Hengran Zhang
+  - Minghao Tang
+  - Keping Bi
+  - Jiafeng Guo
+  publisher: Proceedings of the 49th International ACM SIGIR Conference on Research
+    and Development in Information Retrieval, SIGIR 2026, MelbourneVICAustralia, July
+    20-24, 2026
+  date: '2026-12-25'
+  link: https://doi.org/10.1145/3805712.3808641
 - title: How Do LLM-Generated Texts Impact Term-Based Retrieval Models?
   authors:
   - Wei Huang
@@ -81,23 +168,18 @@
   publisher: CoRR
   date: 2026-4-25
   link: https://doi.org/10.48550/arXiv.2604.06163
-- title: How Long Reasoning Chains Influence LLMs' Judgment of Answer Factuality
+- id: can llm rerankers predict their own ranking performance?
+  title: Can LLM Rerankers Predict Their Own Ranking Performance?
   authors:
-  - Minzhu Tu
   - Shiyu Ni
   - Keping Bi
-  publisher: CoRR
-  date: 2026-4-24
-  link: https://doi.org/10.48550/arXiv.2604.06756
-- title: 'Beyond Relevance: Utility-Centric Retrieval in the LLM Era'
-  authors:
-  - Hengran Zhang
-  - Minghao Tang
-  - Keping Bi
   - Jiafeng Guo
+  - Jingtong Wu
+  - Zengxin Han
+  - Xueqi Cheng
   publisher: CoRR
-  date: 2026-4-23
-  link: https://doi.org/10.48550/arXiv.2604.08920
+  date: 2026-6-18
+  link: https://doi.org/10.48550/arXiv.2606.03535
 - title: 'GSM-EL: A Generalizable Symbol-Manipulation Approach for Entity Linking'
   authors:
   - Xueqi Cheng
@@ -379,18 +461,6 @@
   publisher: CoRR
   date: '2025-11-14'
   link: https://doi.org/10.48550/arXiv.2511.08480
-- title: Attention Grounded Enhancement for Visual Document Retrieval
-  authors:
-  - Wanqing Cui
-  - Wei Huang
-  - Yazhi Guo
-  - Yibo Hu
-  - Meiguang Jin
-  - Junfeng Ma
-  - Keping Bi
-  publisher: CoRR
-  date: '2025-11-13'
-  link: https://doi.org/10.48550/arXiv.2511.13415
 - title: 'MORE: Multi-mOdal REtrieval Augmented Generative Commonsense Reasoning'
   authors:
   - Wanqing Cui
