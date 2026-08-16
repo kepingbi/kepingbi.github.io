@@ -1,7 +1,7 @@
 ---
 name: Mingkun Zhang
 image: images/students/MingkunZhang.jpeg
-description: Ph.D. at ICT, CAS, 2020-
+description: Ph.D. at ICT, CAS, 2020-2026
 role: phd
 group: former
 aliases:

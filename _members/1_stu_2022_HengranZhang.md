@@ -8,5 +8,5 @@ aliases:
   - H. Zhang
   - Hengran Zhang
 links:
-    home-page: https://scholar.google.com/citations?user=ysrrJqsAAAAJ
+    home-page: https://hengran.github.io/
 ---

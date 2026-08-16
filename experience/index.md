@@ -33,16 +33,18 @@ nav:
 
         <h3>Leadership</h3>
         <ul>
+          <li><a href="https://sigir-ictir.github.io/ictir2026/">ICTIR 2026</a> Program Co-chair.</li>
           <li><a href="https://sigir.org/general-information/officers-and-volunteers/">SIGIR</a> Forum Co-Editor (2025-2028).</li>
           <li><a href="https://www.sigir-ap.org/sigir-ap-2025">SIGIR-AP 2025</a> General Co-chair.</li>
           <li><a href="http://tcci.ccf.org.cn/conference/2025/">NLPCC 2025</a> Tutorial Co-chair.</li>
           <li><a href="https://www.sigir-ap.org/sigir-ap-2023">SIGIR-AP 2023</a> Registration Chair.</li>
         </ul>
 
-        <h3>Area Chair</h3>
+        <h3>Area Chair / Senior Program Committee Member</h3>
         <ul>
           <li>Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING), 2024.</li>
-          <li>ACL Rolling Review (ARR) 2025 (Oct.), 2026 (Jan.).</li>
+          <li>ACL Rolling Review (ARR) 2025 (Oct.), 2026 (Jan., May).</li>
+          <li>ACM International Conference on Information and Knowledge Management (CIKM), Senior Program Committee (SPC), (long) 2026.</li>
         </ul>
 
         <h3>PC Member / Reviewer</h3>
@@ -60,7 +62,7 @@ nav:
 
         <h3>Journal Reviewer</h3>
         <ul>
-          <li>ACM Transactions on Information Systems (TOIS), 2019, 2020, 2021, 2025.</li>
+          <li>ACM Transactions on Information Systems (TOIS), 2019, 2020, 2021, 2025, 2026.</li>
           <li>International Journal of Data Science and Analytics (IJDSA), 2025.</li>
           <li>Transactions on Intelligent Systems and Technology (TIST), 2023.</li>
           <li>Data & Knowledge Engineering (DKE) 2022.</li>

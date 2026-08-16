@@ -1,9 +1,9 @@
 ---
 name: Lulu Yu
 image: images/students/LuluYu.jpg
-description: M.S. at ICT, CAS, 2023-
+description: M.S. at ICT, CAS, 2023‑2026
 role: master
-group: current
+group: former
 aliases:
   - L. Yu
   - Lulu Yu

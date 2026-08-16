@@ -61,6 +61,7 @@ nav:
   <div class="home-section">
     <div class="home-section-title">Honors & Awards</div>
     <ul class="home-grid">
+      <li><a href="https://sigir.org/awards/sigir-ecr-awards/">SIGIR Early Career Researcher (ECR) Award</a>, 2026.</li>
       <li>ICT Outstanding Researcher, 2025.</li>
       <li>National Young Talent, 2023.</li>
       <li>New Hundred Stars Talent Program, ICT (top 4), 2022.</li>
@@ -72,22 +73,25 @@ nav:
   <div class="home-section">
     <div class="home-section-title">News</div>
     <ul class="home-list">
-      <li><strong>May 2026</strong>: 1 paper accepted by KDD 2026. Congrats to Benben (Undergrad), Minghao, and Hengran! </li>
-      <li><strong>May 2026</strong>: Lulu received the Outstanding Graduate Award from the University of Chinese Academy of Sciences (UCAS). Jiahan and Minghao were named Merit Students of UCAS. Congrats!</li>
-      <li><strong>April 2026</strong>: 3 papers accepted by ACL 2026 (2 Main, 1 Findings). Congrats to Da, Minzhu (intern), Shiyu, and Hengran! </li>
-      <li><strong>April 2026</strong>: 2 papers and 1 tutorial proposal are accepted by SIGIR 2026. Congrats to Jiahan, Wanqing, Hengran, and Minghao! </li>
+      <li><strong>August 2026</strong>: 2 long papers and 1 short paper accepted by CIKM 2026. Congrats to <a href="https://hengran.github.io/">Hengran</a>, and <a href="https://scholar.google.com/citations?user=nZUT84MAAAAJ">Lulu</a>! </li>
+      <li><strong>July 2026</strong>: I gave a tutorial on <a href="https://stay-hungry-time.github.io/utility-tutorial/">Beyond Relevance: Utility-Centric Retrieval in the LLM Era</a> at SIGIR 2026, and the opening talk at <a href="https://sigir-ictir.github.io/ictir2026/">ICTIR 2026</a>. </li>
+      <li><strong>July 2026</strong>: Honored to receive the <a href="https://sigir.org/awards/sigir-ecr-awards/">SIGIR Early Career Research (ECR) award</a>! </li>
+      <li><strong>May 2026</strong>: 1 paper accepted by KDD 2026. Congrats to Benben (Undergrad), <a href="https://scholar.google.com/citations?user=FQuHc8oAAAAJ">Minghao</a>, and <a href="https://hengran.github.io/">Hengran</a>! </li>
+      <li><strong>May 2026</strong>: <a href="https://scholar.google.com/citations?user=nZUT84MAAAAJ">Lulu</a> received the Outstanding Graduate Award from the University of Chinese Academy of Sciences (UCAS). Jiahan and <a href="https://scholar.google.com/citations?user=FQuHc8oAAAAJ">Minghao</a> were named Merit Students of UCAS. Congrats!</li>
+      <li><strong>April 2026</strong>: 3 papers accepted by ACL 2026 (2 Main, 1 Findings). Congrats to Da, Minzhu (intern), <a href="https://shiyunee.github.io/">Shiyu</a>, and <a href="https://hengran.github.io/">Hengran</a>! </li>
+      <li><strong>April 2026</strong>: 2 papers and 1 tutorial proposal are accepted by SIGIR 2026. Congrats to Jiahan, <a href="https://scholar.google.com/citations?user=qUkfykcAAAAJ">Wanqing</a>, <a href="https://hengran.github.io/">Hengran</a>, and <a href="https://scholar.google.com/citations?user=FQuHc8oAAAAJ">Minghao</a>! </li>
       <li><strong>Jan. 2026</strong>: I will serve as a PC co-chair of <a href="https://sigir-ictir.github.io/ictir2026/">ICTIR 2026</a>. Welcome your submissions! </li>
-      <li><strong>Jan. 2026</strong>: 2 papers accepted by ICLR 2026. Congrats to Shiyu and Da!</li>
+      <li><strong>Jan. 2026</strong>: 2 papers accepted by ICLR 2026. Congrats to <a href="https://shiyunee.github.io/">Shiyu</a> and Da!</li>
       <li><strong>Dec. 2025</strong>: <a href="https://shiyunee.github.io/">Shiyu</a> has been selected for the Young Elite Scientists Sponsorship Program (Doctoral Students Track), China Association for Science and Technology. Congrats!</li>
       <li><strong>Dec. 2025</strong>: SIGIR-AP 2025 has successfully concluded in Xi'an, and I summarized the event in this <a href="https://mp.weixin.qq.com/s/vq3A4cxLHKEA0TVX16WX9Q">article</a>.</li>
       <li><strong>Nov. 2025</strong>: I gave a keynote talk in the <a href="https://mmgensr-cikm25.github.io/">International Workshop on Multimodal Generative Search and Recommendation in CIKM 2025</a>. The slides can be found on our group website <a href="https://stay-hungry-time.github.io/resources">Smarter Retrieval for Smarter Generation--When and How to Retrieve for Retrieval-Augmented Generation</a>.</li>
       <li><strong>Oct. 2025</strong>: I will serve as a <a href="https://sigir.org/forum/editorial-policy-and-forum-editors/">SIGIR Forum Co-Editor</a> for a three-year term.</li>
-      <li><strong>Oct. 2025</strong>: 2 students I supervised got national scholarship (Hengran and Lulu). Congrats!</li>
+      <li><strong>Oct. 2025</strong>: 2 students I supervised got national scholarship (<a href="https://hengran.github.io/">Hengran</a> and <a href="https://scholar.google.com/citations?user=nZUT84MAAAAJ">Lulu</a>). Congrats!</li>
       <li><strong>Oct. 2025</strong>: 1 paper accepted by WSDM 2026. Congrats to Wei!</li>
-      <li><strong>Sep. 2025</strong>: 2 papers accepted by SIGIR-AP 2025. Congrats to Hengran and Minghao!</li>
+      <li><strong>Sep. 2025</strong>: 2 papers accepted by SIGIR-AP 2025. Congrats to <a href="https://hengran.github.io/">Hengran</a> and <a href="https://scholar.google.com/citations?user=FQuHc8oAAAAJ">Minghao</a>!</li>
       <li><strong>Aug. 2025</strong>: 1 paper accepted by CIKM 2025. Congrats to Da!</li>
-      <li><strong>Aug. 2025</strong>: 3 papers accepted by EMNLP 2025 (2 Main, 1 Findings). Congrats to Da, Hengran, Minghao, Zhikai (intern), and Shiyu!</li>
-      <li><strong>May 2025</strong>: 2 papers accepted to ACL 2025 (1 Main, 1 Findings). Congrats to Shiyu and Yuchen!</li>
+      <li><strong>Aug. 2025</strong>: 3 papers accepted by EMNLP 2025 (2 Main, 1 Findings). Congrats to Da, <a href="https://hengran.github.io/">Hengran</a>, <a href="https://scholar.google.com/citations?user=FQuHc8oAAAAJ">Minghao</a>, Zhikai (intern), and <a href="https://shiyunee.github.io/">Shiyu</a>!</li>
+      <li><strong>May 2025</strong>: 2 papers accepted to ACL 2025 (1 Main, 1 Findings). Congrats to <a href="https://shiyunee.github.io/">Shiyu</a> and <a href="https://yuchenwen1.github.io/">Yuchen</a>!</li>
       <li><strong>Mar. 2025</strong>: I am serving as a tutorial co-chair of <a href="http://tcci.ccf.org.cn/conference/2025/">NLPCC 2025</a>.</li>
       <li><strong>Feb. 2025</strong>: I am serving as a general co-chair of <a href="https://www.sigir-ap.org/sigir-ap-2025">SIGIR-AP 2025</a>. Welcome your submissions!</li>
     </ul>
