@@ -1,8 +1,6 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM DBLP.
 
-- id: 'compressing then matching: an efficient pre-training paradigm for multimodal
-    embedding'
-  title: 'Compressing then Matching: An Efficient Pre-training Paradigm for Multimodal
+- title: 'Compressing then Matching: An Efficient Pre-training Paradigm for Multimodal
     Embedding'
   authors:
   - Da Li
@@ -20,9 +18,7 @@
     July 2-7, 2026'
   date: '2026-12-30'
   link: https://aclanthology.org/2026.acl-long.169/
-- id: an iterative utility judgment framework inspired by philosophical relevance
-    via llms
-  title: An Iterative Utility Judgment Framework Inspired by Philosophical Relevance
+- title: An Iterative Utility Judgment Framework Inspired by Philosophical Relevance
     via LLMs
   authors:
   - Hengran Zhang
@@ -43,9 +39,7 @@
     July 2-7, 2026'
   date: '2026-12-28'
   link: https://aclanthology.org/2026.acl-long.2082/
-- id: reconstructing content with collaborative attention for universal multimodal
-    representation learning
-  title: Reconstructing Content with Collaborative Attention for Universal Multimodal
+- title: Reconstructing Content with Collaborative Attention for Universal Multimodal
     Representation Learning
   authors:
   - Jiahan Chen
@@ -168,8 +162,7 @@
   publisher: CoRR
   date: 2026-4-25
   link: https://doi.org/10.48550/arXiv.2604.06163
-- id: can llm rerankers predict their own ranking performance?
-  title: Can LLM Rerankers Predict Their Own Ranking Performance?
+- title: Can LLM Rerankers Predict Their Own Ranking Performance?
   authors:
   - Shiyu Ni
   - Keping Bi

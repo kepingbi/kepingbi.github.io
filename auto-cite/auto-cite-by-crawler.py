@@ -170,7 +170,6 @@ for entry in dblp_pubs:
         date = '%s-%s-%s' % (year, month, day)
         if id not in publications:
             publications[id] = {
-                'id': id,
                 'title': title,
                 'authors': authors,
                 'publisher': publisher,
