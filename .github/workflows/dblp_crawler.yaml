@@ -1,12 +1,12 @@
 name: Auto Cite by Crawler
 
 on:
-  push:
-  
-  pull_request:
-    paths:
-      - "_config.yaml"
-  # workflow_dispatch:
+  workflow_dispatch:
+  # push:
+  #
+  # pull_request:
+  #   paths:
+  #     - "_config.yaml"
   # schedule:
   #   - cron: "0 0 * * 1"
 permissions:

@@ -52,7 +52,7 @@
   - Dawei Yin
   - Keping Bi
   publisher: Proceedings of the 49th International ACM SIGIR Conference on Research
-    and Development in Information Retrieval, SIGIR 2026, MelbourneVICAustralia, July
+    and Development in Information Retrieval, SIGIR 2026, Melbourne, VIC, Australia, July
     20-24, 2026
   date: '2026-12-27'
   link: https://doi.org/10.1145/3805712.3809695
@@ -66,7 +66,7 @@
   - Junfeng Ma
   - Keping Bi
   publisher: Proceedings of the 49th International ACM SIGIR Conference on Research
-    and Development in Information Retrieval, SIGIR 2026, MelbourneVICAustralia, July
+    and Development in Information Retrieval, SIGIR 2026, Melbourne, VIC, Australia, July
     20-24, 2026
   date: '2026-12-26'
   link: https://doi.org/10.1145/3805712.3809532
@@ -77,8 +77,8 @@
   - Keping Bi
   - Jiafeng Guo
   publisher: Proceedings of the 49th International ACM SIGIR Conference on Research
-    and Development in Information Retrieval, SIGIR 2026, MelbourneVICAustralia, July
-    20-24, 2026
+    and Development in Information Retrieval (Tutorial Abstract), SIGIR 2026, Melbourne, VIC, Australia,
+    July 20-24, 2026
   date: '2026-12-25'
   link: https://doi.org/10.1145/3805712.3808641
 - title: How Do LLM-Generated Texts Impact Term-Based Retrieval Models?
@@ -124,24 +124,10 @@
   - Hengran Zhang
   - Jiafeng Guo
   - Keping Bi
-  publisher: CoRR
+  publisher: Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery
+    and Data Mining, KDD 2026, Jeju, Republic of Korea, August 9-13, 2026
   date: 2026-2-27
   link: https://doi.org/10.48550/arXiv.2602.12727
-- title: Reconstructing Content via Collaborative Attention to Improve Multimodal
-    Embedding Quality
-  authors:
-  - Jiahan Chen
-  - Da Li
-  - Hengran Zhang
-  - Yinqiong Cai
-  - Lixin Su
-  - Jiafeng Guo
-  - Daiting Shi
-  - Dawei Yin
-  - Keping Bi
-  publisher: CoRR
-  date: 2026-3-26
-  link: https://doi.org/10.48550/arXiv.2603.01471
 - title: 'AuthorityBench: Benchmarking LLM Authority Perception for Reliable Retrieval-Augmented
     Generation'
   authors:
@@ -159,7 +145,8 @@
   - Wei Chen
   - Jiafeng Guo
   - Xueqi Cheng
-  publisher: CoRR
+  publisher: 'Findings of the Association for Computational Linguistics: EMNLP 2026,
+    Budapest, Hungary, October 24-29, 2026'
   date: 2026-4-25
   link: https://doi.org/10.48550/arXiv.2604.06163
 - title: Can LLM Rerankers Predict Their Own Ranking Performance?
@@ -181,7 +168,7 @@
   - Jiafeng Guo
   - Ruqing Zhang
   - Keping Bi
-  publisher: IEEE Trans. Knowl. Data Eng.
+  publisher: IEEE Transactions on Knowledge and Data Engineering, 2025
   date: 2025-3-30
   link: https://doi.org/10.1109/TKDE.2024.3523399
 - title: 'CAME: Competitively Learning a Mixture-of-Experts Model for First-stage
@@ -194,7 +181,7 @@
   - Wei Chen
   - Ruqing Zhang
   - Xueqi Cheng
-  publisher: ACM Trans. Inf. Syst.
+  publisher: ACM Transactions on Information Systems, 2025
   date: 2025-3-30
   link: https://doi.org/10.1145/3678880
 - title: Evaluating Implicit Bias in Large Language Models by Attacking From a Psychometric
@@ -229,7 +216,7 @@
   - Keping Bi
   - Jiafeng Guo
   publisher: Information Retrieval - 31st China Conference, CCIR 2025, Shihezi, China,
-    August 15-17, 2025, Revised Selected Papers
+    August 15-17, 2025
   date: '2025-12-30'
   link: https://doi.org/10.1007/978-981-95-5637-3_4
 - title: Bridging Queries and Tables through Entities in Open-Domain Table Retrieval
@@ -356,40 +343,20 @@
   - Daiting Shi
   - Dawei Yin
   - Xueqi Cheng
-  publisher: CoRR
-  date: 2025-4-24
+  publisher: Proceedings of the 35th ACM International Conference on Information
+    and Knowledge Management (Short Paper), CIKM 2026, Rome, Italy, November 7-11,
+    2026
+  date: 2026-4-24
   link: https://doi.org/10.48550/arXiv.2504.05216
-- title: 'Leveraging LLMs for Utility-Focused Annotation: Reducing Manual Effort for
-    Retrieval and RAG'
-  authors:
-  - Hengran Zhang
-  - Minghao Tang
-  - Keping Bi
-  - Jiafeng Guo
-  - Shihao Liu
-  - Daiting Shi
-  - Dawei Yin
-  - Xueqi Cheng
-  publisher: CoRR
-  date: 2025-4-23
-  link: https://doi.org/10.48550/arXiv.2504.05220
-- title: Bridging Queries and Tables through Entities in Table Retrieval
-  authors:
-  - Da Li
-  - Keping Bi
-  - Jiafeng Guo
-  - Xueqi Cheng
-  publisher: CoRR
-  date: 2025-4-22
-  link: https://doi.org/10.48550/arXiv.2504.06551
 - title: How Knowledge Popularity Influences and Enhances LLM Knowledge Boundary Perception
   authors:
   - Shiyu Ni
   - Keping Bi
   - Jiafeng Guo
   - Xueqi Cheng
-  publisher: CoRR
-  date: 2025-5-21
+  publisher: Proceedings of the 2026 Conference on Empirical Methods in Natural Language
+    Processing, EMNLP 2026, Budapest, Hungary, October 24-29, 2026
+  date: 2026-5-21
   link: https://doi.org/10.48550/arXiv.2505.17537
 - title: 'LLM-Specific Utility: A New Perspective for Retrieval-Augmented Generation'
   authors:
@@ -400,8 +367,9 @@
   - Shuaiqiang Wang
   - Dawei Yin
   - Xueqi Cheng
-  publisher: CoRR
-  date: '2025-10-18'
+  publisher: Proceedings of the 35th ACM International Conference on Information
+    and Knowledge Management, CIKM 2026, Rome, Italy, November 7-11, 2026
+  date: '2026-10-18'
   link: https://doi.org/10.48550/arXiv.2510.11358
 - title: The Role of Parametric Injection-A Systematic Study of Parametric Retrieval-Augmented
     Generation
@@ -414,7 +382,7 @@
   publisher: CoRR
   date: '2025-10-17'
   link: https://doi.org/10.48550/arXiv.2510.12668
-- title: Annotation-Efficient Universal Honesty Alignment
+- title: Annotation-Efficient Honesty Alignment via Confidence Elicitation and Calibration
   authors:
   - Shiyu Ni
   - Keping Bi
@@ -423,8 +391,9 @@
   - Jingtong Wu
   - Zengxin Han
   - Xueqi Cheng
-  publisher: CoRR
-  date: '2025-10-16'
+  publisher: The Fourteenth International Conference on Learning Representations,
+    ICLR 2026, Rio de Janeiro, Brazil, April 23-27, 2026
+  date: '2026-10-16'
   link: https://doi.org/10.48550/arXiv.2510.17509
 - title: Can LLM Annotations Replace User Clicks for Learning to Rank?
   authors:
@@ -435,25 +404,10 @@
   - Shuaiqiang Wang
   - Dawei Yin
   - Xueqi Cheng
-  publisher: CoRR
-  date: '2025-11-15'
+  publisher: Proceedings of the 35th ACM International Conference on Information
+    and Knowledge Management, CIKM 2026, Rome, Italy, November 7-11, 2026
+  date: '2026-11-15'
   link: https://doi.org/10.48550/arXiv.2511.06635
-- title: 'Compression then Matching: An Efficient Pre-training Paradigm for Multimodal
-    Embedding'
-  authors:
-  - Da Li
-  - Yuxiao Luo
-  - Keping Bi
-  - Jiafeng Guo
-  - Wei Yuan
-  - Biao Yang
-  - Yan Wang
-  - Fan Yang
-  - Tingting Gao
-  - Guorui Zhou
-  publisher: CoRR
-  date: '2025-11-14'
-  link: https://doi.org/10.48550/arXiv.2511.08480
 - title: 'MORE: Multi-mOdal REtrieval Augmented Generative Commonsense Reasoning'
   authors:
   - Wanqing Cui
@@ -483,7 +437,7 @@
   - Lulu Yu
   - Jiafeng Guo
   publisher: Information Retrieval - 30th China Conference, CCIR 2024, Wuhan, China,
-    October 18-20, 2024, Revised Selected Papers
+    October 18-20, 2024
   date: 2024-5-20
   link: https://doi.org/10.1007/978-981-96-1710-4_10
 - title: Reproducibility Analysis and Enhancements for Multi-aspect Dense Retriever
@@ -537,15 +491,6 @@
     Data Mining, WSDM 2024, Merida, Mexico, March 4-8, 2024
   date: '2024-12-27'
   link: https://doi.org/10.1145/3616855.3635770
-- title: Iterative Utility Judgment Framework via LLMs Inspired by Relevance in Philosophy
-  authors:
-  - Hengran Zhang
-  - Keping Bi
-  - Jiafeng Guo
-  - Xueqi Cheng
-  publisher: CoRR
-  date: '2024-12-26'
-  link: https://doi.org/10.48550/arXiv.2406.11290
 - title: Contextual Dual Learning Algorithm with Listwise Distillation for Unbiased
     Learning to Rank
   authors:
@@ -613,7 +558,8 @@
   - Xiaojie Sun
   - Keping Bi
   - Jiafeng Guo
-  publisher: CoRR
+  publisher: WSDM Cup 2023, co-located with the 16th ACM International Conference
+    on Web Search and Data Mining, Singapore, 27 February - 3 March 2023
   date: '2023-12-19'
   link: https://doi.org/10.48550/arXiv.2302.07530
 - title: Ensemble Ranking Model with Multiple Pretraining Strategies for Web Search
@@ -623,7 +569,8 @@
   - Yiting Wang
   - Keping Bi
   - Jiafeng Guo
-  publisher: CoRR
+  publisher: WSDM Cup 2023, co-located with the 16th ACM International Conference
+    on Web Search and Data Mining, Singapore, 27 February - 3 March 2023
   date: '2023-12-18'
   link: https://doi.org/10.48550/arXiv.2302.09340
 - title: 'AREDSUM: Adaptive Redundancy-Aware Iterative Sentence Ranking for Extractive
@@ -674,7 +621,7 @@
   - Yongfeng Zhang
   - Keping Bi
   - W. Bruce Croft
-  publisher: ACM Trans. Inf. Syst.
+  publisher: ACM Transactions on Information Systems, 2020
   date: '2020-12-11'
   link: https://www.wikidata.org/entity/Q102634548
 - title: 'Artemis: A Novel Annotation Methodology for Indicative Single Document Summarization'
@@ -700,14 +647,6 @@
     25-30, 2020
   date: 2020-12-9
   link: https://doi.org/10.1145/3397271.3401192
-- title: A Review-based Transformer Model for Personalized Product Search
-  authors:
-  - Keping Bi
-  - Qingyao Ai
-  - W. Bruce Croft
-  publisher: CoRR
-  date: 2020-12-8
-  link: https://arxiv.org/abs/2004.09424
 - title: Conversational Product Search Based on Negative Feedback
   authors:
   - Keping Bi
@@ -777,8 +716,11 @@
   - Keping Bi
   - Qingyao Ai
   - W. Bruce Croft
-  publisher: CoRR
-  date: 2018-12-1
+  publisher: Proceedings of the 1st SIGIR Workshop on Conversational Interaction
+    Systems, WCIS 2019, co-located with the 42nd International ACM SIGIR Conference
+    on Research and Development in Information Retrieval, Paris, France, July 25,
+    2019
+  date: '2019-12-3'
   link: http://arxiv.org/abs/1812.05731
 - title: Learning a Hierarchical Embedding Model for Personalized Product Search
   authors:
