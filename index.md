@@ -63,6 +63,7 @@ nav:
     <ul class="home-grid">
       <li><a href="https://sigir.org/awards/sigir-ecr-awards/">SIGIR Early Career Researcher (ECR) Award</a>, 2026.</li>
       <li>ICT Outstanding Researcher, 2025.</li>
+      <li>Qian Weichang Chinese Information Processing Science and Technology Award (First Prize), 2024.</li>
       <li>National Young Talent, 2023.</li>
       <li>New Hundred Stars Talent Program, ICT (top 4), 2022.</li>
       <li>Travel Grants: SIGIR'21 Student Travel Grant; WWW'21 Student Scholarship; SIGIR'20 Student Travel Grant; CIKM'19 Student Travel Grant; ECIR'19 Student Travel Grant; SIGIR'18 Travel Grant.</li>
