@@ -61,7 +61,7 @@ nav:
   <div class="home-section">
     <div class="home-section-title">Honors & Awards</div>
     <ul class="home-grid">
-      <li><a href="https://sigir.org/awards/sigir-ecr-awards/">SIGIR Early Career Researcher (ECR) Award</a>, 2026.</li>
+      <li><a href="https://sigir.org/awards/sigir-ecr-awards/">ACM SIGIR Early Career Researcher (ECR) Award</a>, 2026.</li>
       <li>ICT Outstanding Researcher, 2025.</li>
       <li>Qian Weichang Chinese Information Processing Science and Technology Award (First Prize), 2024.</li>
       <li>National Young Talent, 2023.</li>
@@ -74,9 +74,10 @@ nav:
   <div class="home-section">
     <div class="home-section-title">News</div>
     <ul class="home-list">
-      <li><strong>August 2026</strong>: 2 long papers and 1 short paper accepted by CIKM 2026. Congrats to <a href="https://hengran.github.io/">Hengran</a>, and <a href="https://scholar.google.com/citations?user=nZUT84MAAAAJ">Lulu</a>! </li>
+      <li><strong>August 2026</strong>: 2 papers accepted to EMNLP 2026 (1 Main, 1 Findings). Congrats to <a href="https://shiyunee.github.io/">Shiyu</a> and Wei! </li>
+      <li><strong>August 2026</strong>: 2 long papers and 1 short paper accepted by CIKM 2026. Congrats to <a href="https://hengran.github.io/">Hengran</a> and <a href="https://scholar.google.com/citations?user=nZUT84MAAAAJ">Lulu</a>! </li>
       <li><strong>July 2026</strong>: I gave a tutorial on <a href="https://stay-hungry-time.github.io/utility-tutorial/">Beyond Relevance: Utility-Centric Retrieval in the LLM Era</a> at SIGIR 2026, and the opening talk at <a href="https://sigir-ictir.github.io/ictir2026/">ICTIR 2026</a>. </li>
-      <li><strong>July 2026</strong>: Honored to receive the <a href="https://sigir.org/awards/sigir-ecr-awards/">SIGIR Early Career Research (ECR) award</a>! </li>
+      <li><strong>July 2026</strong>: Honored to receive the <a href="https://sigir.org/awards/sigir-ecr-awards/">ACM SIGIR Early Career Researcher (ECR) Award</a>! </li>
       <li><strong>May 2026</strong>: 1 paper accepted by KDD 2026. Congrats to Benben (Undergrad), <a href="https://scholar.google.com/citations?user=FQuHc8oAAAAJ">Minghao</a>, and <a href="https://hengran.github.io/">Hengran</a>! </li>
       <li><strong>May 2026</strong>: <a href="https://scholar.google.com/citations?user=nZUT84MAAAAJ">Lulu</a> received the Outstanding Graduate Award from the University of Chinese Academy of Sciences (UCAS). Jiahan and <a href="https://scholar.google.com/citations?user=FQuHc8oAAAAJ">Minghao</a> were named Merit Students of UCAS. Congrats!</li>
       <li><strong>April 2026</strong>: 3 papers accepted by ACL 2026 (2 Main, 1 Findings). Congrats to Da, Minzhu (intern), <a href="https://shiyunee.github.io/">Shiyu</a>, and <a href="https://hengran.github.io/">Hengran</a>! </li>

@@ -1,0 +1,166 @@
+- title: "Keyword Queries in Agentic Retrieval: A Comparative Analysis of Sparse and General Dense Retrieval"
+  group: poster
+  image: images/placeholder.svg  # replace with images/talk/<name>.jpg when available
+  link: /talks/2026_CCIR_Poster_93.pdf
+  venue: "<b>Poster</b> at the 32nd China Conference on Information Retrieval (CCIR 2026)"
+  location: "Changchun, China"
+  date: '2026-08-15'
+  extra-links:
+    - type: pdf
+      text: Poster
+      link: /talks/2026_CCIR_Poster_93.pdf
+
+- title: "Opening Talk at ICTIR 2026"
+  group: talk
+  image: images/placeholder.svg  # replace with images/talk/<name>.jpg when available
+  authors:
+    - Keping Bi
+  link: https://sigir-ictir.github.io/ictir2026/
+  venue: "<b>Opening Talk</b> as Program Co-chair of the ACM SIGIR International Conference on the Theory of Information Retrieval (ICTIR 2026)"
+  location: "Melbourne | Naarm, Australia"
+  date: '2026-07-25'
+  extra-links:
+    - type: slides
+      link: /talks/ictir2026_opening.pdf
+
+- title: "Attention Grounded Enhancement for Visual Document Retrieval"
+  group: talk
+  image: images/placeholder.svg  # replace with images/talk/<name>.jpg when available
+  authors:
+    - Wanqing Cui
+    - Wei Huang
+    - Yazhi Guo
+    - Yibo Hu
+    - Meiguang Jin
+    - Junfeng Ma
+    - Keping Bi
+  link: https://doi.org/10.1145/3805712.3809532
+  venue: "<b>Conference Talk</b> in the 49th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2026)"
+  location: "Melbourne | Naarm, Australia"
+  date: '2026-07-23'
+  extra-links:
+    - type: slides
+      link: /talks/2026SIGIR_AGREE_SIGIR_0723_v1.pdf
+
+- title: "How Long Reasoning Chains Influence LLMs' Judgment of Answer Factuality"
+  group: talk
+  image: images/placeholder.svg  # replace with images/talk/<name>.jpg when available
+  authors:
+    - Minzhu Tu
+    - Shiyu Ni
+    - Keping Bi
+  link: https://vulgen-workshop.github.io/SIGIR2026/schedule/
+  venue: "<b>Workshop Talk</b> in the International Workshop on Vulnerabilities in Generative Systems for Information Retrieval (VulGen'26), co-located with the 49th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2026)"
+  location: "Melbourne | Naarm, Australia"
+  date: '2026-07-24'
+  extra-links:
+    - type: slides
+      link: /talks/2026ACL-Reasoning-Affects-LLM-Judges2.pdf
+
+# TODO: confirm the exact dates of the opening and closing ceremonies (the conference ran Dec 7-10, 2025)
+- title: "Closing Ceremony of SIGIR-AP 2025"
+  group: talk
+  image: images/placeholder.svg  # replace with images/talk/<name>.jpg when available
+  authors:
+    - Keping Bi
+  link: /talks/SIGIR-AP25ClosingCeremony.pdf
+  venue: "<b>Closing Ceremony</b> as General Co-chair of the 3rd ACM SIGIR Conference on Information Retrieval in the Asia Pacific (SIGIR-AP 2025)"
+  location: "Xi'an, China"
+  date: '2025-12-10'
+  extra-links:
+    - type: slides
+      link: /talks/SIGIR-AP25ClosingCeremony.pdf
+    - type: pdf
+      text: SIGIR Forum Report
+      link: https://sigir.org/wp-content/uploads/2026/07/p02.pdf
+
+- title: "Opening Ceremony of SIGIR-AP 2025"
+  group: talk
+  image: images/placeholder.svg  # replace with images/talk/<name>.jpg when available
+  authors:
+    - Keping Bi
+  link: /talks/SIGIR-AP25_Opening_Ceremony.pdf
+  venue: "<b>Opening Ceremony</b> as General Co-chair of the 3rd ACM SIGIR Conference on Information Retrieval in the Asia Pacific (SIGIR-AP 2025)"
+  location: "Xi'an, China"
+  date: '2025-12-08'
+  extra-links:
+    - type: slides
+      link: /talks/SIGIR-AP25_Opening_Ceremony.pdf
+    - type: pdf
+      text: SIGIR Forum Report
+      link: https://sigir.org/wp-content/uploads/2026/07/p02.pdf
+
+- title: "Smarter Retrieval for Smarter Generation -- When and How to Retrieve for Retrieval-Augmented Generation"
+  group: keynote
+  image: images/placeholder.svg  # replace with images/talk/<name>.jpg when available
+  authors:
+    - Keping Bi
+  link: https://mmgensr-cikm25.github.io/
+  venue: "<b>Keynote</b> at the International Workshop on Multimodal Generative Search and Recommendation, co-located with the 34th ACM International Conference on Information and Knowledge Management (CIKM 2025)"
+  location: "Online"
+  date: '2025-11-14'
+  extra-links:
+    - type: slides
+      link: /talks/2025CIKM_SmallerRetrievalforSmarterGeneration.pdf
+
+- title: "Trustworthy Information Access with Retrieval-Augmented Generation"
+  group: talk
+  image: images/placeholder.svg  # replace with images/talk/<name>.jpg when available
+  authors:
+    - Keping Bi
+  link: https://klais.ict.ac.cn/
+  venue: "<b>Invited Talk</b> at the Summer School on AI Algorithm Safety, State Key Laboratory of AI Safety"
+  location: "Beijing, China"
+  date: '2025-08-10'
+  extra-links:
+    - type: slides
+      link: /talks/2025AISafetySummerTrustworthy_Information_Access_RAG_KepingBi.pdf
+
+- title: "Towards Fully Exploiting LLM Internal States to Enhance Knowledge Boundary Perception"
+  group: poster
+  image: images/placeholder.svg  # replace with images/talk/<name>.jpg when available
+  authors:
+    - Shiyu Ni
+    - Keping Bi
+    - Jiafeng Guo
+    - Lulu Yu
+    - Baolong Bi
+    - Xueqi Cheng
+  link: /talks/2025YSSNLP_LLM_Internal_States_Knowledge_Boundary_poster.pdf
+  venue: "<b>Poster</b> at the 22nd Youth Scholar Seminar on Natural Language Processing (YSSNLP 2025)"
+  location: "Dalian, China"
+  date: '2025-06-14'
+  extra-links:
+    - type: pdf
+      text: Poster
+      link: /talks/2025YSSNLP_LLM_Internal_States_Knowledge_Boundary_poster.pdf
+
+- title: "Reproducibility Analysis and Enhancements for Multi-aspect Dense Retriever with Aspect Learning"
+  group: talk
+  image: images/placeholder.svg  # replace with images/talk/<name>.jpg when available
+  authors:
+    - Keping Bi
+    - Xiaojie Sun
+    - Jiafeng Guo
+    - Xueqi Cheng
+  link: https://doi.org/10.1007/978-3-031-56066-8_17
+  venue: "<b>Conference Talk</b> in the Reproducibility Track of the 46th European Conference on Information Retrieval (ECIR 2024)"
+  location: "Glasgow, UK"
+  date: '2024-03-27'
+  extra-links:
+    - type: slides
+      link: /talks/2025ECIR_Reproducibility%20II-Paper%20444-Keping%20Bi.pdf
+
+# TODO: confirm the exact date of the talk (CCIR 2022 ran Sept 16-18, 2022, online)
+- title: "Towards Interactive Intelligent Search Assistants"
+  group: talk
+  image: images/placeholder.svg  # replace with images/talk/<name>.jpg when available
+  authors:
+    - Keping Bi
+  link: /talks/2022CCIR_SearchAssistants.pdf
+  venue: "<b>Talk</b> at the 28th China Conference on Information Retrieval (CCIR 2022)"
+  location: "Online"
+  date: '2022-09-17'
+  extra-links:
+    - type: slides
+      link: /talks/2022CCIR_SearchAssistants.pdf

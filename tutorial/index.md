@@ -1,7 +1,7 @@
 ---
 title: Tutorial
 nav:
-  order: 5
+  order: 4
 ---
 
 # <i class="fas fa-chalkboard-teacher"></i>Tutorials
