@@ -6,13 +6,13 @@
   - Minghao Tang
   - Keping Bi
   - Jiafeng Guo
-  link: https://stay-hungry-time.github.io/
+  link: https://stay-hungry-time.github.io/utility-tutorial/
   venue: "In the 49th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2026)"
   location: "Melbourne | Naarm, Australia"
   date: '2026-07-20'
   extra-links:
-    - type: slides
-      link: https://stay-hungry-time.github.io/utility-tutorial/
+    - type: pdf
+      link: https://drive.google.com/file/d/10Ysqj6ei-yldJK4KVD_xdNdzN8yFg8xw/view?usp=sharing
 
 # - title: "SIGIR'21 - Tutorial on Beyond Probability Ranking Principle: Modeling the Dependencies among Documents"
 #   group: tutorial
