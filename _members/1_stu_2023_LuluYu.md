@@ -1,7 +1,7 @@
 ---
 name: Lulu Yu
 image: images/students/LuluYu.jpg
-description: M.S. at ICT, CAS, 2023‑2026
+description: M.S. at ICT, CAS, 2023‑2026<br>Now at Kuaishou
 role: master
 group: former
 aliases:

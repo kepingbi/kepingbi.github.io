@@ -1,7 +1,7 @@
 ---
 name: Mingkun Zhang
 image: images/students/MingkunZhang.jpeg
-description: Ph.D. at ICT, CAS, 2020-2026
+description: Ph.D. at ICT, CAS, 2020-2026<br>Now at TikTok
 role: phd
 group: former
 aliases:

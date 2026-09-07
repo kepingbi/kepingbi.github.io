@@ -1,7 +1,7 @@
 ---
 name: Shiyu Ni
 image: images/students/ShiyuNi.jpeg
-description: Ph.D. at ICT, CAS, 2023-
+description: Ph.D. at ICT, CAS, 2023-<br>with Prof. Jiafeng Guo
 role: phd
 group: current
 aliases:

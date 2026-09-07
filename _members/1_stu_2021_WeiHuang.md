@@ -1,7 +1,7 @@
 ---
 name: Wei Huang
 image: images/students/boy.png
-description: Ph.D. at ICT, CAS, 2021-
+description: Ph.D. at ICT, CAS, 2021-<br>with Prof. Xueqi Cheng
 role: phd
 group: current
 aliases:

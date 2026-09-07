@@ -1,7 +1,7 @@
 ---
 name: Yinqiong Cai
 image: images/students/YinqiongCai.jpeg
-description: Ph.D. at ICT, CAS, 2018-2024
+description: Ph.D. at ICT, CAS, 2018-2024<br>Now at Baidu
 group: former
 role: phd
 aliases:
