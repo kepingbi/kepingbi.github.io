@@ -11,8 +11,8 @@
   location: "Melbourne | Naarm, Australia"
   date: '2026-07-20'
   extra-links:
-    - type: pdf
-      link: https://drive.google.com/file/d/10Ysqj6ei-yldJK4KVD_xdNdzN8yFg8xw/view?usp=sharing
+    - type: slides
+      link: https://drive.google.com/file/d/1O0Tbh50RT1yZV5TshknD3iOh1d04-45k/view?usp=sharing
 
 # - title: "SIGIR'21 - Tutorial on Beyond Probability Ranking Principle: Modeling the Dependencies among Documents"
 #   group: tutorial

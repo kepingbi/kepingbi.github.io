@@ -132,7 +132,7 @@ preprint:
   link: $LINK
 
 slides:
-  icon: far fa-presentation
+  icon: fas fa-file-powerpoint
   text: Slides
   tooltip: PDF Slides
   link: $LINK
