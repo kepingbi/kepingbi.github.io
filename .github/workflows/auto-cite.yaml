@@ -1,17 +1,20 @@
 name: Auto Cite
 
+# Manual dispatch only: DBLP lags far behind actual acceptance dates, so
+# _data/citations.yaml is maintained by hand. Any automatic run would
+# force-overwrite those manual corrections.
 on:
-  push:
-    branches:
-      - main
-    paths:
-      - "_data/sources.yaml"
-      - "_data/orcid.yaml"
-  pull_request:
-    paths:
-      - "_data/sources.yaml"
-      - "_data/orcid.yaml"
-  # workflow_dispatch:
+  workflow_dispatch:
+  # push:
+  #   branches:
+  #     - main
+  #   paths:
+  #     - "_data/sources.yaml"
+  #     - "_data/orcid.yaml"
+  # pull_request:
+  #   paths:
+  #     - "_data/sources.yaml"
+  #     - "_data/orcid.yaml"
   # schedule:
   #   - cron: "0 0 * * 1"
 

@@ -40,6 +40,28 @@
   {%- endif -%}
 {%- endif -%}
 
+{%- comment -%}
+  Keep papers from the same venue side by side within a year. Venues are keyed on
+  the first word of the abbreviation, so e.g. ACL sits next to ACL Findings and
+  SIGIR next to its tutorial/workshop papers. Groups appear in the order their
+  first paper would otherwise have appeared.
+{%- endcomment -%}
+{%- if include.group_by_venue == "true" -%}
+  {%- assign venue_groups = items | group_by_exp: "d", "d.abbr | split: ' ' | first" -%}
+  {%- assign grouped_items = emptyarray -%}
+  {%- for venue_group in venue_groups -%}
+    {%- comment -%}
+      Within a family, keep each exact track together too, so main-conference
+      papers are not split up by a Findings or short paper.
+    {%- endcomment -%}
+    {%- assign track_groups = venue_group.items | group_by: "abbr" -%}
+    {%- for track_group in track_groups -%}
+      {%- assign grouped_items = grouped_items | concat: track_group.items -%}
+    {%- endfor -%}
+  {%- endfor -%}
+  {%- assign items = grouped_items -%}
+{%- endif -%}
+
 {%- for d in items -%}
 
   {%- assign link = d.link | default: d.url -%}
@@ -47,6 +69,7 @@
 
   {%-
     include {{ component }}
+    abbr=d.abbr
     author=d.author
     authors=d.authors
     people=d.people

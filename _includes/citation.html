@@ -19,21 +19,26 @@
   {%- assign rich = true -%}
 {%- endif -%}
 
-{%- assign placeholder = "images/citation.svg" | relative_url -%}
 <div class="citation" data-style="{{ include.style }}">
   {%- assign id = citation.id | default: "" -%}
   {%- assign link = citation.link -%}
-  {%- assign image = citation.image | default: "" -%}
   {%- if rich -%}
-    <div class="citation_image">
-      <a href="{{ link }}">
-        <img
-          src="{{ image | relative_url }}"
-          onerror="this.src = '{{ placeholder }}'; this.onerror = null;"
-          loading="lazy"
-          alt="Citation thumbnail"
-        >
-      </a>
+    {%- assign abbr = citation.abbr | default: "" -%}
+    {%- assign venue_key = abbr | split: " " | first | default: "" -%}
+    {%- assign nlp_venues = "ACL,EMNLP,EACL,NAACL,COLING,ICLR,NeurIPS,ICML,AAAI,Eval4NLP" | split: "," -%}
+    {%- assign journals = "TOIS,TKDE,IPM,TKDD,JASIST" | split: "," -%}
+    {%- assign kind = "ir" -%}
+    {%- if abbr == "arXiv" -%}
+      {%- assign kind = "preprint" -%}
+    {%- elsif journals contains venue_key -%}
+      {%- assign kind = "journal" -%}
+    {%- elsif nlp_venues contains venue_key -%}
+      {%- assign kind = "nlp" -%}
+    {%- endif -%}
+    <div class="citation_abbr" data-kind="{{ kind }}">
+      {%- if abbr != "" -%}
+        <a href="{{ link }}">{{ abbr }}</a>
+      {%- endif -%}
     </div>
   {%- endif -%}
 

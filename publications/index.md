@@ -10,7 +10,7 @@ nav:
 
 {% include search-info.html %}
 
-{% include list.html data="citations" component="citation" sort_by_date="false" style="rich" %}
+{% include list.html data="citations" component="citation" sort_by_date="false" group_by_venue="true" style="rich" %}
 
 
 {% include section.html %}

@@ -1,7 +1,10 @@
-# DO NOT EDIT, GENERATED AUTOMATICALLY FROM DBLP.
+# MAINTAINED BY HAND. DBLP auto-generation is disabled (both auto-cite workflows
+# are manual-dispatch only) because DBLP lags far behind acceptance dates.
+# Add new papers directly here; do not run the crawler, it force-overwrites this file.
 
 - title: 'Compressing then Matching: An Efficient Pre-training Paradigm for Multimodal
     Embedding'
+  abbr: ACL
   authors:
   - Da Li
   - Yuxiao Luo
@@ -20,6 +23,7 @@
   link: https://aclanthology.org/2026.acl-long.169/
 - title: An Iterative Utility Judgment Framework Inspired by Philosophical Relevance
     via LLMs
+  abbr: ACL Findings
   authors:
   - Hengran Zhang
   - Keping Bi
@@ -30,6 +34,7 @@
   date: '2026-12-29'
   link: https://aclanthology.org/2026.findings-acl.1579/
 - title: How Long Reasoning Chains Influence LLMs' Judgment of Answer Factuality
+  abbr: ACL
   authors:
   - Minzhu Tu
   - Shiyu Ni
@@ -41,6 +46,7 @@
   link: https://aclanthology.org/2026.acl-long.2082/
 - title: Reconstructing Content with Collaborative Attention for Universal Multimodal
     Representation Learning
+  abbr: SIGIR
   authors:
   - Jiahan Chen
   - Da Li
@@ -57,6 +63,7 @@
   date: '2026-12-27'
   link: https://doi.org/10.1145/3805712.3809695
 - title: Attention Grounded Enhancement for Visual Document Retrieval
+  abbr: SIGIR
   authors:
   - Wanqing Cui
   - Wei Huang
@@ -71,6 +78,7 @@
   date: '2026-12-26'
   link: https://doi.org/10.1145/3805712.3809532
 - title: 'Beyond Relevance: Utility-Centric Retrieval in the LLM Era'
+  abbr: SIGIR Tutorial
   authors:
   - Hengran Zhang
   - Minghao Tang
@@ -82,6 +90,7 @@
   date: '2026-12-25'
   link: https://doi.org/10.1145/3805712.3808641
 - title: How Do LLM-Generated Texts Impact Term-Based Retrieval Models?
+  abbr: WSDM
   authors:
   - Wei Huang
   - Keping Bi
@@ -94,6 +103,7 @@
   date: '2026-12-30'
   link: https://doi.org/10.1145/3773966.3777988
 - title: Bagging-Based Model Merging for Robust General Text Embeddings
+  abbr: arXiv
   authors:
   - Hengran Zhang
   - Keping Bi
@@ -107,6 +117,7 @@
   link: https://doi.org/10.48550/arXiv.2602.05787
 - title: Evaluating and Calibrating LLM Confidence on Questions with Multiple Correct
     Answers
+  abbr: arXiv
   authors:
   - Yuhan Wang
   - Shiyu Ni
@@ -118,6 +129,7 @@
   date: 2026-2-28
   link: https://doi.org/10.48550/arXiv.2602.07842
 - title: Training Dense Retrievers with Multiple Positive Passages
+  abbr: KDD
   authors:
   - Benben Wang
   - Minghao Tang
@@ -130,6 +142,7 @@
   link: https://doi.org/10.48550/arXiv.2602.12727
 - title: 'AuthorityBench: Benchmarking LLM Authority Perception for Reliable Retrieval-Augmented
     Generation'
+  abbr: arXiv
   authors:
   - Zhihui Yao
   - Hengran Zhang
@@ -137,7 +150,9 @@
   publisher: CoRR
   date: 2026-3-26
   link: https://doi.org/10.48550/arXiv.2603.25092
-- title: 'Data, Not Model: Explaining Bias toward LLM Texts in Neural Retrievers'
+- title: Relevance Supervision Can Teach Neural Retrievers to Prefer LLM-Generated
+    Text
+  abbr: EMNLP Findings
   authors:
   - Wei Huang
   - Keping Bi
@@ -150,6 +165,7 @@
   date: 2026-4-25
   link: https://doi.org/10.48550/arXiv.2604.06163
 - title: Can LLM Rerankers Predict Their Own Ranking Performance?
+  abbr: arXiv
   authors:
   - Shiyu Ni
   - Keping Bi
@@ -161,6 +177,7 @@
   date: 2026-6-18
   link: https://doi.org/10.48550/arXiv.2606.03535
 - title: 'GSM-EL: A Generalizable Symbol-Manipulation Approach for Entity Linking'
+  abbr: TKDE
   authors:
   - Xueqi Cheng
   - Yuanzheng Wang
@@ -173,6 +190,7 @@
   link: https://doi.org/10.1109/TKDE.2024.3523399
 - title: 'CAME: Competitively Learning a Mixture-of-Experts Model for First-stage
     Retrieval'
+  abbr: TOIS
   authors:
   - Jiafeng Guo
   - Yinqiong Cai
@@ -186,6 +204,7 @@
   link: https://doi.org/10.1145/3678880
 - title: Evaluating Implicit Bias in Large Language Models by Attacking From a Psychometric
     Perspective
+  abbr: ACL Findings
   authors:
   - Yuchen Wen
   - Keping Bi
@@ -198,6 +217,7 @@
   link: https://aclanthology.org/2025.findings-acl.263/
 - title: Towards Fully Exploiting LLM Internal States to Enhance Knowledge Boundary
     Perception
+  abbr: ACL
   authors:
   - Shiyu Ni
   - Keping Bi
@@ -211,6 +231,7 @@
   date: '2025-12-29'
   link: https://aclanthology.org/2025.acl-long.1184/
 - title: A Comparative Study of Specialized LLMs as Dense Retrievers
+  abbr: CCIR
   authors:
   - Hengran Zhang
   - Keping Bi
@@ -220,6 +241,7 @@
   date: '2025-12-30'
   link: https://doi.org/10.1007/978-981-95-5637-3_4
 - title: Bridging Queries and Tables through Entities in Open-Domain Table Retrieval
+  abbr: CIKM
   authors:
   - Da Li
   - Keping Bi
@@ -230,6 +252,7 @@
   date: '2025-12-30'
   link: https://doi.org/10.1145/3746252.3761002
 - title: Utility-Focused LLM Annotation for Retrieval and Retrieval-Augmented Generation
+  abbr: EMNLP
   authors:
   - Hengran Zhang
   - Minghao Tang
@@ -245,6 +268,7 @@
   link: https://doi.org/10.18653/v1/2025.emnlp-main.88
 - title: Do LVLMs Know What They Know? A Systematic Study of Knowledge Boundary Perception
     in LVLMs
+  abbr: EMNLP Findings
   authors:
   - Zhikai Ding
   - Shiyu Ni
@@ -254,6 +278,7 @@
   date: 2025-3-25
   link: https://aclanthology.org/2025.findings-emnlp.1081/
 - title: Tailoring Table Retrieval from a Field-aware Hybrid Matching Perspective
+  abbr: EMNLP
   authors:
   - Da Li
   - Keping Bi
@@ -265,6 +290,7 @@
   link: https://doi.org/10.18653/v1/2025.emnlp-main.1409
 - title: 'CLIPure: Purification in Latent Space via CLIP for Adversarially Robust
     Zero-Shot Classification'
+  abbr: ICLR
   authors:
   - Mingkun Zhang
   - Keping Bi
@@ -276,6 +302,7 @@
   date: '2025-12-30'
   link: https://openreview.net/forum?id=TQ2ZOy6miT
 - title: LifeIR at the NTCIR-18 Lifelog-6 Task
+  abbr: NTCIR
   authors:
   - Jiahan Chen
   - Da Li
@@ -286,6 +313,7 @@
   link: https://doi.org/10.20736/0002002049
 - title: Distilling a Small Utility-Based Passage Selector to Enhance Retrieval-Augmented
     Generation
+  abbr: SIGIR-AP
   authors:
   - Hengran Zhang
   - Keping Bi
@@ -301,6 +329,7 @@
   link: https://doi.org/10.1145/3767695.3769496
 - title: Injecting External Knowledge into the Reasoning Process Enhances Retrieval-Augmented
     Generation
+  abbr: SIGIR-AP
   authors:
   - Minghao Tang
   - Shiyu Ni
@@ -313,6 +342,7 @@
   link: https://doi.org/10.1145/3767695.3769515
 - title: 'Unbiased Learning to Rank with Query-Level Click Propensity Estimation:
     Beyond Pointwise Observation and Relevance'
+  abbr: WWW Short
   authors:
   - Lulu Yu
   - Keping Bi
@@ -325,6 +355,7 @@
   date: 2025-3-29
   link: https://doi.org/10.1145/3701716.3715458
 - title: Estimating Commonsense Plausibility through Semantic Shifts
+  abbr: arXiv
   authors:
   - Wanqing Cui
   - Keping Bi
@@ -334,6 +365,7 @@
   date: 2025-2-27
   link: https://doi.org/10.48550/arXiv.2502.13464
 - title: Unleashing the Power of LLMs in Dense Retrieval with Query Likelihood Modeling
+  abbr: CIKM Short
   authors:
   - Hengran Zhang
   - Keping Bi
@@ -348,7 +380,9 @@
     2026
   date: 2026-4-24
   link: https://doi.org/10.48550/arXiv.2504.05216
-- title: How Knowledge Popularity Influences and Enhances LLM Knowledge Boundary Perception
+- title: 'Popular but Wrong: Understanding and Mitigating LLM Overconfidence through
+    Knowledge Popularity'
+  abbr: EMNLP
   authors:
   - Shiyu Ni
   - Keping Bi
@@ -359,6 +393,7 @@
   date: 2026-5-21
   link: https://doi.org/10.48550/arXiv.2505.17537
 - title: 'LLM-Specific Utility: A New Perspective for Retrieval-Augmented Generation'
+  abbr: CIKM
   authors:
   - Hengran Zhang
   - Keping Bi
@@ -373,6 +408,7 @@
   link: https://doi.org/10.48550/arXiv.2510.11358
 - title: The Role of Parametric Injection-A Systematic Study of Parametric Retrieval-Augmented
     Generation
+  abbr: arXiv
   authors:
   - Minghao Tang
   - Shiyu Ni
@@ -382,7 +418,22 @@
   publisher: CoRR
   date: '2025-10-17'
   link: https://doi.org/10.48550/arXiv.2510.12668
+- title: 'Beyond Text-Only: Towards Multimodal Table Retrieval in Open-World'
+  abbr: ICLR
+  authors:
+  - Da Li
+  - Keping Bi
+  - Jiafeng Guo
+  - Wei Yuan
+  - Fan Yang
+  - Tingting Gao
+  - Xueqi Cheng
+  publisher: The Fourteenth International Conference on Learning Representations,
+    ICLR 2026, Rio de Janeiro, Brazil, April 23-27, 2026
+  date: '2026-10-16'
+  link: https://openreview.net/forum?id=4QPgqdQmYn
 - title: Annotation-Efficient Honesty Alignment via Confidence Elicitation and Calibration
+  abbr: ICLR
   authors:
   - Shiyu Ni
   - Keping Bi
@@ -396,6 +447,7 @@
   date: '2026-10-16'
   link: https://doi.org/10.48550/arXiv.2510.17509
 - title: Can LLM Annotations Replace User Clicks for Learning to Rank?
+  abbr: CIKM
   authors:
   - Lulu Yu
   - Keping Bi
@@ -409,6 +461,7 @@
   date: '2026-11-15'
   link: https://doi.org/10.48550/arXiv.2511.06635
 - title: 'MORE: Multi-mOdal REtrieval Augmented Generative Commonsense Reasoning'
+  abbr: ACL Findings
   authors:
   - Wanqing Cui
   - Keping Bi
@@ -420,6 +473,7 @@
   link: https://aclanthology.org/2024.findings-acl.69
 - title: When Do LLMs Need Retrieval Augmentation? Mitigating LLMs' Overconfidence
     Helps Retrieval Augmentation
+  abbr: ACL Findings
   authors:
   - Shiyu Ni
   - Keping Bi
@@ -431,6 +485,7 @@
   link: https://aclanthology.org/2024.findings-acl.675
 - title: Are Large Language Models More Honest in Their Probabilistic or Verbalized
     Confidence?
+  abbr: CCIR
   authors:
   - Shiyu Ni
   - Keping Bi
@@ -442,6 +497,7 @@
   link: https://doi.org/10.1007/978-981-96-1710-4_10
 - title: Reproducibility Analysis and Enhancements for Multi-aspect Dense Retriever
     with Aspect Learning
+  abbr: ECIR
   authors:
   - Keping Bi
   - Xiaojie Sun
@@ -453,6 +509,7 @@
   link: https://doi.org/10.1007/978-3-031-56066-8_17
 - title: 'LINKAGE: Listwise Ranking among Varied-Quality References for Non-Factoid
     QA Evaluation via LLMs'
+  abbr: EMNLP Findings
   authors:
   - Sihui Yang
   - Keping Bi
@@ -465,6 +522,7 @@
   link: https://aclanthology.org/2024.findings-emnlp.410
 - title: 'CausalDiff: Causality-Inspired Disentanglement via Diffusion Model for Adversarial
     Defense'
+  abbr: NeurIPS
   authors:
   - Mingkun Zhang
   - Keping Bi
@@ -478,6 +536,7 @@
   date: 2024-3-29
   link: http://papers.nips.cc/paper_files/paper/2024/hash/e1b619a9e241606a23eb21767f16cf81-Abstract-Conference.html
 - title: A Multi-Granularity-Aware Aspect Learning Model for Multi-Aspect Dense Retrieval
+  abbr: WSDM
   authors:
   - Xiaojie Sun
   - Keping Bi
@@ -493,6 +552,7 @@
   link: https://doi.org/10.1145/3616855.3635770
 - title: Contextual Dual Learning Algorithm with Listwise Distillation for Unbiased
     Learning to Rank
+  abbr: arXiv
   authors:
   - Lulu Yu
   - Keping Bi
@@ -503,6 +563,7 @@
   link: https://doi.org/10.48550/arXiv.2408.09817
 - title: 'L2R: Lifelong Learning for First-stage Retrieval with Backward-Compatible
     Representations'
+  abbr: CIKM
   authors:
   - Yinqiong Cai
   - Keping Bi
@@ -516,6 +577,7 @@
   link: https://doi.org/10.1145/3583780.3614947
 - title: Pre-training with Aspect-Content Text Mutual Prediction for Multi-Aspect
     Dense Retrieval
+  abbr: CIKM Short
   authors:
   - Xiaojie Sun
   - Keping Bi
@@ -530,6 +592,7 @@
   date: '2023-12-21'
   link: https://doi.org/10.1145/3583780.3615157
 - title: CIR at the NTCIR-17 ULTRE-2 Task
+  abbr: NTCIR
   authors:
   - Lulu Yu
   - Keping Bi
@@ -540,6 +603,7 @@
   date: 2023-8-14
   link: https://doi.org/10.20736/0002001336
 - title: A Comparative Study of Training Objectives for Clarification Facet Generation
+  abbr: SIGIR-AP
   authors:
   - Shiyu Ni
   - Keping Bi
@@ -552,6 +616,7 @@
   link: https://doi.org/10.1145/3624918.3625332
 - title: Feature-Enhanced Network with Hybrid Debiasing Strategies for Unbiased Learning
     to Rank
+  abbr: WSDM Cup
   authors:
   - Lulu Yu
   - Yiting Wang
@@ -563,6 +628,7 @@
   date: '2023-12-19'
   link: https://doi.org/10.48550/arXiv.2302.07530
 - title: Ensemble Ranking Model with Multiple Pretraining Strategies for Web Search
+  abbr: WSDM Cup
   authors:
   - Xiaojie Sun
   - Lulu Yu
@@ -575,6 +641,7 @@
   link: https://doi.org/10.48550/arXiv.2302.09340
 - title: 'AREDSUM: Adaptive Redundancy-Aware Iterative Sentence Ranking for Extractive
     Document Summarization'
+  abbr: EACL
   authors:
   - Keping Bi
   - Rahul Jha
@@ -587,6 +654,7 @@
   link: https://aclanthology.org/2021.eacl-main.22/
 - title: Asking Clarifying Questions Based on Negative Feedback in Conversational
     Search
+  abbr: ICTIR
   authors:
   - Keping Bi
   - Qingyao Ai
@@ -597,6 +665,7 @@
   link: https://doi.org/10.1145/3471158.3472232
 - title: Learning a Fine-Grained Review-based Transformer Model for Personalized Product
     Search
+  abbr: SIGIR
   authors:
   - Keping Bi
   - Qingyao Ai
@@ -606,6 +675,7 @@
   date: '2021-12-13'
   link: https://doi.org/10.1145/3404835.3462911
 - title: Leveraging User Behavior History for Personalized Email Search
+  abbr: WWW
   authors:
   - Keping Bi
   - Pavel Metrikov
@@ -616,6 +686,7 @@
   date: '2021-12-12'
   link: https://doi.org/10.1145/3442381.3450110
 - title: Explainable Product Search with a Dynamic Relation Embedding Model
+  abbr: TOIS
   authors:
   - Qingyao Ai
   - Yongfeng Zhang
@@ -625,6 +696,7 @@
   date: '2020-12-11'
   link: https://www.wikidata.org/entity/Q102634548
 - title: 'Artemis: A Novel Annotation Methodology for Indicative Single Document Summarization'
+  abbr: Eval4NLP
   authors:
   - Rahul Jha
   - Keping Bi
@@ -638,6 +710,7 @@
   date: '2020-12-10'
   link: https://doi.org/10.18653/v1/2020.eval4nlp-1.8
 - title: A Transformer-based Embedding Model for Personalized Product Search
+  abbr: SIGIR Short
   authors:
   - Keping Bi
   - Qingyao Ai
@@ -648,6 +721,7 @@
   date: 2020-12-9
   link: https://doi.org/10.1145/3397271.3401192
 - title: Conversational Product Search Based on Negative Feedback
+  abbr: CIKM
   authors:
   - Keping Bi
   - Qingyao Ai
@@ -658,6 +732,7 @@
   date: 2019-12-7
   link: https://doi.org/10.1145/3357384.3357939
 - title: A Study of Context Dependencies in Multi-page Product Search
+  abbr: CIKM Short
   authors:
   - Keping Bi
   - Choon Hui Teo
@@ -670,6 +745,7 @@
   link: https://doi.org/10.1145/3357384.3358095
 - title: Iterative Relevance Feedback for Answer Passage Retrieval with Passage-Level
     Semantic Match
+  abbr: ECIR
   authors:
   - Keping Bi
   - Qingyao Ai
@@ -679,6 +755,7 @@
   date: 2019-12-5
   link: https://doi.org/10.1007/978-3-030-15712-8_36
 - title: Leverage Implicit Feedback for Context-aware Product Search
+  abbr: SIGIR eCom
   authors:
   - Keping Bi
   - Choon Hui Teo
@@ -691,6 +768,7 @@
   date: 2019-12-4
   link: https://ceur-ws.org/Vol-2410/paper15.pdf
 - title: Learning a Deep Listwise Context Model for Ranking Refinement
+  abbr: SIGIR
   authors:
   - Qingyao Ai
   - Keping Bi
@@ -701,6 +779,7 @@
   date: 2018-12-3
   link: https://doi.org/10.1145/3209978.3209985
 - title: Unbiased Learning to Rank with Unbiased Propensity Estimation
+  abbr: SIGIR
   authors:
   - Qingyao Ai
   - Keping Bi
@@ -712,6 +791,7 @@
   date: 2018-12-2
   link: https://doi.org/10.1145/3209978.3209986
 - title: Revisiting Iterative Relevance Feedback for Document and Passage Retrieval
+  abbr: SIGIR WCIS
   authors:
   - Keping Bi
   - Qingyao Ai
@@ -723,6 +803,7 @@
   date: '2019-12-3'
   link: http://arxiv.org/abs/1812.05731
 - title: Learning a Hierarchical Embedding Model for Personalized Product Search
+  abbr: SIGIR
   authors:
   - Qingyao Ai
   - Yongfeng Zhang
@@ -735,6 +816,7 @@
   date: '2017-11-31'
   link: https://doi.org/10.1145/3077136.3080813
 - title: Extracting search-focused key n-grams for relevance ranking in web search
+  abbr: WSDM
   authors:
   - Chen Wang
   - Keping Bi

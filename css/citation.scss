@@ -24,6 +24,48 @@
     border: none;
   }
 
+  .citation_abbr {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 120px;
+    min-height: 34px;
+    flex-shrink: 0;
+    padding: 6px 10px;
+    border-radius: $rounded;
+    background: $gray-500;
+    font-weight: $semi-bold;
+    font-size: 0.9rem;
+    text-align: center;
+    line-height: 1.2;
+
+    a {
+      color: white;
+      background: none;
+
+      &:hover {
+        color: white;
+      }
+    }
+
+    // venue families, mirroring the group page's badge colors
+    &[data-kind="ir"] {
+      background: #4e52a6;
+    }
+
+    &[data-kind="nlp"] {
+      background: #f25d27;
+    }
+
+    &[data-kind="journal"] {
+      background: #165dff;
+    }
+
+    &[data-kind="preprint"] {
+      background: #8c8c8c;
+    }
+  }
+
   .citation_image {
     width: 120px;
     height: 120px;
@@ -90,6 +132,11 @@
     .citation_image {
       width: 0px;
       height: 0px;
+    }
+
+    .citation_abbr {
+      width: auto;
+      align-self: flex-start;
     }
 
     .citation_text {
