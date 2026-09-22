@@ -149,11 +149,12 @@
 
 .home-section-title {
   font-family: $sans;
-  font-size: 0.85rem;
+  font-size: 1.15rem;
+  font-weight: $bold;
   text-transform: uppercase;
   letter-spacing: 2px;
-  color: $gray-600;
-  margin: 0 0 12px;
+  color: $gray-800;
+  margin: 0 0 14px;
 }
 
 .home-subtitle {
