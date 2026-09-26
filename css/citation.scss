@@ -109,6 +109,37 @@
       font-weight: $semi-bold;
     }
 
+    .citation_recognition {
+      display: inline-block;
+      max-width: 100%;
+      padding: 5px 10px;
+      border: 1px solid #b8c9e8;
+      border-radius: $rounded;
+      background: #eaf2ff;
+      color: #234a84;
+      font-size: 0.9rem;
+      font-weight: $semi-bold;
+      line-height: 1.4;
+
+      &[data-kind="sac-9"] {
+        border-color: #e8c964;
+        background: #fff1c7;
+        color: #725300;
+      }
+
+      &[data-kind="sac-8"] {
+        border-color: #c3bff0;
+        background: #ecebff;
+        color: #423c8e;
+      }
+
+      &[data-kind="oral"] {
+        border-color: #9ad7c4;
+        background: #ddf5ed;
+        color: #12614e;
+      }
+    }
+
     .tags {
       justify-content: flex-start;
       margin: 0;

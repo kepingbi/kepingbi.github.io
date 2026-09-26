@@ -21,6 +21,8 @@
     July 2-7, 2026'
   date: '2026-12-30'
   link: https://aclanthology.org/2026.acl-long.169/
+  recognition: 'SAC rating: 9 (top 15% of accepted papers; recommended for oral presentation)'
+  recognition_kind: sac-9
 - title: An Iterative Utility Judgment Framework Inspired by Philosophical Relevance
     via LLMs
   abbr: ACL Findings
@@ -44,6 +46,8 @@
     July 2-7, 2026'
   date: '2026-12-28'
   link: https://aclanthology.org/2026.acl-long.2082/
+  recognition: 'SAC rating: 8 (top 50% of accepted papers; recommended for oral presentation)'
+  recognition_kind: sac-8
 - title: Reconstructing Content with Collaborative Attention for Universal Multimodal
     Representation Learning
   abbr: SIGIR
@@ -392,6 +396,8 @@
     Processing, EMNLP 2026, Budapest, Hungary, October 24-29, 2026
   date: 2026-5-21
   link: https://doi.org/10.48550/arXiv.2505.17537
+  recognition: Oral presentation
+  recognition_kind: oral
 - title: 'LLM-Specific Utility: A New Perspective for Retrieval-Augmented Generation'
   abbr: CIKM
   authors:

@@ -67,6 +67,9 @@
     <div class="citation_details">
       {{ publisher }}<!--&nbsp; · &nbsp;{{ date | date: "%d %b %Y" }}-->
     </div>
+    {%- if citation.recognition -%}
+      <div class="citation_recognition" data-kind="{{ citation.recognition_kind | default: 'highlight' | escape }}">{{ citation.recognition | escape }}</div>
+    {%- endif -%}
     {%- if rich -%}
       {%- assign tags = citation.tags | default: emptyarray -%}
       {%- assign repo = citation.repo | default: "" -%}
