@@ -144,6 +144,8 @@
     and Data Mining, KDD 2026, Jeju, Republic of Korea, August 9-13, 2026
   date: 2026-2-27
   link: https://doi.org/10.48550/arXiv.2602.12727
+  recognition: Oral presentation
+  recognition_kind: oral
 - title: 'AuthorityBench: Benchmarking LLM Authority Perception for Reliable Retrieval-Augmented
     Generation'
   abbr: arXiv
@@ -412,6 +414,8 @@
     and Knowledge Management, CIKM 2026, Rome, Italy, November 7-11, 2026
   date: '2026-10-18'
   link: https://doi.org/10.48550/arXiv.2510.11358
+  recognition: Oral presentation
+  recognition_kind: oral
 - title: The Role of Parametric Injection-A Systematic Study of Parametric Retrieval-Augmented
     Generation
   abbr: arXiv
@@ -466,6 +470,8 @@
     and Knowledge Management, CIKM 2026, Rome, Italy, November 7-11, 2026
   date: '2026-11-15'
   link: https://doi.org/10.48550/arXiv.2511.06635
+  recognition: Oral presentation
+  recognition_kind: oral
 - title: 'MORE: Multi-mOdal REtrieval Augmented Generative Commonsense Reasoning'
   abbr: ACL Findings
   authors:
