@@ -79,3 +79,7 @@ plugins:
 
 # jekyll theme
 theme: null
+
+# Local tooling is not part of the published site.
+exclude:
+  - bin

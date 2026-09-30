@@ -3,6 +3,10 @@ source "https://rubygems.org"
 # jekyll
 gem "jekyll"
 gem "webrick", "~> 1.7"
+# Explicit dependencies for libraries removed from Ruby's default gems.
+gem "logger", "~> 1.7"
+gem "csv", "~> 3.3"
+gem "base64", "~> 0.3.0"
 
 # plugins
 group :jekyll_plugins do
@@ -26,4 +30,3 @@ platforms :mingw, :x64_mingw, :mswin, :jruby do
 end
 gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 gem "eventmachine", "1.2.7", git: "git@github.com:eventmachine/eventmachine", tag: "v1.2.7" if Gem.win_platform? # https://github.com/oneclick/rubyinstaller2/issues/96
-
