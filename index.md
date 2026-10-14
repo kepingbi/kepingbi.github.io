@@ -75,6 +75,7 @@ nav:
   <div class="home-section">
     <div class="home-section-title">News</div>
     <ul class="home-list">
+      <li><strong>Oct. 2026</strong>: Congratulations to three students I supervise on receiving the National Scholarship: Ph.D. students <a href="https://shiyunee.github.io/">Shiyu Ni</a> and <a href="{{ '/members/1_stu_2021_DaLi.html' | relative_url }}">Da Li</a>, and master's student <a href="https://scholar.google.com/citations?user=FQuHc8oAAAAJ">Minghao Tang</a>!</li>
       <li><strong>August 2026</strong>: 2 papers accepted to EMNLP 2026 (1 Main, 1 Findings). Congrats to <a href="https://shiyunee.github.io/">Shiyu</a> and Wei! </li>
       <li><strong>August 2026</strong>: 2 long papers and 1 short paper accepted by CIKM 2026. Congrats to <a href="https://hengran.github.io/">Hengran</a> and <a href="https://scholar.google.com/citations?user=nZUT84MAAAAJ">Lulu</a>! </li>
       <li><strong>July 2026</strong>: I gave a tutorial on <a href="https://stay-hungry-time.github.io/utility-tutorial/">Beyond Relevance: Utility-Centric Retrieval in the LLM Era</a> at SIGIR 2026, and the opening talk at <a href="https://sigir-ictir.github.io/ictir2026/">ICTIR 2026</a>. </li>
@@ -89,7 +90,7 @@ nav:
       <li><strong>Dec. 2025</strong>: SIGIR-AP 2025 has successfully concluded in Xi'an, and I summarized the event in this <a href="https://mp.weixin.qq.com/s/vq3A4cxLHKEA0TVX16WX9Q">article</a>.</li>
       <li><strong>Nov. 2025</strong>: I gave a keynote talk in the <a href="https://mmgensr-cikm25.github.io/">International Workshop on Multimodal Generative Search and Recommendation in CIKM 2025</a>. The slides can be found on our group website <a href="https://stay-hungry-time.github.io/resources">Smarter Retrieval for Smarter Generation--When and How to Retrieve for Retrieval-Augmented Generation</a>.</li>
       <li><strong>Oct. 2025</strong>: I will serve as a <a href="https://sigir.org/forum/editorial-policy-and-forum-editors/">SIGIR Forum Co-Editor</a> for a three-year term.</li>
-      <li><strong>Oct. 2025</strong>: 2 students I supervised got national scholarship (<a href="https://hengran.github.io/">Hengran</a> and <a href="https://scholar.google.com/citations?user=nZUT84MAAAAJ">Lulu</a>). Congrats!</li>
+      <li><strong>Oct. 2025</strong>: 2 students I supervise got national scholarship (<a href="https://hengran.github.io/">Hengran</a> and <a href="https://scholar.google.com/citations?user=nZUT84MAAAAJ">Lulu</a>). Congrats!</li>
       <li><strong>Oct. 2025</strong>: 1 paper accepted by WSDM 2026. Congrats to Wei!</li>
       <li><strong>Sep. 2025</strong>: 2 papers accepted by SIGIR-AP 2025. Congrats to <a href="https://hengran.github.io/">Hengran</a> and <a href="https://scholar.google.com/citations?user=FQuHc8oAAAAJ">Minghao</a>!</li>
       <li><strong>Aug. 2025</strong>: 1 paper accepted by CIKM 2025. Congrats to Da!</li>
