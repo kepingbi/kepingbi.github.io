@@ -1,3 +1,62 @@
+- title: "LLM-Specific Utility for Retrieval-Augmented Generation"
+  group: talk
+  image: images/placeholder.svg
+  authors:
+    - Hengran Zhang
+    - Keping Bi
+    - Jiafeng Guo
+    - Jiaming Zhang
+    - Shuaiqiang Wang
+    - Dawei Yin
+    - Xueqi Cheng
+  link: https://doi.org/10.48550/arXiv.2510.11358
+  venue: "<b>Conference Talk</b> in the 35th ACM International Conference on Information and Knowledge Management (CIKM 2026)"
+  location: "Rome, Italy"
+  date: '2026-11-10'
+  extra-links:
+    - type: slides
+      link: /talks/2026CIKM_LLM_Specific_Utility.pdf
+
+- title: "Can LLM Annotations Replace User Clicks for Learning to Rank?"
+  group: talk
+  image: images/placeholder.svg
+  authors:
+    - Lulu Yu
+    - Keping Bi
+    - Jiafeng Guo
+    - Shihao Liu
+    - Shuaiqiang Wang
+    - Dawei Yin
+    - Xueqi Cheng
+  link: https://doi.org/10.48550/arXiv.2511.06635
+  venue: "<b>Conference Talk</b> in the 35th ACM International Conference on Information and Knowledge Management (CIKM 2026)"
+  location: "Rome, Italy"
+  date: '2026-11-11'
+  extra-links:
+    - type: slides
+      link: /talks/2026CIKM_can_llm_annotations_replace_user_clicks.pdf
+
+- title: "Unleashing the Power of LLMs in Dense Retrieval with Query Likelihood Modeling"
+  group: poster
+  image: images/placeholder.svg
+  authors:
+    - Hengran Zhang
+    - Keping Bi
+    - Jiafeng Guo
+    - Xiaojie Sun
+    - Shihao Liu
+    - Daiting Shi
+    - Dawei Yin
+    - Xueqi Cheng
+  link: https://doi.org/10.48550/arXiv.2504.05216
+  venue: "<b>Poster</b> at the 35th ACM International Conference on Information and Knowledge Management (CIKM 2026)"
+  location: "Rome, Italy"
+  date: '2026-11-09'
+  extra-links:
+    - type: pdf
+      text: Poster
+      link: /talks/LLM-QL_Poster_Final.pdf
+
 - title: "Keyword Queries in Agentic Retrieval: A Comparative Analysis of Sparse and General Dense Retrieval"
   group: poster
   image: images/placeholder.svg  # replace with images/talk/<name>.jpg when available
