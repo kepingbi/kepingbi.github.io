@@ -41,6 +41,11 @@ nav:
           <li><a href="https://www.sigir-ap.org/sigir-ap-2023/organizers">SIGIR-AP 2023</a> Registration Chair.</li>
         </ul>
 
+        <h3>Mentoring</h3>
+        <ul>
+          <li><a href="https://cikm2026.diag.uniroma1.it/phd-symposium/">CIKM 2026 PhD Symposium</a> Mentor.</li>
+        </ul>
+
         <h3>Area Chair / Senior Program Committee Member</h3>
         <ul>
           <li>ACM International Conference on Information and Knowledge Management (CIKM), Senior Program Committee (SPC), (long) 2026.</li>
@@ -50,6 +55,7 @@ nav:
 
         <h3>PC Member / Reviewer</h3>
         <ul>
+          <li>ACM International Conference on Web Search and Data Mining (WSDM), (long) 2027.</li>
           <li>International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR), (short) 2022, (long&short) 2023, (long) 2025, (long) 2026, (perspective paper) 2026.</li>
           <li>ACL Rolling Review (ARR) 2024 (Feb., June, Oct.), 2025 (Feb., May).</li>
           <li>The International Conference on Learning Representations, 2026.</li>
