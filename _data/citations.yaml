@@ -400,7 +400,7 @@
   link: https://doi.org/10.48550/arXiv.2505.17537
   recognition: Oral presentation
   recognition_kind: oral
-- title: 'LLM-Specific Utility: A New Perspective for Retrieval-Augmented Generation'
+- title: LLM-Specific Utility for Retrieval-Augmented Generation
   abbr: CIKM
   authors:
   - Hengran Zhang
